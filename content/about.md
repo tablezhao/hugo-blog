@@ -6,7 +6,7 @@ series: []
 featured: false
 ---
 ​
-[![Plane](https://www.imgur.la/images/2025/12/15/Plane.md.jpg)](https://www.imgur.la/image/Plane.6JB0gU)
+[![Plane.jpg](https://i.postimg.cc/sgdtdyr4/Plane.jpg)](https://postimg.cc/F7pP3M1Y)
 **既然去哪里都一样，当然要去就去风潮浪尖上**
 
 ### About
