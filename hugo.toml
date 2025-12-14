@@ -1,0 +1,49 @@
+baseURL = 'https://blog.tonyz.one/'
+languageCode = 'zh-cn'
+title = 'This is My Table'
+theme = 'hugo-theme-ladder'
+defaultContentLanguage = "zh-cn"
+homepage = "https://blog.tonyz.one"
+
+[[menu.main]]
+ name = "文章"
+ url = "/blog/"
+ weight = 1
+
+[[menu.main]]
+ name = "归档"
+ url = "/archive/"
+ weight = 2
+
+[[menu.main]]
+ name = "关于"
+ url = "/about/"
+ weight = 3
+
+[params]
+brand = "This is My Table"
+author = "TonyZ"
+authorDescription = "阅读｜思考｜产出｜进步"
+info = "从未停止对未知的探索，尝试分享一些有趣的东西"
+avatarURL = "images/android-chrome-192x192.png"
+darkModeTheme = "data-dark-mode"
+favicon = "images/favicon-16x16.png"
+
+[params.options]
+showDarkMode = true       # 启用深色模式切换功能
+enableImgZooming = true   # 允许图片点击放大查看
+showMetaTags = true       # 显示文章的元标签信息（如发布日期、分类等）
+
+[params.comments.giscus]
+enable = false
+repo = "tablezhao/For-comments"
+repo_id = "R_kgDOQocFIA"
+category = "Announcements"
+category_id = "DIC_kwDOQocFIM4CzxKv"
+mapping = "pathname"
+position = "bottom"
+lang = "zh-CN"
+
+[taxonomies]
+  series = "series"
+  tag = "tags"
