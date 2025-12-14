@@ -1,17 +1,14 @@
 ---
 title: About me
-date: 2025-12-14T22:33:56+08:00
+date: 2013-01-02T22:33:56+08:00
 tags: []
 series: []
-featured: true
+featured: false
 ---
-这是摘要
-​
-<!--more-->
 ​
 [![1934942-1d9b927138f74df4.jpg](https://i.postimg.cc/Hn8qr3JW/1934942-1d9b927138f74df4.jpg)](https://postimg.cc/xNYx7vyB)
-既然去哪里都一样，当然要去就去风潮浪尖上
----
+
+**既然去哪里都一样，当然要去就去风潮浪尖上**
 
 ### About
 
