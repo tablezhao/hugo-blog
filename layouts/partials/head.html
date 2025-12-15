@@ -43,7 +43,7 @@
   {{ range .Site.Params.customCSS }}
     {{ $style := resources.Get . }}
     {{ if $style }}
-      {{ $processedStyle := $style | css.Sass | resources.Minify | resources.Fingerprint }}
+      {{ $processedStyle := $style | toCSS | resources.Minify | resources.Fingerprint }}
       <link rel="stylesheet" href="{{ $processedStyle.RelPermalink }}" integrity="{{ $processedStyle.Data.Integrity }}" />
     {{ end }}
   {{ end }}
