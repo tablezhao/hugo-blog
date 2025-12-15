@@ -1,0 +1,9 @@
+<!-- layouts/partials/vercel-insights.html -->
+{{- if .Site.Params.vercelInsights.enable -}}
+  <!-- Vercel Insights 初始化队列 -->
+  <script>
+    window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+  </script>
+  <!-- 加载核心脚本（defer 异步加载，不阻塞渲染） -->
+  <script defer src="/_vercel/insights/script.js"></script>
+{{- end -}}
