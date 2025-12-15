@@ -6,7 +6,7 @@ series: []
 featured: false
 ---
 ​
-[![Plane](/images/Plane.jpg)](/images/Plane.jpg)
+[![Plane](/images/blog/Plane.jpg)](/images/blog/Plane.jpg)
 
 **既然去哪里都一样，当然要去就去风潮浪尖上**
 

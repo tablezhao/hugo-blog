@@ -38,9 +38,9 @@ brand = "This is My Table"
 author = "TonyZ"
 authorDescription = "阅读｜思考｜产出｜进步"
 info = "从未停止对未知的探索，尝试分享一些有趣的东西"
-avatarURL = "images/android-chrome-192x192.png"
+avatarURL = "images/logo/android-chrome-192x192.png"
 darkModeTheme = "data-dark-mode"
-favicon = "/images/favicon.ico"
+favicon = "/images/logo/favicon.ico"
 customCSS = ["custom.scss"]
 toc = false  # 全局启用目录
 

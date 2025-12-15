@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on This is My Table</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://blog.tonyz.one/blog/</link>
     <description>Recent content in Blogs on This is My Table created by </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 08 Oct 2025 13:50:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Oct 2025 13:50:00 +0800</lastBuildDate><atom:link href="https://blog.tonyz.one/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>假期总结</title>
-      <link>http://localhost:1313/blog/holiday-keynotes/</link>
+      <link>https://blog.tonyz.one/blog/holiday-keynotes/</link>
       <pubDate>Wed, 08 Oct 2025 13:50:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/holiday-keynotes/</guid>
+      <guid>https://blog.tonyz.one/blog/holiday-keynotes/</guid>
       <description>&lt;p&gt;又是很久没有动笔写博客了，这应该是今年写的第三篇博客。今年的国庆假期没有出远门，只是和李咪咪回了趟成都，算是躺平过假期吧。今天是国庆长假最后一天（而我明天继续放假），趁着假期结束的晚上简单记录下这个假期。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;一本书和一部剧&lt;/strong&gt;&lt;/li&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>工作两周年小结</title>
-      <link>http://localhost:1313/blog/2nd-anniversary/</link>
+      <link>https://blog.tonyz.one/blog/2nd-anniversary/</link>
       <pubDate>Thu, 22 May 2025 13:50:15 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/2nd-anniversary/</guid>
+      <guid>https://blog.tonyz.one/blog/2nd-anniversary/</guid>
       <description>&lt;p&gt;今天是我加入这家公司两周年纪念日。&lt;/p&gt;
 &lt;p&gt;与在互联网公司工作不一样，这里的周年纪念日可能除了当事人自己记得外，其他人都不关心。因此我没有收到任何的周年纪念日礼物，也没有在工作OA上收到任何提示，这的确很不互联网。&lt;/p&gt;
 &lt;p&gt;两年前决定离开上一家公司，主要还是因为受不了日益有毒的文化和令人厌烦的同事。具体来说，就是在日常工作之余还要组织卖车的social活动，和各家律所眉来眼去就是为了请律师过来看车、买车。还有同事之间的互相竞争、排挤，让我见识到如果要做管理，就是要面对人性中的恶和丑陋。在快要离开的时候，我甚至怀疑自己都要抑郁了。&lt;/p&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title>失去思考的习惯</title>
-      <link>http://localhost:1313/blog/losing-the-habit-of-thinking/</link>
+      <link>https://blog.tonyz.one/blog/losing-the-habit-of-thinking/</link>
       <pubDate>Wed, 23 Apr 2025 14:11:34 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/losing-the-habit-of-thinking/</guid>
+      <guid>https://blog.tonyz.one/blog/losing-the-habit-of-thinking/</guid>
       <description>&lt;p&gt;我在最近慢慢意识到，我好像失去在工作以外时间思考的习惯。这种失去思考习惯体现在很多方面。比如像现在我想写一篇随笔，用来记录我对这个问题的思考，但我写下来的文字却是杂乱无序的。这和我在工作中去起草一个项目法律意见时的轻松、准确形成了鲜明的对比。&lt;/p&gt;
 &lt;p&gt;在失去思考的习惯的同时，我养成了下班之后就刷视频、手机的习惯。从刷视频、手机的行为来看，去做这些事情无需进行思考，只需要被动的输入，或者感官接受画面变化的刺激。久而久之，我回到家坐在电视前、电脑前，就只会条件反射式的、毫无目的的打开一个又一个网页，然后把他们都关上，直到快要睡觉的时间到了为止。&lt;/p&gt;
 &lt;p&gt;我意识到失去或者养成这样的习惯是非常可怕的。尤其是我最近在读同龄人写的一些微信文章时，这样的体会更是深刻。读到这些同龄人写的文章，我觉得写的很生动。尤其是几篇关于案件当事人的文章，短短的内容却道出了人间苦辣辛酸。我恐怕已经失去了这样写作的能力。&lt;/p&gt;
@@ -69,10 +69,10 @@
     
     <item>
       <title>数据合规新闻三则</title>
-      <link>http://localhost:1313/blog/shu-ju-he-gui-xin-wen-san-ze/</link>
+      <link>https://blog.tonyz.one/blog/shu-ju-he-gui-xin-wen-san-ze/</link>
       <pubDate>Wed, 07 Aug 2024 15:50:35 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/shu-ju-he-gui-xin-wen-san-ze/</guid>
+      <guid>https://blog.tonyz.one/blog/shu-ju-he-gui-xin-wen-san-ze/</guid>
       <description>&lt;p&gt;今日注意到三则和数据合规有关的新闻：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;《互联网平台停服数据处理安全要求》&lt;/li&gt;
@@ -95,10 +95,10 @@
     
     <item>
       <title>一年的一半又过去了</title>
-      <link>http://localhost:1313/blog/yi-nian-de-yi-ban-you-guo-qu-liao/</link>
+      <link>https://blog.tonyz.one/blog/yi-nian-de-yi-ban-you-guo-qu-liao/</link>
       <pubDate>Sun, 30 Jun 2024 11:39:14 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/yi-nian-de-yi-ban-you-guo-qu-liao/</guid>
+      <guid>https://blog.tonyz.one/blog/yi-nian-de-yi-ban-you-guo-qu-liao/</guid>
       <description>&lt;p&gt;今天是6月30日，明天就是下半年的开始了。&lt;/p&gt;
 &lt;p&gt;时间过得飞快，仿佛我刚刚搬到上海，转眼间已经接近三年。在深圳的日子已经逐渐模糊，而眼前的日子则过得越来越快，仿佛一瞬间就翻过一页，时间真的过得好快。&lt;/p&gt;
 &lt;p&gt;我不禁思考，是不是因为我们的生活节奏太快，才让时间过得如此之快。我们总是匆匆忙忙地奔波于工作和生活之间，很少有时间停下来，真正地感受周围的世界。或许，这就是为什么我觉得时间过得越来越快的原因吧。我感叹，时间真是一个神奇的东西，它可以让过去变得模糊不清，也可以让未来变得触手可及。&lt;/p&gt;
@@ -111,10 +111,10 @@
     
     <item>
       <title>律师和法务</title>
-      <link>http://localhost:1313/blog/lu-shi-he-fa-wu/</link>
+      <link>https://blog.tonyz.one/blog/lu-shi-he-fa-wu/</link>
       <pubDate>Sat, 13 Apr 2024 15:19:08 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/lu-shi-he-fa-wu/</guid>
+      <guid>https://blog.tonyz.one/blog/lu-shi-he-fa-wu/</guid>
       <description>&lt;p&gt;刚刚在听播客聊红圈所最近降薪、裁员风波，几位嘉宾从红圈所的历史开始讲，讲为什么红圈所的模式可能在现在和将来是不可持续的。其中提到一点，说红圈所最早是建立在早期律师主要服务外企客户，外企客户的付费模式与国外相同，即计时付费为主，所以红圈所才有较多的原始资本积累下来，逐步发展到今天的规模。&lt;/p&gt;
 &lt;p&gt;基于上面的逻辑，嘉宾们认为随着现在经济形势的变化，许多外企客户处于收缩、撤离状态，而国内客户并不接受计时付费的收费逻辑，因此红圈所赖以生存的盈利逻辑受到了挑战，随之而来的就是近期不断传来的红圈所降薪、裁员的传闻。&lt;/p&gt;
 &lt;p&gt;同时，嘉宾们还认为红圈所早期基本上以非诉业务起家，诉讼业务多是配套非诉业务提供给客户，很多红圈所的诉讼业务在其内部属于边缘业务。这点是让我比较惊讶的一点，可能之前我较少关注到这一点，但仔细想一下，确实好像有些道理，几家红圈所中好像确实没有一家是诉讼而闻名的。&lt;/p&gt;
@@ -127,10 +127,10 @@
     
     <item>
       <title>新的一年</title>
-      <link>http://localhost:1313/blog/new-year/</link>
+      <link>https://blog.tonyz.one/blog/new-year/</link>
       <pubDate>Sun, 17 Mar 2024 13:10:27 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/new-year/</guid>
+      <guid>https://blog.tonyz.one/blog/new-year/</guid>
       <description>&lt;p&gt;最近几个周末一直在外奔波，上周回的成都，这周回的南通，下周要去宁波，一直没有时间坐在书桌前写一写最近的一些新感悟。趁着今晚回来比较早，就随便写一点吧。&lt;/p&gt;
 &lt;p&gt;前几天的时候，是我多邻国打卡一周年的时间点。又达成了坚持一年的事情，可能除了运动以外的事情，让我多坚持一点时间还是比较容易的。去年的这个时间点为什么会去学多邻国呢？原因很简单，就是想去一个比较稳定点的工作环境，比如说外企。那么外企就需要英文好一点，否则很难进去，即使进去了也会很痛苦。基于以上路径依赖，我开始用多邻国。&lt;/p&gt;
 &lt;p&gt;要说这一年时间过去，我的英文水平有多少提升，我觉得可能多邻国并没有让我有什么显著的提升。讲实话，多邻国的内容很简单，无非是通过打卡机制、通关机制，让人养成每天坚持听英语、写英语的习惯。这一年过去了，我对说英语这件事确实是更自信了。但我说不好是因为现在的工作环境是英文的，还是坚持用多邻国的原因。&lt;/p&gt;
@@ -144,10 +144,10 @@
     
     <item>
       <title>最近的人生目标是什么？</title>
-      <link>http://localhost:1313/blog/the-rencent-target/</link>
+      <link>https://blog.tonyz.one/blog/the-rencent-target/</link>
       <pubDate>Thu, 21 Dec 2023 15:58:59 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/the-rencent-target/</guid>
+      <guid>https://blog.tonyz.one/blog/the-rencent-target/</guid>
       <description>&lt;p&gt;最近时常感到迷茫，或者说好久一段时间都觉得有些迷茫，不知道最近的人生目标是什么。这个问题已经困扰我一段时间了，直到现在我也还没想清楚这个问题。我在想，是不是人到了一定的阶段都会遇到这样的一个问题，然后过了一段时间之后就能够想清楚了，而不需要特别的思考或者特别的困扰。&lt;/p&gt;
 &lt;p&gt;其实有时候在想，我是不是追求的东西太多了，或者说鱼和熊掌不可兼得这件事我应该好好去体会和琢磨一下。目前的生活，基本上满足了我对于自己时间的要求，但在这种生活中我也没有得到内心的宁静，更没有利用自己的时间做一些相对值得称赞的事情。对比以前每天忙的脚不着地的日子，应该要满足现在的生活。&lt;/p&gt;
 &lt;p&gt;如果说要做出一些成绩来，其实就不应当满足于现在的生活，或者更不应当觉得以前忙碌的生活是不必要的。没有人可以随便成功，同样来说，没有人不付出时间、精力等等所必需的东西，就可以获得世俗意义上的成功。这是我观察到的，也是我认同的，但就目前的我来说，可能我并不知道自己能否做到。&lt;/p&gt;
@@ -158,10 +158,10 @@
     
     <item>
       <title>关于租房的一些回忆</title>
-      <link>http://localhost:1313/blog/memory-of-renting/</link>
+      <link>https://blog.tonyz.one/blog/memory-of-renting/</link>
       <pubDate>Sat, 02 Dec 2023 14:32:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/memory-of-renting/</guid>
+      <guid>https://blog.tonyz.one/blog/memory-of-renting/</guid>
       <description>&lt;p&gt;最近有好几次和朋友聊天的时候聊到租房还是买房的问题，基于当前房价的不稳定，觉得还是继续租房住比较好。但这也让我想起了关于租房的一些回忆，尤其是对比现在住的房子，感觉差别还是很大的。&lt;/p&gt;
 &lt;p&gt;我其实在上大学之前没有在家以外的地方住过，直到上大学才开始住宿舍，也就是第一次自己在外面生活。直到大四实习的时候才第一次租房。我还记得第一次租房是在冬天的北京，小区的名字好像是叫北京像素，位于6号线草房地铁站。第一次租房的记忆还是比较深的，我还记得这个房子由于是短租，实际上是从二房东那里转租过来的，当时好像用的还是豆瓣还是什么社区软件，反正那会儿也没有什么比较完善的租房软件或者平台。这个房子是三户合租，楼下一户独享一个大的房间，似乎里面还有厨房，而楼下是我和另一个租客。总之，第一次租房的体验还行，但我也没有想过从此开始就要一直在外租房生活了。&lt;/p&gt;
 &lt;p&gt;往后的日子里，就像网站简介里写的那样，我在南京、波士顿、上海、深圳住过，后来又回到北京住了一段时间，而现在搬到了上海。每一段租房的经历都让我觉得印象深刻，比如在南京的时候，我住在一个三户室的小房间，每次晾衣服都要穿过主卧才能进到阳台。南京的这个房子本身就是老破小了，我住的则是老破小里的最小的房间，每每实习下班回来，就只有躺在床上发呆。除此之外，南京的这个房子附近有个兰州拉面，在那段日子里基本上就成了我的食堂，牛肉拉面和兰州炒饭每天换着点，基本上持续到我离开南京。&lt;/p&gt;
@@ -175,10 +175,10 @@
     
     <item>
       <title>闲言碎语话——规范和促进数据跨境流动规定（征求意见稿）</title>
-      <link>http://localhost:1313/blog/the-regulations-about-cbdt/</link>
+      <link>https://blog.tonyz.one/blog/the-regulations-about-cbdt/</link>
       <pubDate>Thu, 28 Sep 2023 14:25:09 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/the-regulations-about-cbdt/</guid>
+      <guid>https://blog.tonyz.one/blog/the-regulations-about-cbdt/</guid>
       <description>&lt;p&gt;今天临近下班时发现CAC在节前给数据合规律师发了大礼包，仔细一看这个大礼包对今年特别热的数据出境合规工作可能会产生很大的影响，于是在第一时间研读起来，感觉有不少规定很有意思，想简单地讲几句。&lt;/p&gt;
 &lt;p&gt;一、国际贸易、学术合作、跨国生产制造和市场营销等活动中产生的数据出境，不包含个人信息或者重要数据的，不需要申报数据出境安全评估、订立个人信息出境标准合同、通过个人信息保护认证。&lt;/p&gt;
 &lt;p&gt;Tony：这点基本上就是废话，之前数据出境合规工作主要也是关注的是个人信息和重要数据，如果只是单纯的业务相关数据不会考虑开展数据出境安全评估。&lt;/p&gt;
@@ -213,10 +213,10 @@
     
     <item>
       <title>开学 &amp; 大学生活</title>
-      <link>http://localhost:1313/blog/university-life/</link>
+      <link>https://blog.tonyz.one/blog/university-life/</link>
       <pubDate>Mon, 21 Aug 2023 12:53:12 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/university-life/</guid>
+      <guid>https://blog.tonyz.one/blog/university-life/</guid>
       <description>&lt;p&gt;周末在厨房洗碗的时候，看到对面小区有不少人拖着、背着大小包从小区门口再往小区里走。再仔细一看，对面小区里飘起了紫色的旗，想到对面小区有一部分是上纽的宿舍，我豁然开朗，原来是大学要开学了。时间过得可真快啊，大大小小的学生们最喜爱的暑假就快要结束了。&lt;/p&gt;
 &lt;p&gt;其实关于上纽，我还是有一些回忆的。上纽，也就是上海纽约大学，或者NYU Shanghai，第一年招生应该就是在我高考的那一年。当时上纽招生需要先由高中学校推荐，再通过参加高考，按分数来择优录取。我当时知道国内有一些合作办学的学校，比如西郊利物浦、上海纽约大学，我还是挺想去这种学校上学的，毕竟当时的我觉得国内的教育环境实在是不合适我，我也对应试教育无穷无尽的考试、作业失去了兴趣。然而，我不知道什么原因，当时我们的班主任并没有把这个推荐名额给到我，所以不管怎么样，我都去不了这个学校。直到今天我想起这件事，还是觉得很遗憾。但这些合作办学的学校其实都没有Law School，如果我当年有机会去了这个大学，可能今天的我就不会从事现在这个行业。&lt;/p&gt;
 &lt;p&gt;除开我自己对于上纽的这些回忆，我看到楼下的这些小朋友们脸上都有灿烂的笑容，都怀揣着对大学生活的期待，都看不到郁郁寡欢或烦恼的样子。我不禁感叹，年轻可真好啊！十年以前，我大概也是这样走入大学校园的，但当时的我也有很多不甘心，更有很多的想法和目标，希望自己可以快点上完大学、出国读研。大学时的一些目标，现在的我已经实现，但还有一些梦想，可能还有很大的距离。工作的越久，就越觉得很多事情并不是事在人为。职场也好、社会也好，都有自己的逻辑和规矩，我们不太可能凭着一己之力改变太多。&lt;/p&gt;
@@ -226,10 +226,10 @@
     
     <item>
       <title>生活新知</title>
-      <link>http://localhost:1313/blog/new-knowledges-about-life/</link>
+      <link>https://blog.tonyz.one/blog/new-knowledges-about-life/</link>
       <pubDate>Sun, 23 Jul 2023 14:25:55 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/new-knowledges-about-life/</guid>
+      <guid>https://blog.tonyz.one/blog/new-knowledges-about-life/</guid>
       <description>&lt;p&gt;距离上一次写博客已经过去快一年了，时间过得可真快。这一年的时间我又换了工作、搬了家，但还好还留在上海，生活的一部分发生了变化，而另一部分没有发生变化。今天是周日的晚上，正好有一些时间可以写一写这些变化和近来的一些想法。&lt;/p&gt;
 &lt;p&gt;一年前，我们刚从解封的日子里恢复过来，当初我们开车十几个小时从深圳搬来上海的时候，绝对没有想到过我们会在一个小房子里被关上三个月不能出门。时至今日再去回想当时那段日子，仍然绝对魔幻和现实并存。时代的一粒沙，落在每个人头上都会巨大无比。去年那段时间，我们可谓深刻体会到这句话。但是去年这段时间也不全是沮丧，刚换新工作的开心和对新挑战的积极努力，冲淡了我在那段时间里的焦虑和不安。我相信那段时间的我，是很认真、努力地在经营我的工作，期待和梦想着能够通过这次工作实现我的人生一个阶段的提升。然而，现在的我认识到任何工作都不可能实现这样一个相对复杂的目标。工作只是工作，工作并不是生活的全部，更不是把工作本身做的够好就能够得到在生活中想要的那些东西。&lt;/p&gt;
 &lt;p&gt;此外，就是我刚来上海时候定下来的住处，我到现在还记得我第一次走进那个房子时看到的上一个房客在家工作的样子。那时眼里只觉得这个房子还不错，只要定下来这个房子马上就能开始在上海的新生活了。一年半之后再去看这个房子，觉得这个房子好小、采光好差，我们为什么能够在这里住了一年半。但谁能否认这个房子就是我们来到上海的第一个家呢？所以我们还是很感谢最开始能够有这样的一个地方开始我们在上海的生活，让我们可以稍稍地从前两年的奔波中得到一些喘息。&lt;/p&gt;
@@ -240,10 +240,10 @@
     
     <item>
       <title>疫情与生活</title>
-      <link>http://localhost:1313/blog/covid-and-daily-life/</link>
+      <link>https://blog.tonyz.one/blog/covid-and-daily-life/</link>
       <pubDate>Sat, 20 Aug 2022 14:52:57 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/covid-and-daily-life/</guid>
+      <guid>https://blog.tonyz.one/blog/covid-and-daily-life/</guid>
       <description>&lt;p&gt;离写上一篇已经又过去4个月了，那会儿还因为疫情封控在家，还不知道什么时候能够解放，在那之后1个多月后，我们终于迎来了解禁，重新能走出小区、回到办公室、进入商场。然而直到现在，许多商场也只打开一个通道供人进出，有的商场走进去会发现好多家店铺均已不再开门，这就是封闭三个月的结果，也可以说是后遗症。什么时候才能彻底恢复正常，没人说的清楚，可以想见的是今年的这场疫情的影响会持续很久很久。&lt;/p&gt;
 &lt;p&gt;疫情除了对生活产生影响，肉眼可见的也对工作产生了影响。在这次疫情之前，整个团队洋溢着一种乐观、积极的情绪，就如公司整体的上升的趋势一样。大家都期待着今年的销量的快速增长和股价的不断上升。然而疫情的持续时间超过了很多人的想象，疫情之下整个社会经济生活都受到了非常大的影响，对于工作的小环境也不例外，越来越觉得身边弥漫着焦虑、紧张的情绪。似乎，疫情已经成为了生活的常态了。&lt;/p&gt;
 &lt;p&gt;哎。&lt;/p&gt;
@@ -253,10 +253,10 @@
     
     <item>
       <title>疫情居家的日子</title>
-      <link>http://localhost:1313/blog/days-at-home-under-covid-19/</link>
+      <link>https://blog.tonyz.one/blog/days-at-home-under-covid-19/</link>
       <pubDate>Sun, 03 Apr 2022 09:29:49 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/days-at-home-under-covid-19/</guid>
+      <guid>https://blog.tonyz.one/blog/days-at-home-under-covid-19/</guid>
       <description>&lt;p&gt;从3月13号居家至今，已经快一个月了。除去短暂解封的几天，大多数时间只能在卧室、客厅和厨房之间来回踌躇。因此，在这个时间点上的我是十分想出去呼吸新鲜的空气，感受春天到来的美好，或者是利用假期去一个新城市转悠转悠。但，上面期待的这一切，在居家的这个大背景下，是不可能的。&lt;/p&gt;
 &lt;p&gt;原本以为居家办公会会让效率变高，毕竟在家的环境肯定是比办公室要舒适一些的，但经过这次体验之后，我相信很多人宁愿每天在办公室上班、下班，而不愿意在家无休止地工作。此外，由于居家期间要求足不出户，那么连下楼遛弯的机会都没有，所以工作干累了干烦了的时候都没有一个地方可以放松下。所以理想化的居家办公可能是不存在的吧。&lt;/p&gt;
 &lt;p&gt;除了居家办公带来的焦虑与日俱增，抢菜、囤菜的压力也越来越大了。在这一轮浦东浦西分批封闭之前，我们小区就被封闭过一次，在上一次封闭期间就因为没有及时存储物资感受到了封闭期缺乏物资的压力。所以前段时间解封后，我们就保持着每天出门买一趟菜的习惯，尽可能把冰箱塞满，储备好必须的食物和日用品。随着第二次封闭开始，街上甚至看不到外卖小哥的身影，连我们附近的盒马也关了门，这时候如果真的没有提前囤粮，后果真的是不堪设想。（迄今为止，我们小区还没有发菜）所以有一段时间，每天一醒来脑子里就想着家里还有多少存粮，还需要购买哪些东西，以及我们今天需要消耗多少。抢菜的早期阶段，因为大家还没有这么迫切的需求，超市还都进得去，买得了东西，但愈临近浦西封闭的那几天，无论去哪家超市或者菜场，都排着无穷无尽的队伍，我是不敢再去凑热闹了，这个人群密度和封闭空间，恐怕不发生点什么都很难吧。&lt;/p&gt;
@@ -268,10 +268,10 @@
     
     <item>
       <title>出差</title>
-      <link>http://localhost:1313/blog/business-trip/</link>
+      <link>https://blog.tonyz.one/blog/business-trip/</link>
       <pubDate>Sun, 31 Oct 2021 03:12:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/business-trip/</guid>
+      <guid>https://blog.tonyz.one/blog/business-trip/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://postimg.cc/njFpkN1s&#34;&gt;&lt;img src=&#34;https://i.postimg.cc/RFfhMB6T/Wechat-IMG32918.jpg&#34; alt=&#34;Wechat-IMG32918.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;昨晚收拾行李时在抽屉里发现了八、九张登机牌，大致看了下，基本上都是这半年来深圳机场出发飞北京。一年多以前，我还在HW的时候总想着出差，希望能到处走走，没想到竟是在最近这半年过上了两三周飞一回的日子。&lt;/p&gt;
 &lt;p&gt;想来想去，这半年多的经历就像出了一趟很长的差。总是在收拾行李，总是在别离，又总是在重逢，多像之前每一次出差的经历。只不过这一趟差可真是太长了，长到令人emo了。这段经历让我明白，我其实并不是一个特别喜欢出长差的人，我也不是一个只需要工作就能生活的很好的人。&lt;/p&gt;
@@ -282,10 +282,10 @@
     
     <item>
       <title>迷茫的日子</title>
-      <link>http://localhost:1313/blog/days/</link>
+      <link>https://blog.tonyz.one/blog/days/</link>
       <pubDate>Sat, 25 Sep 2021 07:57:43 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/days/</guid>
+      <guid>https://blog.tonyz.one/blog/days/</guid>
       <description>&lt;p&gt;有些日子没有写博客了，很多次坐在电脑面前，写好了标题却不知道如何继续写下去，反反复复下来也就没有更新。&lt;/p&gt;
 &lt;p&gt;仔细想了想这几个月的生活，好像过得有些糟，有一种渐渐迷失的感觉。想起刚回国那会儿去律所面试，总会被问说之后的职业规划是什么，总说我希望成为一名优秀的律师，有机会的话希望我能够成为一名合伙人。&lt;/p&gt;
 &lt;p&gt;然而，我并没有去律所工作，也没能在我想要工作的城市工作。现在想想，如果当时接了某律所的offer，我会过什么样的生活？是不是挣扎着想要去红圈，或者挣扎着想要涨薪？也许会和现在一样迷茫吧。&lt;/p&gt;
@@ -296,10 +296,10 @@
     
     <item>
       <title>学会迭代自己</title>
-      <link>http://localhost:1313/blog/iteration/</link>
+      <link>https://blog.tonyz.one/blog/iteration/</link>
       <pubDate>Mon, 19 Apr 2021 15:46:50 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/iteration/</guid>
+      <guid>https://blog.tonyz.one/blog/iteration/</guid>
       <description>&lt;p&gt;最近换了一份新工作，认识了很多新同事，接触了很多新业务，但对我来说最重要的是学会了很多新的工作方法，这是我在换这份工作之前没有想到的收获，同时也正是新环境带给我的第一份惊喜吧。&lt;/p&gt;
 &lt;p&gt;举个简单的例子，在菊厂工作的时候我每天要处理非常多的工作事项，很多时候我会在开完一个冗长的会议之后忘记我在会议开始前接到的业务需求，或者搞不清楚我之前理好的分析思路。每当要写汇报材料或者写报奖材料的时候，这种明明知道自己干了很多事情，但实在是说不清楚在什么时间干了什么重要工作，我其实一直很苦恼这个事情，同时也没见到周边同事有什么比较好的工作方法。因此，我给那段时间的自己安了个“不善于总结”的title。&lt;/p&gt;
 &lt;p&gt;开始新工作之后，大家都是面向在线文档办公，按理说天天看啊、写啊各种在线文档，更应该是乱得没有头绪，但我仔细观察了下团队并没有出现这样的问题。我简单思考了下，发现了一个比较好用的工作方法——写周报。&lt;/p&gt;
@@ -313,10 +313,10 @@
     
     <item>
       <title>Last Day</title>
-      <link>http://localhost:1313/blog/last-day/</link>
+      <link>https://blog.tonyz.one/blog/last-day/</link>
       <pubDate>Mon, 01 Mar 2021 03:15:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/last-day/</guid>
+      <guid>https://blog.tonyz.one/blog/last-day/</guid>
       <description>&lt;p&gt;今天是3月第一天，也是Last Day后的第一天。&lt;/p&gt;
 &lt;p&gt;某种意义上来说，这也是我第一次经历Last Day（抛去以前实习结束离开律所不算），不免还是有些伤感的。就像有人和我说，这是我毕业后的第一份工作，应该还是有些情感在里面的，我觉得这个描述还是很准确的。&lt;/p&gt;
 &lt;p&gt;在华为的这一年半时间里，我有过很多体验，也处理了很多让我激动不已的事务，但也体味到了职场所谓的规则和PUA，还算是比较丰富的一段职场经验了。就像我曾经从未想到过我会去华为工作，我也没有想到过我这么快就从这个围城中走了出来，所以说世事难料啊。&lt;/p&gt;
@@ -333,10 +333,10 @@
     
     <item>
       <title>如何思考？</title>
-      <link>http://localhost:1313/blog/how-to-think/</link>
+      <link>https://blog.tonyz.one/blog/how-to-think/</link>
       <pubDate>Sat, 26 Sep 2020 06:28:05 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/how-to-think/</guid>
+      <guid>https://blog.tonyz.one/blog/how-to-think/</guid>
       <description>&lt;p&gt;工作近一年，日常处理的事务越来越多，留给自己思考一下近况的时间越来越少，更别提起笔来写一写总结。我明显感觉到自己思辨能力的下降，更别提系统性论证法律问题的能力，这让我感到恐慌。最近刚买了新的设备，利用午休或者其他间隙，我准备尽可能记录下我的想法和思考，让自己已经快生锈的大脑转起来。&lt;/p&gt;
 &lt;p&gt;回顾最近工作，发现工作中琐碎的事情非常多，常常在处理A问题时收到B问题的咨询，这时候我就开始有些手忙脚乱了。而在我同时处理A、B问题的时候，C问题、D问题、E问题等等各种各样的事情又扑面而来，使我应接不暇。仔细想想，这些各色问题其实都不属于非常难回复的法律问题，而是在商业取舍与合规之间取舍的小问题，但这些问题处理起来也非常烧脑，否则也不会从业务部门传递到法务部门了。就这样，时间过得飞快，一天天、一周周，无暇停下来思考一下、总结一下。&lt;/p&gt;
 &lt;p&gt;然而工作就是工作，领导不会因为我日常处理各种杂事就不需要我梳理工作思路、工作方法以及如何系统处理某个领域的问题，而这些事情让我十分苦手。我常常安慰自己，我只是个新来的，还不够熟悉我接手的业务，所以才不能梳理出漂亮的工作报告。但转念一想，我的同事们很多也是新手，即使原来是身经百战，但现在处理的事情应该也是全新的，他们却能做出很棒的材料，所以我的安慰实际上是我的借口。说到底，还是在工作之余想得太少了，过得有些安稳了，丢失了思考的能力。&lt;/p&gt;
@@ -346,10 +346,10 @@
     
     <item>
       <title>三十前夜</title>
-      <link>http://localhost:1313/blog/san-shi-qian-ye/</link>
+      <link>https://blog.tonyz.one/blog/san-shi-qian-ye/</link>
       <pubDate>Sun, 23 Aug 2020 14:44:22 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/san-shi-qian-ye/</guid>
+      <guid>https://blog.tonyz.one/blog/san-shi-qian-ye/</guid>
       <description>&lt;p&gt;掐指一算，眼看着没几年就要奔三了。如果说十几岁时肆意妄为、二十几岁时常常迷茫，那么三十几岁恐怕就是承压承重的年纪了吧，毕竟大家都说“三十而立”呢。摸了摸头顶日渐稀少的头发，仍想不明白接下来几年该如何走，不禁更加焦虑了几分。&lt;/p&gt;
 &lt;p&gt;前段时间到上海参加了一个法务的峰会，现场来了不少法总和律所合伙人，坐在台下听这些大佬演讲，我在想自己距离站上这样的讲台分享心得还需要多久的时间，恐怕还需要挺久的。再想想在部门例会时，我总是被同事制作的精美的PPT和完善的工作手册震惊，得承认人和人的差距可真是太大了。在和我一样每天应接不暇处理各种法律或非法律事务的同时，我的同事们还有精力总结和归纳工作经验、技巧，还形成了书面化材料，而我可能把时间都花在了睡觉和焦虑上了吧。&lt;/p&gt;
 &lt;p&gt;今天也和几位老朋友聊了现在的状态，能感觉到大家都在很努力地前进，比如说磊哥实现了三年前的小愿望。我想了想我三年前有什么愿望，应该是进一个比较好的律所吧，然而我的这个愿望&amp;hellip;好吧。从这点上来说，我是很羡慕磊哥的。&lt;/p&gt;
@@ -359,10 +359,10 @@
     
     <item>
       <title>初级涉外法务的一些迷思</title>
-      <link>http://localhost:1313/blog/few-questions-about-the-junior-legal-counsel/</link>
+      <link>https://blog.tonyz.one/blog/few-questions-about-the-junior-legal-counsel/</link>
       <pubDate>Sat, 06 Jun 2020 09:15:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/few-questions-about-the-junior-legal-counsel/</guid>
+      <guid>https://blog.tonyz.one/blog/few-questions-about-the-junior-legal-counsel/</guid>
       <description>&lt;p&gt;不知不觉中在团队中已经从最新入职的小朋友，逐渐开始成为单独接手几个部门的接口法务。眼看着收件箱里的邮件越来越多，我对自己所处的位置以及扮演的角色也有了一些新的思考，尤其是该如何做好一名初级涉外法务有了更多的迷思。&lt;/p&gt;
 &lt;p&gt;读书的时候，我想过成为一名涉外律师/法务是什么样的体验，是不是每天都在和世界各地的人打交道，是不是每天要写很多很多英文邮件和文件。我当时对这种生活可以说是既期待，又发怵。期待的是能够在一个很国际化的平台工作，发怵的是深知自己能力还不够。当我加入团队工作了这么久后，我认识到自己的能力确实还不够，还有太多需要补课的地方，这是让我很不安和焦虑的地方。&lt;/p&gt;
 &lt;p&gt;除此之外，我对一名涉外法务能够做什么事情也产生了一些困惑。例如在很多跨国工作中，作为中国本地法律师，我能够解答和出具意见的其实也就只有中国法项下的问题。对于其他法域的问题和工作，我从中起到的更像是一个桥梁的作用，比如我将国内的问题根据中国法的思路整理和输出成需求，将这个需求交给我海外同事，由海外同事根据本地法给出相关意见，在收到海外同事根据本地法给出的意见后，我再把这些意见整理和适配到我们的业务场景中。整个过程，我其实并不会非常深入地了解本地法，或者我对本地法的了解是比较片面的。&lt;/p&gt;
@@ -373,10 +373,10 @@
     
     <item>
       <title>第六个月</title>
-      <link>http://localhost:1313/blog/the-first-half-year/</link>
+      <link>https://blog.tonyz.one/blog/the-first-half-year/</link>
       <pubDate>Sat, 25 Apr 2020 08:35:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/the-first-half-year/</guid>
+      <guid>https://blog.tonyz.one/blog/the-first-half-year/</guid>
       <description>&lt;p&gt;还记得入职第一天，从深圳机场风尘仆仆地赶到入职培训基地办理宿舍入住登记，在拿到房卡的同时领到了我的工牌，开启了我在这家公司的旅途。紧接着就是新员工培训和扑面而来的各项工作，让我一瞬间以为自己已经入职很久，可以Handle各项疑难杂症了，然而&amp;hellip;总会遇到许多法律法规没有明确规定的问题，这时候总感叹如果自己可以经验丰富点多好。&lt;/p&gt;
 &lt;p&gt;进入这里工作之前，外界对这家公司有着各种各样的评价，有好有坏、参差不齐。等到成为这家公司的一员之后，我真正体会到很多评价并不真实，而想要真正了解一家公司、一个团队的最好的方式有且只有深入其中。尤其是和团队伙伴工作了半年之后，我愈加认识到这个团队有自己有趣且可爱的地方，这里的工作强度虽然挺大的，但至少有比较令人满意的回报，而不是仅仅给一个初入职场的年轻人不断画饼。&lt;/p&gt;
 &lt;p&gt;想起去年求职时的艰辛和折腾，现在觉得那段时间的努力和付出还是值得的。大概很多事情都是这样的，天上并不会凭空掉馅饼，即使有也不要期待砸中的那个人是自己，努力搬砖才是正道吧。&lt;/p&gt;
@@ -386,10 +386,10 @@
     
     <item>
       <title>关于成长的思考</title>
-      <link>http://localhost:1313/blog/thoughts-about-growth/</link>
+      <link>https://blog.tonyz.one/blog/thoughts-about-growth/</link>
       <pubDate>Sun, 01 Mar 2020 13:30:49 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/thoughts-about-growth/</guid>
+      <guid>https://blog.tonyz.one/blog/thoughts-about-growth/</guid>
       <description>&lt;p&gt;离上一次坐在电脑前静下心来写一篇日志已经是2个月了，这期间我的生活、这个社会、这个国家、这个世界发生了很多很多事情，比如谁都没有想到2020年的各方面会如此的艰难。我在想如果去年求职季没能成功上岸，想要在今年上岸可能要付出几倍的努力和时间，这也是谁都无法预料到的，想想去年每个人都在大喊2019年是应届生最难的一年，可真是讽刺，原来最难的一年总是在明年。&lt;/p&gt;
 &lt;p&gt;以前还在读书的时候，对读不完的case和写不完paper很头疼，现在上班后发现永远有接不完的业务的咨询、审不完的合同、写不完的法律意见，所以其实每个阶段都有很多很多很tough的事情需要处理，只不过身份不同处理的内容不同而已。这么想想，保持一个好的心态才能让自己keep working。&lt;/p&gt;
 &lt;p&gt;还有一点和读书的时候很像，就是身边永远会存在比自己优秀的人。读书的时候，这些人会考出比自己高很多的分数，上了更好的学校；工作之后，身边的同事能写出更好的法律意见，能在合适的时候输出心得总结，能够cover更多的法律领域，等等。除了让人羡慕以外，也常常让我质疑自己。毕竟要学会承认自己确实天资愚钝并不是件容易的事情。&lt;/p&gt;
@@ -400,10 +400,10 @@
     
     <item>
       <title>列车疾驰</title>
-      <link>http://localhost:1313/blog/a-train-to-new-year/</link>
+      <link>https://blog.tonyz.one/blog/a-train-to-new-year/</link>
       <pubDate>Tue, 31 Dec 2019 04:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/a-train-to-new-year/</guid>
+      <guid>https://blog.tonyz.one/blog/a-train-to-new-year/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://postimg.cc/R3RhcjZZ&#34;&gt;&lt;img src=&#34;https://i.postimg.cc/C1y8V0yk/photo-1542731538-f99c9f100885.jpg&#34; alt=&#34;photo-1542731538-f99c9f100885.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;又是一年岁末，在深圳写这篇略带总结性的小记。在动笔之前翻看了前几年的文章，每一年都在这个时候会写上一两篇，回顾下这一年发生的时候，对来年的生活做一些期待，也是挺不错的。&lt;/p&gt;
 &lt;p&gt;今年是变化很大的一年，无论从哪个方面来说。&lt;/p&gt;
@@ -418,10 +418,10 @@
     
     <item>
       <title>心态与位置</title>
-      <link>http://localhost:1313/blog/attitude-and-position/</link>
+      <link>https://blog.tonyz.one/blog/attitude-and-position/</link>
       <pubDate>Sun, 24 Nov 2019 14:16:25 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/attitude-and-position/</guid>
+      <guid>https://blog.tonyz.one/blog/attitude-and-position/</guid>
       <description>&lt;p&gt;入职接近一个月，经手了一些工作，也有了新的思考。&lt;/p&gt;
 &lt;p&gt;这些思考里面，我觉得最重要的一点是心态的问题。我之前曾经在很多地方实习过，做过诉讼也做过非诉，对于日常工作基本上是有一定了解的。因此来到公司，并没有很多不适应，很快就进入角色，忙碌但有收获。但慢慢的我也发现了问题，例如我有点畏惧和陌生的同事沟通，如果是需要我和陌生同事协调某个重要的事情，尤其是对方职级比我高不少时，我会不太敢去沟通。&lt;/p&gt;
 &lt;p&gt;我思考了下为什么会这样。可能是因为之前都是实习生的身份，对于律师、合伙人，我的意见更多是辅助和参考，而不用我自己出主意、给意见。现在我是公司的一名正式法务，那我的意见和主意就代表这个问题上法务部门的态度和意见。对于具体的工作来说，即使对方职级比我高很多，但因为我们在同一个项目代表着不同部门出具意见，我们其实就是平等的。对于这个项目来说，不会因为对方职级比我高很多就代表他/她的意见更为重要，而我需要做的是摆正心态、拿出专业度，去处理好经手的每一个项目。&lt;/p&gt;
@@ -434,10 +434,10 @@
     
     <item>
       <title>求职小记</title>
-      <link>http://localhost:1313/blog/stories-of-jobs/</link>
+      <link>https://blog.tonyz.one/blog/stories-of-jobs/</link>
       <pubDate>Sun, 03 Nov 2019 08:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/stories-of-jobs/</guid>
+      <guid>https://blog.tonyz.one/blog/stories-of-jobs/</guid>
       <description>&lt;p&gt;从回国至今，已经四月有余，终于收到了合适的offer，不用再在失眠的夜里怀疑自己今年能不能找到一份满意的工作，这种感觉挺好。不过今夜又失眠了，各种各样的情绪在心里反复。趁这个失眠的夜晚，写一写今年求职的经历和感受，博君一乐。&lt;/p&gt;
 &lt;h2 id=&#34;只想去律所阶段&#34;&gt;只想去律所阶段&lt;/h2&gt;
 &lt;p&gt;从大学到研究生，除了在法院就是在律所实习，因为我根本没想过去公司，觉得只有做律师才能体现出我的价值，才能做我想做的事情，所以这个阶段求职的思路就是只投律所。什么红圈所、外资所、精品所，或者大所、名所，能想到的律所我基本上都投了一圈，也收到了一些所的回复，或者是笔试/面试邀请，让我印象比较深刻的是下面一些经历：&lt;/p&gt;
@@ -467,10 +467,10 @@
     
     <item>
       <title>律盐一周年小记</title>
-      <link>http://localhost:1313/blog/one-year-with-lv-yan/</link>
+      <link>https://blog.tonyz.one/blog/one-year-with-lv-yan/</link>
       <pubDate>Fri, 12 Jul 2019 11:53:10 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/one-year-with-lv-yan/</guid>
+      <guid>https://blog.tonyz.one/blog/one-year-with-lv-yan/</guid>
       <description>&lt;p&gt;打开律盐招聘的文件夹，看到我编辑的第一个文件是2018年7月9日，到今天正好已经过去一年了。本来前几天就想写这篇日志，因为手上有不少事情没能坐下来好好去想一想参与到律盐工作中的这一年我经历了什么、体验到了什么以及收获了什么，今天正好在等着坐车回家，还有不少时间可以写点东西。&lt;/p&gt;
 &lt;p&gt;说来我从2016年就开始关注律盐，至今已经三年多了。除了关注律盐公众号，我也很早就加入了律盐的微信群，我的第一份实习也是通过这个实习群找到的，从而认识了在北京的好朋友。直到去年律盐第一次对外招新，我觉得我自己可以试试看能不能加入律盐。很幸运的是，在经历了面试之后我加入了律盐，开始了我作为律盐小编的生活。&lt;/p&gt;
 &lt;p&gt;到今天为止，我已经编辑、推送了85期律盐。假设每一期律盐我花了1.5小时，那一共就是127.5小时，那我已经满足 NY Bar 的 Pro Bono 要求了吧。（笑）因为我并没有在编辑律盐的工作中赚到一分钱。（再笑）但我通过律盐这个集体收获了很多良师益友，比如波波学长、斌哥、熊哥，还有经常被我找出错误的依萍老师和偶尔被我找出错误的寒吨吨和算了不换名字了，当然还有常在我需要临时换班时替我值班的小武和丹丹。与各位相处的这一年真是有趣而又学到了很多。&lt;/p&gt;
@@ -484,10 +484,10 @@
     
     <item>
       <title>JFK Library 初探</title>
-      <link>http://localhost:1313/blog/first-visit-to-jfk-library/</link>
+      <link>https://blog.tonyz.one/blog/first-visit-to-jfk-library/</link>
       <pubDate>Sun, 26 May 2019 00:20:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/first-visit-to-jfk-library/</guid>
+      <guid>https://blog.tonyz.one/blog/first-visit-to-jfk-library/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://postimg.cc/D4VPvvMF&#34;&gt;&lt;img src=&#34;https://i.postimg.cc/J006Qt3y/JFK-Library.jpg&#34; alt=&#34;JFK-Library.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;总统邻居--开山之作&#34;&gt;总统邻居 &amp;amp; 开山之作&lt;/h2&gt;
 &lt;p&gt;我住在波士顿的Brookline，有一天我用 Google Trips 随便看看周边有什么景点时，发现在距离住处两三个街区的地方有个肯尼迪总统故居，难道这就是曾经在历史上因古巴导弹危机而闻名的肯尼迪总统曾经的住处？于是我打开维基百科检索起来，果真发现这位大名鼎鼎的总统确实曾和我住在同一个小镇且仅仅相距几百米。抛开时间来看，我有幸和肯尼迪总统做了一回邻居，这也是驱使我今天访问 JFK Library 的动力之一了。&lt;/p&gt;
@@ -529,10 +529,10 @@
     
     <item>
       <title>并发&amp;目标管理</title>
-      <link>http://localhost:1313/blog/management-of-targets/</link>
+      <link>https://blog.tonyz.one/blog/management-of-targets/</link>
       <pubDate>Wed, 22 May 2019 02:40:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/management-of-targets/</guid>
+      <guid>https://blog.tonyz.one/blog/management-of-targets/</guid>
       <description>&lt;p&gt;刚刚洗澡时，看到了一条某服务器降价的消息，于是就想是不是购入一台用来做PT下载，转念一想做PT下载似乎有些浪费，倒不如用来重新自建一个新网盘。这个念头立马又被之前计划了好久的重新设计和维护尽调导航网站给取代了，想到这里我认为自己应该列一个目标清单，可是列一个目标清单又是我要放在需要完成的事情里的第一件事&amp;hellip;可能在我写完这篇日志的时候，就会忘记我最开始想做什么了。&lt;/p&gt;
 &lt;p&gt;其实这是一个目标管理和并发式工作的问题。仔细想想，我最近一段时间好像把一堆事情糊在了一起，比如NY Bar材料申报、领取成绩单翻译件、改简历、买机票、转租等等，这些事情在我脑子里都是并行的，好像需要一下子全部处理好，这么一想就觉得算了吧、再等等，然而一等就等到了DDL&amp;hellip; 就会一头包了。&lt;/p&gt;
 &lt;p&gt;我以前好像并不是这样的一个人，虽然手上要处理的事情有很多但一定会列一个清单，在尽可能同时多完成的同时尽可能完成好，难不成又读了一年书之后我的这些能力全部丢掉了？那这个书读得有点不值欸（哈哈哈哈哈哈&lt;/p&gt;
@@ -543,10 +543,10 @@
     
     <item>
       <title>持续性学习能力 Again</title>
-      <link>http://localhost:1313/blog/abilities-of-study-again/</link>
+      <link>https://blog.tonyz.one/blog/abilities-of-study-again/</link>
       <pubDate>Mon, 08 Apr 2019 22:08:19 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/abilities-of-study-again/</guid>
+      <guid>https://blog.tonyz.one/blog/abilities-of-study-again/</guid>
       <description>&lt;p&gt;其实这个题目我在&lt;a href=&#34;https://tonyz.one/abilities-of-study/&#34;&gt;17年7月份&lt;/a&gt;写过一次了，那会儿应该是大学毕业之后在图书馆准备“末代司考”，和现在差不多进入了一个极度厌学的阶段，还好那次后来坚持下来了，考过了司考，不然不知道这会儿我会在哪里。&lt;/p&gt;
 &lt;p&gt;那会儿思考了挺多，总结下来就是：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -563,10 +563,10 @@
     
     <item>
       <title>记难忘的一天</title>
-      <link>http://localhost:1313/blog/the-memorial-day/</link>
+      <link>https://blog.tonyz.one/blog/the-memorial-day/</link>
       <pubDate>Sun, 31 Mar 2019 23:55:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/the-memorial-day/</guid>
+      <guid>https://blog.tonyz.one/blog/the-memorial-day/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;本文来自小学生优秀作文选&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -588,10 +588,10 @@
     
     <item>
       <title>诊所教育与我的成长</title>
-      <link>http://localhost:1313/blog/legal-clinic-and-my-experience/</link>
+      <link>https://blog.tonyz.one/blog/legal-clinic-and-my-experience/</link>
       <pubDate>Thu, 07 Mar 2019 14:20:57 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/legal-clinic-and-my-experience/</guid>
+      <guid>https://blog.tonyz.one/blog/legal-clinic-and-my-experience/</guid>
       <description>&lt;p&gt;新的一期法律诊所又开课了，受李老师邀请，与小朋友们分享了一下我参加法律诊所的心得体会，也算是对我这几年法律诊所经历的回顾和总结。&lt;/p&gt;
 &lt;p&gt;可以说，法律诊所让我在扬大的学习生活有了很多有趣的目标，也帮助我成功从扬大走了出来，让我不断向前走，认识更多优秀的人，因此很感谢这段经历。&lt;/p&gt;
 &lt;h2 id=&#34;一引子&#34;&gt;一、引子&lt;/h2&gt;
@@ -617,10 +617,10 @@
     
     <item>
       <title>情人节往事</title>
-      <link>http://localhost:1313/blog/memory-about-valentines-day/</link>
+      <link>https://blog.tonyz.one/blog/memory-about-valentines-day/</link>
       <pubDate>Thu, 14 Feb 2019 04:01:36 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/memory-about-valentines-day/</guid>
+      <guid>https://blog.tonyz.one/blog/memory-about-valentines-day/</guid>
       <description>&lt;p&gt;农历新年一过，我离三十岁就差五年了，而读完小学我花了六年时间，所以三十岁就在眼前了。到了这个年纪，写一写五六七八年前的事情，也许可以称之为“往事”了。今天是情人节，不妨就回忆下关于情人节的故事吧。&lt;/p&gt;
 &lt;p&gt;印象里最深的关于情人节的记忆，是高中时的一次情人节，还在寒假无所事事的我和小伙伴相约到文化宫电影院看电影。那会儿大概还没有火把党，我们只是非常纯粹地想在这个节日凑个热闹。电影散场后，无聊的我们蹲守在电影院门口四处张望，看看有没有认识的同学情侣。现在想来真是恶趣味啊，不过那会儿还真让我们碰见了几对小情侣，这么些年过去了，不知道是否已经结婚了呢？&lt;/p&gt;
 &lt;p&gt;再往后的情人节印象不深了，为什么呢？因为作为学生情侣，情人节还没有开学啊！这又是一个令人心酸的故事了，暂且按下不讲。&lt;/p&gt;
@@ -635,10 +635,10 @@
     
     <item>
       <title>疾走纽约</title>
-      <link>http://localhost:1313/blog/walk-in-ny/</link>
+      <link>https://blog.tonyz.one/blog/walk-in-ny/</link>
       <pubDate>Mon, 28 Jan 2019 05:50:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/walk-in-ny/</guid>
+      <guid>https://blog.tonyz.one/blog/walk-in-ny/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://postimg.cc/cKmDJ4hr&#34;&gt;&lt;img src=&#34;https://i.postimg.cc/B6WRMj1c/image.jpg&#34; alt=&#34;image.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;这周末去纽约参加ISIP，顺便将纽约那些值得打卡的景点匆匆看了一遍，不过时间实在不够用，所以还有如联合国纽约总部、自由女神像、中央车站这些必打卡景点还没去，幸好波屯离纽约并不远，过段时间可以找个新的理由再去纽约逛一逛。&lt;/p&gt;
 &lt;h2 id=&#34;7th-ave--33-st&#34;&gt;7th Ave &amp;amp; 33 St&lt;/h2&gt;
@@ -674,10 +674,10 @@
     
     <item>
       <title>引入评论系统</title>
-      <link>http://localhost:1313/blog/new-comments-system/</link>
+      <link>https://blog.tonyz.one/blog/new-comments-system/</link>
       <pubDate>Sun, 20 Jan 2019 02:26:29 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/new-comments-system/</guid>
+      <guid>https://blog.tonyz.one/blog/new-comments-system/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://postimg.cc/Yjz8P2xT&#34;&gt;&lt;img src=&#34;https://i.postimg.cc/G3ZNHHT3/20190119212534.jpg&#34; alt=&#34;20190119212534.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;本站引入 “Valine” 无后端评论系统了，意味着薛魏可以有一点互动了。&lt;/p&gt;
 &lt;p&gt;另外，网站加上了 Google Analytics 统计系统，不知道国内的同学访问有没有比较大的迟滞感？可以留言反馈。如果迟滞感特别明显，考虑切回百度统计或者干脆撤掉统计功能。&lt;/p&gt;
@@ -688,10 +688,10 @@
     
     <item>
       <title>开学一周小札</title>
-      <link>http://localhost:1313/blog/first-week-of-new-term/</link>
+      <link>https://blog.tonyz.one/blog/first-week-of-new-term/</link>
       <pubDate>Sat, 19 Jan 2019 05:46:19 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/first-week-of-new-term/</guid>
+      <guid>https://blog.tonyz.one/blog/first-week-of-new-term/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://postimg.cc/4HRn2zxD&#34;&gt;&lt;img src=&#34;https://i.postimg.cc/wM7Jv28j/20190119004414.jpg&#34; alt=&#34;20190119004414.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;新的一学期又开始了，然而不出意外，这基本上是我在学校安稳读书的最后一个学期了，之后就要告别学校，准备投身到社会主义法治进程的建设中了。（笑）就如我当时在北京时被工作压到想要早点出来读书的时候，现在的我也想早点回去工作，所以人生啊，处处是围城。&lt;/p&gt;
 &lt;p&gt;这篇文字其实在我上完这学期第一节课的时候就想写了，但是因为有好多好多材料要读，一直没找到时间写，今天正好田大状来美国参加 NY Bar 宣誓，顺带来看望一下波屯的我，于是今晚不用泡在图书馆可以 Happy 一下，也就有了一点点时间来胡说乱写了。&lt;/p&gt;
@@ -715,10 +715,10 @@
     
     <item>
       <title>新的一年</title>
-      <link>http://localhost:1313/blog/new-year-2019/</link>
+      <link>https://blog.tonyz.one/blog/new-year-2019/</link>
       <pubDate>Tue, 01 Jan 2019 17:00:39 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/new-year-2019/</guid>
+      <guid>https://blog.tonyz.one/blog/new-year-2019/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/Hn8qr3JW/1934942-1d9b927138f74df4.jpg&#34; alt=&#34;新的一年&#34;&gt;&lt;/p&gt;
 &lt;p&gt;美东时间2019年1月1日 7:28 AM，我在巴尔的摩机场候机准备回波士顿，连续三年新年第一天始于机场/高铁站，这预示了什么？大概就是我比较适合出差吧&amp;hellip;&lt;/p&gt;
 &lt;p&gt;过去两年，都在差不多的时候写了一篇回顾一年或期待新一年的日志（2018年《&lt;a href=&#34;https://tonyz.one/sth-when-i-am-sick/&#34;&gt;病中随笔&lt;/a&gt;》、2017年《&lt;a href=&#34;https://tonyz.one/happy-new-year-2017/&#34;&gt;元旦快乐&lt;/a&gt;》、《&lt;a href=&#34;https://tonyz.one/above-the-clouds/&#34;&gt;云端之上&lt;/a&gt;》），今年自然也应该写上一篇，作为记录。&lt;/p&gt;
@@ -742,10 +742,10 @@
     
     <item>
       <title>Merry Christmas</title>
-      <link>http://localhost:1313/blog/merry-christmas/</link>
+      <link>https://blog.tonyz.one/blog/merry-christmas/</link>
       <pubDate>Wed, 26 Dec 2018 03:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/merry-christmas/</guid>
+      <guid>https://blog.tonyz.one/blog/merry-christmas/</guid>
       <description>&lt;h2 id=&#34;330-am&#34;&gt;3:30 AM&lt;/h2&gt;
 &lt;p&gt;昨晚参加了一个非常棒的 Christmas Eve Party，回到家已经接近十一点，三下五除二把洗碗池里的锅碗洗干净，再利索地把自己洗干净就爬上了床。等到再次睁开眼睛时，已经是25日凌晨3点半，虽然还想继续睡下去，可是还得起床煮面、打扫&amp;hellip;一切收拾妥当之后，就准备出门去机场候机了。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/fLP4W1Rg/1934942-cc3d337e8d777e4e.jpg&#34; alt=&#34;Christmas Party&#34;&gt;&lt;/p&gt;
@@ -778,10 +778,10 @@
     
     <item>
       <title>时间&amp;时间</title>
-      <link>http://localhost:1313/blog/time-time/</link>
+      <link>https://blog.tonyz.one/blog/time-time/</link>
       <pubDate>Wed, 28 Nov 2018 20:51:01 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/time-time/</guid>
+      <guid>https://blog.tonyz.one/blog/time-time/</guid>
       <description>&lt;h2 id=&#34;引子&#34;&gt;引子&lt;/h2&gt;
 &lt;p&gt;越来越觉得时间不够用，并非是因为临到期末时间不够复习，而是觉得有很多内容突然开始感兴趣，而学习和研究这些内容需要很多的精力，即使每天从早到晚看书，都可能来不及在预定的时间里看完这些内容，更何况随着学习、研究的深入，会发现更多感兴趣的内容。知识的边际就是一个圆圈，当无限接近圆圈的边缘时就会被圆圈外部的世界所吸引，因而进一步的探索。&lt;/p&gt;
 &lt;h2 id=&#34;探讨&#34;&gt;探讨&lt;/h2&gt;
@@ -795,10 +795,10 @@
     
     <item>
       <title>田牌信仰达成</title>
-      <link>http://localhost:1313/blog/got-surface/</link>
+      <link>https://blog.tonyz.one/blog/got-surface/</link>
       <pubDate>Sat, 24 Nov 2018 21:16:17 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/got-surface/</guid>
+      <guid>https://blog.tonyz.one/blog/got-surface/</guid>
       <description>&lt;h2 id=&#34;早已种草&#34;&gt;早已种草&lt;/h2&gt;
 &lt;p&gt;其实很久以前，我就对田牌的Suface系列种草了，只是当时在大悦城适用Surface Book体验过差，再加上囊中羞涩，暂时搁置了购入一台田牌机器的计划，但还是写了一篇文章的，参见 &lt;a href=&#34;https://tonyz.one/surface-book/&#34;&gt;种草Surface Book&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;这次恰好Surface Pro6发布赶上美帝人民喜闻乐见的黑五，所以价格跳水，让我觉得是时候拔草田牌了，于是就有了本篇流水式的评测。&lt;/p&gt;
@@ -816,10 +816,10 @@
     
     <item>
       <title>新阶段之思考</title>
-      <link>http://localhost:1313/blog/new-start/</link>
+      <link>https://blog.tonyz.one/blog/new-start/</link>
       <pubDate>Thu, 15 Nov 2018 19:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/new-start/</guid>
+      <guid>https://blog.tonyz.one/blog/new-start/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/HnfCzFG7/1934942-1b0a067a0286876c.jpg&#34; alt=&#34;新阶段之思考&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我有很长一段时间，都期待着在国外读书生活，现在我已经实现了这个愿望，回过头来却发现曾经自己的设想过于美好，有很多事情未身处其中时并不能预料到，因此在这个新阶段又多了一些思考，写下来，可以和几年前的想法做一些比较。&lt;/p&gt;
 &lt;h2 id=&#34;对现实的认知&#34;&gt;对现实的认知&lt;/h2&gt;
@@ -840,10 +840,10 @@
     
     <item>
       <title>到底想要什么</title>
-      <link>http://localhost:1313/blog/what-do-i-want/</link>
+      <link>https://blog.tonyz.one/blog/what-do-i-want/</link>
       <pubDate>Thu, 01 Nov 2018 19:09:28 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/what-do-i-want/</guid>
+      <guid>https://blog.tonyz.one/blog/what-do-i-want/</guid>
       <description>&lt;p&gt;我越来越想不清楚到底想要什么，是功成名就的那一天还是阖家幸福的那一天？两者能不能都要，如果不可以，到底该选择哪一个呢？有太多太多的问题，我无法解答，又无法回避，构成了一个分裂的我。&lt;/p&gt;
 &lt;p&gt;时间还是什么会给我答案吗？能给我答案吗？&lt;/p&gt;
 &lt;p&gt;我不知道。&lt;/p&gt;
@@ -852,10 +852,10 @@
     
     <item>
       <title>组装 Intel NUC 指南</title>
-      <link>http://localhost:1313/blog/intel-nuc/</link>
+      <link>https://blog.tonyz.one/blog/intel-nuc/</link>
       <pubDate>Fri, 26 Oct 2018 15:08:49 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/intel-nuc/</guid>
+      <guid>https://blog.tonyz.one/blog/intel-nuc/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/d0BwFWCz/1934942-947af077b12043e8.jpg&#34; alt=&#34;NUC-Win10.jpg&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;由头&#34;&gt;由头&lt;/h2&gt;
 &lt;p&gt;买一台新电脑的想法来源于买了显示器之后，每天需要将笔记本搬来搬去很麻烦，我是一个很怕麻烦的人，所以意识到需要做一点改变来解决这些麻烦。最开始我其实是想买Mac Mini，搜了下亚马逊发现翻新版的Mac Mini最便宜的是不到400美元，可是这毕竟是4-5年前发布的产品了，看到网上有些评测说连最新版的 OS X都快跑不动了，所以买一个全面落后的产品是不可能的。&lt;/p&gt;
@@ -887,10 +887,10 @@
     
     <item>
       <title>迷雾中的一点</title>
-      <link>http://localhost:1313/blog/one-point-in-the-fog/</link>
+      <link>https://blog.tonyz.one/blog/one-point-in-the-fog/</link>
       <pubDate>Sat, 20 Oct 2018 18:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/one-point-in-the-fog/</guid>
+      <guid>https://blog.tonyz.one/blog/one-point-in-the-fog/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/VNckmrVb/1934942-3c95ec388cb74cd4.jpg&#34; alt=&#34;迷雾中的一点&#34;&gt;&lt;/p&gt;
 &lt;p&gt;最近读完了叶永烈写的《江青传》，可能会有人认为这是一本禁书，但我却是在微信读书上发现的这本书，可见至少这个话题在当下中国已经不那么敏感了，我们虽然可能尚无法自由发表关于这个话题的言论，但至少可以读一读有关的书籍，也是一点进步吧。此外，在读这本书的过程中，我查阅了相关资料，发现叶永烈在1983年前后，也就是文革结束6至7年之后，分别为“四人帮”成员作传，在写这篇文章的时候，我又查找了微信读书是否有其他三人的传记，结果是一无所获，所以我在想，1983年时叶永烈为“四人帮”成员作传是个人写作兴趣还是某种政治任务，这个问题可能需要我再查找一些资料才可能有答案。&lt;/p&gt;
 &lt;p&gt;言归正传，聊聊这本《江青传》吧。&lt;/p&gt;
@@ -903,10 +903,10 @@
     
     <item>
       <title>合适的态度</title>
-      <link>http://localhost:1313/blog/sutiable-attitude/</link>
+      <link>https://blog.tonyz.one/blog/sutiable-attitude/</link>
       <pubDate>Thu, 18 Oct 2018 16:17:10 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/sutiable-attitude/</guid>
+      <guid>https://blog.tonyz.one/blog/sutiable-attitude/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/VktkxBD8/1934942-5580e295219d99c1.jpg&#34; alt=&#34;合适的态度&#34;&gt;&lt;/p&gt;
 &lt;p&gt;最近在思考一个问题，即什么是合适的态度。这需要具体到一个语境，即面对不同人应以什么样的态度去交流是合适的？我发现自己在不同的人和不同的场合下经常性的忽视这个问题，给身边人或工作伙伴带去了尴尬和矛盾。因此，找出这个问题的答案就很重要。&lt;/p&gt;
 &lt;p&gt;我曾经是一个目中无人的人，因此很难以合适的态度去交流。我总是忘了在与我对话的人，很可能是我的爱人、我最亲密的伙伴、我的父母，而我可能用的是同一种方式和态度在与他们交流，但显然这样是不对的。毕竟有些人可以原谅你一万次，有些人可能只能原谅你一次。&lt;/p&gt;
@@ -918,10 +918,10 @@
     
     <item>
       <title>微信取证指南</title>
-      <link>http://localhost:1313/blog/evidences-for-wechat/</link>
+      <link>https://blog.tonyz.one/blog/evidences-for-wechat/</link>
       <pubDate>Mon, 15 Oct 2018 00:50:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/evidences-for-wechat/</guid>
+      <guid>https://blog.tonyz.one/blog/evidences-for-wechat/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;本文转载自 &lt;a href=&#34;https://sspai.com/post/46220&#34;&gt;给每个人的微信取证指南，这件事不是截个图那么简单-少数派&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1014,10 +1014,10 @@
     
     <item>
       <title>定制西服小感</title>
-      <link>http://localhost:1313/blog/measurement-for-the-suits/</link>
+      <link>https://blog.tonyz.one/blog/measurement-for-the-suits/</link>
       <pubDate>Sun, 14 Oct 2018 19:06:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/measurement-for-the-suits/</guid>
+      <guid>https://blog.tonyz.one/blog/measurement-for-the-suits/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/DZvfbVFv/1934942-a7c035938365e15e.jpg&#34; alt=&#34;定制西服小感&#34;&gt;&lt;/p&gt;
 &lt;p&gt;从出国前就念叨了很久要去定制一套西服，直到来到波士顿快两个月才得以成行。于是今早前往了位于Newbury的一家西服定制店，体验了一把定制西服的感觉，因此写下此文，聊以记录下第一次定制西服的体验。&lt;/p&gt;
 &lt;h2 id=&#34;缘起&#34;&gt;缘起&lt;/h2&gt;
@@ -1039,10 +1039,10 @@
     
     <item>
       <title>听懂的瞬间</title>
-      <link>http://localhost:1313/blog/when-i-understand/</link>
+      <link>https://blog.tonyz.one/blog/when-i-understand/</link>
       <pubDate>Fri, 12 Oct 2018 02:19:03 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/when-i-understand/</guid>
+      <guid>https://blog.tonyz.one/blog/when-i-understand/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/G2XLFMhk/1934942-baa0241692052912.jpg&#34; alt=&#34;听懂的瞬间&#34;&gt;&lt;/p&gt;
 &lt;p&gt;今天上Corporations的时候，突然发现自己可以听懂Prof.Lawson在讲什么了。我记得以前在哪里看过一篇文章，讲的是一个高中生来美国留学，刚开始的一个月什么课都听不懂，直到一个月的某一天突然觉得什么都能听懂了。我以前并不理解这种感觉，但今天上课的时候真的有这样的感觉。&lt;/p&gt;
 &lt;p&gt;中午参加了 Cultural Connection Lunch，其实就是一群国际学生的尬聊，为了免费的OTTO披萨，我也参加了这个活动。（其实是为了练一练我的渣口语）&lt;/p&gt;
@@ -1053,10 +1053,10 @@
     
     <item>
       <title>Ghost 安装指南</title>
-      <link>http://localhost:1313/blog/how-to-install-ghost-blog/</link>
+      <link>https://blog.tonyz.one/blog/how-to-install-ghost-blog/</link>
       <pubDate>Thu, 11 Oct 2018 00:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/how-to-install-ghost-blog/</guid>
+      <guid>https://blog.tonyz.one/blog/how-to-install-ghost-blog/</guid>
       <description>&lt;p&gt;Ghost是一个现代化的，开源的，基于Node.js的博客发布平台，它的前端管理系统基于Ember.js， 后端的模板引擎采用的handlebars， 而默认数据库是MySQL，当然，你也可以使用其他类型的数据库。&lt;a href=&#34;https://link.zhihu.com/?target=https%3A//messiahhh.com&#34;&gt;可以来我博客看下效果&lt;/a&gt;
 &lt;strong&gt;Ghost1.0&lt;/strong&gt;如果用过1.0版本以前的Ghost的同学，会对Ghost版本的更新感到头疼，而一些配置问题也让人心烦。好在，就在一个月前，Ghost推出了Ghost1.0.0，并在一个月内升级到了1.6.2（到目前为止）大版本的提升，主要是因为一个东西的出现，那就是Ghost-Cli。
 &lt;strong&gt;Ghost-CLI&lt;/strong&gt;有了Ghost-Cli，你可以快速安装Ghost自动配置MySQL, Nginx , SSL等快捷的更新版本（只用一行命令就可以）其他等等
@@ -1135,10 +1135,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>临时&amp;新起点</title>
-      <link>http://localhost:1313/blog/temporary/</link>
+      <link>https://blog.tonyz.one/blog/temporary/</link>
       <pubDate>Wed, 10 Oct 2018 23:01:56 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/temporary/</guid>
+      <guid>https://blog.tonyz.one/blog/temporary/</guid>
       <description>&lt;p&gt;这篇日志叫做《临时&amp;amp;新起点》，主要是实在没有时间在新电脑（其实也不新了）上重建原有的Hexo/Next环境，所以只能够重新选用更为简单的动态博客-Ghost，来搭建我的新博客。这次搭建博客依然遇到了许多的坑，但比之前几次调试Hexo/Next要容易的多。现在想来，静态博客虽好，但不一定适用于我这样的懒人，更何况我连个半吊子Coder都不算，像现在这样因换电脑等等问题就会导致我无法更新博客。于是就有了这样一个新博客，新博客不一定有多好看，但至少有一个新的写作平台。（笑）&lt;/p&gt;
 &lt;p&gt;来到波士顿快要两个月了吧，在这里见识到很多很多，与我之前憧憬的留学生活有些一致，当然也有不一样的地方，只是时间太短，我还无法具体说明是什么样的不同。对我来说，与几年前前往伦敦上夏校最不一样的感受就是，功课更难了，毕竟夏校是没有学业压力的。（摊手笑）&lt;/p&gt;
 &lt;p&gt;大抵如此，希望以后可以正常更新。&lt;/p&gt;
@@ -1148,10 +1148,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>学则路的夏天</title>
-      <link>http://localhost:1313/blog/summer-at-xueze-road/</link>
+      <link>https://blog.tonyz.one/blog/summer-at-xueze-road/</link>
       <pubDate>Tue, 31 Jul 2018 03:06:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/summer-at-xueze-road/</guid>
+      <guid>https://blog.tonyz.one/blog/summer-at-xueze-road/</guid>
       <description>&lt;p&gt;就在我以为参加不了今年律协培训的时候，终于收到律协通知，于是兴冲冲地准备好行李就跑回南京了，实际上距离我离开南京不过一个月，而快离开那会儿其实和要离开北京的时候差不多，所以古人说“士别三日刮目相看”…额，可能用错了。（不是可能，是一定）&lt;/p&gt;
 &lt;p&gt;这次培训安排在南师大仙林校区，这个地方其实我来过几次了，分别是来访不同的朋友，也逛过几次校园，但在这个学校的教室里上课还是头一次，毕竟作为学渣的我，当年是考不上这所学校的，所以我分外珍惜在这里学习的时光。（真的么？）&lt;/p&gt;
 &lt;p&gt;通往南师大的地铁站叫学则路，下了地铁还要走个十几分钟才能到校门，一路上有麦当劳、肯德基、一点点、一鸣酸奶等等，要不是要去上课，我可能真的走不动道了。对比下我曾经在的汊河CBD，真是满脸的泪啊。然而其实第一天是到南师大中北学院的礼堂，乌压压看到八百多个人坐在那里，我知道今年的培训算是开始了。&lt;/p&gt;
@@ -1165,10 +1165,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>寻找东极</title>
-      <link>http://localhost:1313/blog/dongji-island/</link>
+      <link>https://blog.tonyz.one/blog/dongji-island/</link>
       <pubDate>Thu, 21 Jun 2018 02:10:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/dongji-island/</guid>
+      <guid>https://blog.tonyz.one/blog/dongji-island/</guid>
       <description>&lt;h2 id=&#34;0为什么去东极岛&#34;&gt;0.为什么去东极岛&lt;/h2&gt;
 &lt;p&gt;14年暑假在去四川旅行的途中看了韩寒导演的《后会无期》之后，就对东极岛种了草，然而四年过去才得以成行，此外，这是我第一次自驾游旅行，因此很有必要写一篇游记来记录下这次有趣的旅行。&lt;/p&gt;
 &lt;h2 id=&#34;01行前准备&#34;&gt;0.1行前准备&lt;/h2&gt;
@@ -1195,10 +1195,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>不安定的生活</title>
-      <link>http://localhost:1313/blog/uncomfortable-life/</link>
+      <link>https://blog.tonyz.one/blog/uncomfortable-life/</link>
       <pubDate>Mon, 07 May 2018 03:21:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/uncomfortable-life/</guid>
+      <guid>https://blog.tonyz.one/blog/uncomfortable-life/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;明显的觉得自己已经过了写作的高峰期，常常提笔却无法成文。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1218,10 +1218,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>终点&amp;起点</title>
-      <link>http://localhost:1313/blog/destination-zero/</link>
+      <link>https://blog.tonyz.one/blog/destination-zero/</link>
       <pubDate>Mon, 09 Apr 2018 03:20:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/destination-zero/</guid>
+      <guid>https://blog.tonyz.one/blog/destination-zero/</guid>
       <description>&lt;p&gt;我在思考，出国求学这件事，对我来说是不是已经到了一个终点，是不是已经实现了我很久以来的一个目标和梦想，至于真正的出国读书以及今后的工作是另一个目标和梦想的起点，意味着我应该尽早从之前的目标中走出，而不是像现在这样，既不知道自己该干什么，又不去做些有意义的事情。&lt;/p&gt;
 &lt;p&gt;上次写日志已经是三个月以前的事情了，还不算太坏，不像小时候的那本日记，每一次打开都发现自己上一次写日记是一两年前。其实这三个月的时间里，也有很多次打开电脑准备写一篇日志，或是铺开纸准备草拟一份心得。然而我没有写下去的决心，一方面是因为过得很惬意吧，另一方面是不懂如何集中精力去做这样一件事。&lt;/p&gt;
 &lt;p&gt;在北京的日子，是我写日志最为频繁的时间，我现在想想很大程度上是距离的拉远，使得我对遥远的故土有一种特别的情愫。另外一方面，应该是身边优秀的朋友让我燃起对工作和生活的雄心壮志，所以很多想法才抑不住要写出来。那么现在呢？明显的反差对吧。&lt;/p&gt;
@@ -1233,10 +1233,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>病中随笔</title>
-      <link>http://localhost:1313/blog/sth-when-i-am-sick/</link>
+      <link>https://blog.tonyz.one/blog/sth-when-i-am-sick/</link>
       <pubDate>Sun, 07 Jan 2018 04:20:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/sth-when-i-am-sick/</guid>
+      <guid>https://blog.tonyz.one/blog/sth-when-i-am-sick/</guid>
       <description>&lt;p&gt;最近看上去很忙，忙到没有时间提笔写一些字，但事实上清闲得很，大把的时间花在无意义的发呆和睡眠上，清醒的时间很短，即使清醒着也不知道该做些什么。前几日在上海跨年，凛冽的寒风吹得我晕头转向，在啤酒吧里硬撑着熬过一个通宵，元旦一早就像逃荒一样坐着最早一班高铁回到了住处，随便洗洗便沉沉睡去。而后几天就痛疼脑热发起病来，显然身体状态早已不够健康，通宵一夜即可摧垮。病中几日，思路反而清晰起来，拿起桌上翻开已久却停滞不前的书细细读来，累了又打开电脑开始写这篇文字。&lt;/p&gt;
 &lt;p&gt;对于这半年在南京，我已经能够接受了，同时我也慢慢发现南京的好，至少这里没有高强度的加班（笑）。我已经不再去因为一些小事去计较了，更多的时间和精力专注于我需要完成的几件事上。所以会觉得生活变得更为简单和纯粹了，当然这不意味着需要完成的事情变得简单了。&lt;/p&gt;
 &lt;p&gt;今年又是本命年，我已经不太记得第一个本命年我是怎么度过的，可能我从小就不太记事吧。毫无疑问的是，这一年又有许多重要的事情需要完成，比如出国读书，这是一件我准备了很久也期待了很久的事情，能够在今年实现我觉得是一件令人满足的事情。此外，身边人逐渐开始工作，或者说挣钱，让我多少有点压力，尽管家里人不提，我知道他们还是希望我能够尽快独立起来的。所以这一年，我想要尽可能独立起来，多依靠自己的力量，无论是做决定还是付诸行动。&lt;/p&gt;
@@ -1246,10 +1246,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>南京咖啡店不完全评测</title>
-      <link>http://localhost:1313/blog/reviews-of-cafe-in-nanjing/</link>
+      <link>https://blog.tonyz.one/blog/reviews-of-cafe-in-nanjing/</link>
       <pubDate>Sun, 24 Dec 2017 06:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/reviews-of-cafe-in-nanjing/</guid>
+      <guid>https://blog.tonyz.one/blog/reviews-of-cafe-in-nanjing/</guid>
       <description>&lt;h2 id=&#34;一评测目录&#34;&gt;一、评测目录&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Pause Café&lt;/li&gt;
@@ -1290,10 +1290,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>留空</title>
-      <link>http://localhost:1313/blog/blank/</link>
+      <link>https://blog.tonyz.one/blog/blank/</link>
       <pubDate>Wed, 20 Dec 2017 04:27:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/blank/</guid>
+      <guid>https://blog.tonyz.one/blog/blank/</guid>
       <description>&lt;p&gt;中午一人下楼觅食，吃了一碗颇不正宗的陕西臊子面，无论是口感还是情感上都觉得受到了深深的欺骗，当然重点不是这个。因体重不断攀升，也就没有直接回办公室休息，而是在楼下晃悠了好几圈。&lt;/p&gt;
 &lt;p&gt;这里处于城郊新开发的地区，所以周边很是荒凉。昨晚从车站坐车回家和司机攀谈时，司机告诉我这里很安静，的确这里比世贸天阶安静多了，往来的只有行色匆匆的白领们，所以也就没什么好逛的。&lt;/p&gt;
 &lt;p&gt;最近一直在办实习律师的手续，办了差不多了，也就是我在按照既定的方向在走吧。然而刚刚在楼下转悠的时候，突然会有一个念头，我是否真的想走这条路呢？之前一直认为做一个律师可以拥有丰富多变的生活，但随着接触深入，发现所谓的多变生活只是错觉，更多的是忙碌和奔波，以至于很难享受正常的生活。&lt;/p&gt;
@@ -1304,10 +1304,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>过山车</title>
-      <link>http://localhost:1313/blog/roller-coaster/</link>
+      <link>https://blog.tonyz.one/blog/roller-coaster/</link>
       <pubDate>Tue, 12 Dec 2017 04:28:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/roller-coaster/</guid>
+      <guid>https://blog.tonyz.one/blog/roller-coaster/</guid>
       <description>&lt;p&gt;其实我是不喜欢过山车的，上上下下落差极大的刺激我无法接受，尤其是从极高之处俯冲向下，全身绷紧以克制住内心的恐惧。生活中的上下落差我也不喜欢，但这不像过山车是可以选择坐与不坐，生活中的起起伏伏我无法决定，只有面对。&lt;/p&gt;
 &lt;p&gt;最近情绪似乎有些爆发，不可否认的这些负面情绪的出现是因为对现在生活的不满和对之前生活的怀念，尤其是工作上的一些事情。某种程度上，我是喜欢加班的，毕竟我不太喜欢每天晚上约上不同的小伙伴去不同的地方吃饭，我喜欢去做一些我眼里有趣的事情，比如说做一些能够有些意义和影响的事情。不过往往这些都是些小事情，并不会有多少的影响。可我在经历的时候，仍然是觉得快乐的。&lt;/p&gt;
 &lt;p&gt;换句话说来，见识过半山腰的风景之后，就对山脚下游人如织的平地不再留恋了，只想着更进一步，前往远处的山巅，想看到更远的风景。所以我现在的生活状态大概就是这样的，会把现在所处的环境与北京的环境相比较，除了空气比北京好，可能大多数地方都无法与之相比了。面对这样的对比，我就变得更加不耐烦，希望能够尽快离开这里。但这又是不现实的，因为现实所迫，必须要在这里再呆上一段时间。如何处理这样的情况和情绪，是我目前最大的问题了。&lt;/p&gt;
@@ -1317,10 +1317,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>两个月</title>
-      <link>http://localhost:1313/blog/two-months/</link>
+      <link>https://blog.tonyz.one/blog/two-months/</link>
       <pubDate>Thu, 30 Nov 2017 04:28:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/two-months/</guid>
+      <guid>https://blog.tonyz.one/blog/two-months/</guid>
       <description>&lt;p&gt;一年有几个两个月呢？&lt;/p&gt;
 &lt;p&gt;六个。&lt;/p&gt;
 &lt;p&gt;上面这个问题的答案显而易见，所以两个月的时间说短并不短。这两个月里涉及虐童的丑闻都发生了两次，而大大小小的其他新闻数不胜数。这两个月的时间里，并不是没有尝试着写一些东西，如果看一眼我的草稿箱，会发现里面躺着不少只有标题，或者只有开头的文字，因为没有思路，或者被其他事情打断，它们安静地躺在那里，永远地不会出现在我的网站上了。&lt;/p&gt;
@@ -1332,10 +1332,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>诊所网站迁移手记</title>
-      <link>http://localhost:1313/blog/the-story-about-mirgraiton-of-website/</link>
+      <link>https://blog.tonyz.one/blog/the-story-about-mirgraiton-of-website/</link>
       <pubDate>Wed, 26 Jul 2017 18:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/the-story-about-mirgraiton-of-website/</guid>
+      <guid>https://blog.tonyz.one/blog/the-story-about-mirgraiton-of-website/</guid>
       <description>&lt;h2 id=&#34;缘由&#34;&gt;缘由&lt;/h2&gt;
 &lt;p&gt;15年时，刚进入法律诊所学习，和诊所老师聊得很投机，就答应帮忙建一个诊所网站，不承想这个网站从15年已经运行了两年多了，还屹立于这个世界上，我很是欣慰。但随着国内网络环境的恶化，加之服务费启高，以及我毕业离开诊所之后无人维护网站等等原因，我决定把诊所网站从原来的虚拟主机迁出，迁入到位于洛杉矶的VPS中，这样节约成本，也更方便我自己管理。&lt;/p&gt;
 &lt;h2 id=&#34;迁出&#34;&gt;迁出&lt;/h2&gt;
@@ -1357,10 +1357,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>持续性学习能力</title>
-      <link>http://localhost:1313/blog/abilities-of-study/</link>
+      <link>https://blog.tonyz.one/blog/abilities-of-study/</link>
       <pubDate>Thu, 20 Jul 2017 03:26:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/abilities-of-study/</guid>
+      <guid>https://blog.tonyz.one/blog/abilities-of-study/</guid>
       <description>&lt;p&gt;起这么一个标题不是想探讨什么是持续性学习能力，主要还是想聊聊自己最近的学习状态。所以不必担心我会讲一堆大道理，其实我也讲不出什么道理来。&lt;/p&gt;
 &lt;p&gt;说实话，最近的学习状态有些令人堪忧。在家里肯定难以安心学习，这点我早就明白了，但最近在图书馆也常常出现烦躁的状态，以至于看不进书。我一度以为这只是一两天的情绪异常，可这样的状态却持续了几天了，也不见好转。看来，我对图书馆这样一个环境也产生了免疫。&lt;/p&gt;
 &lt;p&gt;我想，其实就是心太活了，沉不下心来专心做一件事，总希望在做这件事的同时去做那件事，往往最后不管哪一件事都处于半途而废的状态。我明白这个道理，却管不住自己内心对其他事物好奇的冲动。有时候想想，像我这样的人，一旦需要认真做事，真应该被投入石器时代。&lt;/p&gt;
@@ -1371,10 +1371,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>法律尽职调查导航</title>
-      <link>http://localhost:1313/blog/legal-due-diligence/</link>
+      <link>https://blog.tonyz.one/blog/legal-due-diligence/</link>
       <pubDate>Sat, 15 Jul 2017 20:40:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/legal-due-diligence/</guid>
+      <guid>https://blog.tonyz.one/blog/legal-due-diligence/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.loli.net/2018/10/14/5bc25984457b0.jpg&#34; alt=&#34;rawpixel-645294-unsplash.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;法律尽职调查是作为一名律师，尤其是非诉律师的必备技能。更为高效地进行尽职调查，是每一个非诉律师不断追求的目标。笔者对工作中常用的信息检索网站进行了整理，利用有限的网络知识，制作了一个专门网站作为法律尽职调查导航站。&lt;/p&gt;
 &lt;p&gt;在设计和建立该站的过程中，笔者尽可能用简单直观的页面设计突出导航站的主题。此外，为了方便大家在工作中访问和使用本站，笔者选了“dd.legal”这样一个域名。“dd”是尽职调查英文“due diligence”的缩写，“legal”则是法律的英文，所以即使没有将网站保存为书签，也可以很快访问网站。&lt;/p&gt;
@@ -1386,10 +1386,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>读书/结婚，义务？</title>
-      <link>http://localhost:1313/blog/reading-marriage-duty/</link>
+      <link>https://blog.tonyz.one/blog/reading-marriage-duty/</link>
       <pubDate>Wed, 12 Jul 2017 03:29:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/reading-marriage-duty/</guid>
+      <guid>https://blog.tonyz.one/blog/reading-marriage-duty/</guid>
       <description>&lt;p&gt;在图书馆复习的时候，身边除了与我一样在为各种考试复习的年轻人之外，还有很多小孩和老人在挑选、阅读一些和考试、甚至日常生活无关的书籍。此时的我很羡慕他们可以不考虑读书之目的，只需畅快阅读。换句话来说，读与考试相关的书是一种义务，而自己漫无目的地读书是一种享受。与之相类似的，或者因近些时日身边人的感慨使我想到结婚对于我们来说也是一种义务，而恋爱很大程度上只是一种享受。&lt;/p&gt;
 &lt;p&gt;当然，以上观点是否正确，即结婚是否是作为人的一种义务，我并没有思考清楚。&lt;/p&gt;
 &lt;p&gt;2017/7/11&lt;/p&gt;</description>
@@ -1397,10 +1397,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>对舒适区的思考</title>
-      <link>http://localhost:1313/blog/thinking-of-the-comfort-zone/</link>
+      <link>https://blog.tonyz.one/blog/thinking-of-the-comfort-zone/</link>
       <pubDate>Mon, 12 Jun 2017 04:50:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/thinking-of-the-comfort-zone/</guid>
+      <guid>https://blog.tonyz.one/blog/thinking-of-the-comfort-zone/</guid>
       <description>&lt;p&gt;有事外出，路上完成了每天的英语学习任务，在公交车上发呆时想起了昨晚和朋友聊天时谈到今后是在熟悉但稍小的城市生活、工作，还是去众人熟知的大都市。在我看来，这个问题对应着是否选择舒适区，因此今天利用一些时间谈谈我对舒适区的看法吧。&lt;/p&gt;
 &lt;h2 id=&#34;舒适区的定义&#34;&gt;舒适区的定义&lt;/h2&gt;
 &lt;p&gt;人出生前的环境是十分舒适的，且一般不会遭遇危险，因此有些人安全感低的人睡觉时总蜷缩地像婴儿。如何定义舒适区，我并不想去百度或Google搜索，我谈的仅是我对舒适区的理解。&lt;/p&gt;
@@ -1418,10 +1418,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>孤独这件事</title>
-      <link>http://localhost:1313/blog/something-about-loneliness/</link>
+      <link>https://blog.tonyz.one/blog/something-about-loneliness/</link>
       <pubDate>Sun, 04 Jun 2017 13:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/something-about-loneliness/</guid>
+      <guid>https://blog.tonyz.one/blog/something-about-loneliness/</guid>
       <description>&lt;p&gt;这两天在知乎上看到这样一个问题“为什么我书读得越多，越看不起周围的人？”以及这个问题下面的一些答案。对于这个问题，我可能也可以说有一些感触，我反思过自己为什么会孤独，也想过为什么不是那么讨人喜欢。在读了一些回答后，我想自己可能也更明白一些道理了。&lt;/p&gt;
 &lt;p&gt;其实在大一时，我就深刻感受到自己有些看不起周围的人。一方面是大学和高中的落差，让我很难敞开心扉与身边人交流；另一方面，大学的生活更为丰富，然而我对其中大多数活动不感兴趣，而我感兴趣的事物在这所学校很难寻找到。这种日子持续了很久，因此很久一段时间我都是浑浑噩噩在过日子。&lt;/p&gt;
 &lt;p&gt;大二以后进入法学院，开始正式学习法律。尽管法律这个概念在高中时就有接触，但真正开始学习这门学问，才发觉自己的渺小以及和别人之间的差距。在经过努力之后，几乎追赶上同班同学，却又开始自得自满，开始瞧不起身边的一些人。&lt;/p&gt;
@@ -1433,10 +1433,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>回归，也是新的开始</title>
-      <link>http://localhost:1313/blog/retrun-and-a-new-beginning/</link>
+      <link>https://blog.tonyz.one/blog/retrun-and-a-new-beginning/</link>
       <pubDate>Sun, 21 May 2017 13:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/retrun-and-a-new-beginning/</guid>
+      <guid>https://blog.tonyz.one/blog/retrun-and-a-new-beginning/</guid>
       <description>&lt;h1 id=&#34;回归&#34;&gt;回归&lt;/h1&gt;
 &lt;p&gt;回扬州的第一个周末，就这样度过。&lt;/p&gt;
 &lt;p&gt;与在北京的这半年相同的是，周末的大多数时间是在睡觉；不同的则是，在北京因为平时太忙，周末只想睡觉，而在扬州则是目前并没有什么事情，只能睡觉。所以所谓回归，其实只是换了一个地方睡觉吧。&lt;/p&gt;
@@ -1460,10 +1460,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>迟到 or 早到的一周总结</title>
-      <link>http://localhost:1313/blog/late-or-early-summary-of-the-week/</link>
+      <link>https://blog.tonyz.one/blog/late-or-early-summary-of-the-week/</link>
       <pubDate>Fri, 12 May 2017 01:06:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/late-or-early-summary-of-the-week/</guid>
+      <guid>https://blog.tonyz.one/blog/late-or-early-summary-of-the-week/</guid>
       <description>&lt;p&gt;上周偷懒，没有写文章，本想用一篇法律意见糊弄过去，但发现最近也没写什么好的法律意见，或者有些内容关乎客户商业机密无法拿出来讨论，所以上周的文章终究是欠了的，以至于这周状态不好，但好像这周状态不好与上周没写文章没什么关系吧。&lt;/p&gt;
 &lt;p&gt;我也说不清楚还有几周离开北京，可能是一周，也可能是两周。北京的环境令我无法忍受，但北京的朋友却又令我十分留恋这座城市，因此这是一个矛盾的问题。回扬州，我知道我会享受一段时间的清闲，但那种生活也不是我想要的，显然问题在于我太贪心。&lt;/p&gt;
 &lt;p&gt;这两天又在思考今年不出国读书是否明智这件事。很显然，以本科学历想进那些我梦想的律所很难，或者说机会渺茫；出国读书回来也并不是很容易就进去了，还要一些机缘巧合。所以说今年不出去是可以积累一些经验，但也给在时间上给了我更多的压力，看到同龄人摩拳擦掌、开始事业，我还有些书要读，还有些故事要经历。&lt;/p&gt;
@@ -1474,10 +1474,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>改论文有感</title>
-      <link>http://localhost:1313/blog/for-dream/</link>
+      <link>https://blog.tonyz.one/blog/for-dream/</link>
       <pubDate>Thu, 04 May 2017 01:08:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/for-dream/</guid>
+      <guid>https://blog.tonyz.one/blog/for-dream/</guid>
       <description>&lt;p&gt;五一假期，我在朋友圈领略大江南北的风光，顺带继续修改我的论文。眼看假期就要结束，论文的修改工作也即将收尾，于是草草写下这篇感悟，以纪念我这个特殊的五一假期。&lt;/p&gt;
 &lt;p&gt;从2017年3月份开始动笔写论文，到现在整整两个月了，论文从最初的框架到现在一万一千多字历经了三稿，前后改动大约有十余次，今夜将第三稿的第三个版本通过邮件发给导师，第三稿也就告一段落。但我有自知之明，这个稿子还是要继续修改。&lt;/p&gt;
 &lt;p&gt;躺在床上翻来覆去，怎么都不自在，可能是我这个长江中下游包邮区人民不适应干燥闷热的北方初夏吧，毕竟在我长大的地方，初夏是伴着一场又一场阵雨而来。南北地域差异，此刻体现得最为明显。&lt;/p&gt;
@@ -1490,10 +1490,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>这一周，有点郁闷</title>
-      <link>http://localhost:1313/blog/so-sad/</link>
+      <link>https://blog.tonyz.one/blog/so-sad/</link>
       <pubDate>Sun, 16 Apr 2017 01:09:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/so-sad/</guid>
+      <guid>https://blog.tonyz.one/blog/so-sad/</guid>
       <description>&lt;p&gt;这一周，显然有点郁闷，其中最让我郁闷的应该就是我租住的房子断网了。熟悉我的朋友都知道网络对我的重要性，因此处于一个断网的环境中，我该多郁闷，你们也应该可以想象了。&lt;/p&gt;
 &lt;p&gt;除此之外，热水器也出了问题，在忙碌了一天后无法痛快地洗一个热水澡，一定是这个世界上最为痛苦的事情了。把断网和热水器这两件事情结合在一起，这一周的郁闷指数就像北京的 PM2.5一样爆表了。此刻我坐在咖啡馆里蹭着网，写着这篇文章，但我还是难以想象之后的两个月该如何平安度过无网的生活。&lt;/p&gt;
 &lt;p&gt;以前在家、在学校时，我的生活是有人照顾的。在家从来不会担心生活的琐事，都由父母照料着；在学校其实也一样，宿管阿姨会关照生活中的问题。但现在一个人在离家千里之外的北京，房子是租的，如果按时缴纳房租，没人在乎你的生活过成什么样子。这么一想，除了郁闷，还有悲哀，就这么硬生生进入了社会。&lt;/p&gt;
@@ -1505,10 +1505,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>也评《人民的名义》</title>
-      <link>http://localhost:1313/blog/the-name-of-the-people/</link>
+      <link>https://blog.tonyz.one/blog/the-name-of-the-people/</link>
       <pubDate>Sat, 08 Apr 2017 04:50:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/the-name-of-the-people/</guid>
+      <guid>https://blog.tonyz.one/blog/the-name-of-the-people/</guid>
       <description>&lt;p&gt;这几日，《人民的名义》这部反腐正能量电视剧在互联网上刮起了一阵旋风，为了紧跟时代潮流，不被同事嘲笑为“冥王星的子民”，这周末我一口气将目前这部剧目前已播出部分看完了。在看这部剧的过程中，我的确感受到这部剧在通过广电审核时受到的优待，因为其对官场环境的描述，对官员日常的刻画，还是比较到位的，至少比以往类似题材的电视剧要写实得多。这部剧的出现，显然是代表了目前国内最高层对于我国官场的一些态度，既是展现前几年“反腐倡廉”的成果，也是在配合目前进一步深化的反腐斗争。&lt;/p&gt;
 &lt;p&gt;区别以往电视剧人物脸谱化，《人民的名义》中多位角色的身份令人难以揣摩，总给人一种亦正亦邪的感觉，可能这是官场之中的处世哲学。同时这部剧也给我一种错觉，即身居高层的人之间要么师生关系，要么直接或间接亲属关系，而真正从底层上来的官员似乎是少数，这可能是我的错觉。不过我想，这是不是从某种层面上反映了事实？&lt;/p&gt;
 &lt;p&gt;这部剧中有个角色叫陈岩石，是一位久经沙场的老革命，也是这部剧中三观最正的角色。将其与现在官场的许多官员相比，就会发现现在的官员的觉悟似乎太低了一点，心中很少有真正装着党和人民的。现在经常有人笑谈收钱办事的就算是清官，那么就一定还有很多收了钱不办事的贪官。我们很难再去用几十年前的官员的标准要求现在的官员，毕竟时代变了，但官员至少应该为人民办些实事吧。&lt;/p&gt;
@@ -1519,10 +1519,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>慈善组织财产能否用于投资？</title>
-      <link>http://localhost:1313/blog/questions-about-the-charitable-fund/</link>
+      <link>https://blog.tonyz.one/blog/questions-about-the-charitable-fund/</link>
       <pubDate>Sat, 01 Apr 2017 20:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/questions-about-the-charitable-fund/</guid>
+      <guid>https://blog.tonyz.one/blog/questions-about-the-charitable-fund/</guid>
       <description>&lt;p&gt;实践中，一些企业为了获得资源、开拓市场，常常会与基金会、红十字会等等慈善组织合作，合作通常是以捐赠资金、捐赠实物的方式进行，而慈善组织有时会希望将这些资金、实物进行投资，从而盘活慈善资金，为更多人提供帮助。因此，这些慈善组织会面临一个显而易见的法律问题，即慈善组织财产能否用于投资？&lt;/p&gt;
 &lt;p&gt;针对此问题，笔者查阅了相关法律法规，研究了类似的案例，做了以下粗浅的分析：&lt;/p&gt;
 &lt;ol&gt;
@@ -1542,10 +1542,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>手机又双叒叕摔了</title>
-      <link>http://localhost:1313/blog/phone-crash/</link>
+      <link>https://blog.tonyz.one/blog/phone-crash/</link>
       <pubDate>Sat, 01 Apr 2017 01:10:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/phone-crash/</guid>
+      <guid>https://blog.tonyz.one/blog/phone-crash/</guid>
       <description>&lt;p&gt;前两天出了地铁站准备骑摩拜去客户单位，刚开好车准备从人行道下到非机动车道，手上拿着手机，心想不会手机不会因此掉了吧，结果&amp;hellip;真的就掉了&amp;hellip;这种感觉就是明明知道有什么发生，却还是让它发生了，后来想来，十分得逗比。&lt;/p&gt;
 &lt;p&gt;还记得上次摔手机是上一部手机刚买一周的时候，在去吃麻辣烫的路上摔了，拾起来一看屏幕居然碎了。无奈只能去当地授权售后维修，花了不少钱。这次摔手机倒是没把屏幕摔坏，磕碰了一个角，其他倒是没问题。对比两次摔手机的体验，我倒是有了些心得体会。&lt;/p&gt;
 &lt;p&gt;以前很在乎手机，觉得手机摔了就非常的心疼，主要还是那个时候很痴迷手机。每天都在看各种各样的手机的测评什么的，在研究参数信息，追着看各家手机厂商开发布会。然而现在，昨天刚开的三星S8发布会没有看，再往前的苹果发布会也没看，也没有兴趣再去寻找关于手机的信息了。&lt;/p&gt;
@@ -1555,10 +1555,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>主不在乎</title>
-      <link>http://localhost:1313/blog/who-care/</link>
+      <link>https://blog.tonyz.one/blog/who-care/</link>
       <pubDate>Sun, 19 Mar 2017 01:10:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/who-care/</guid>
+      <guid>https://blog.tonyz.one/blog/who-care/</guid>
       <description>&lt;p&gt;其实这个题目来源于以前看过的《三体》，对于信仰三体的地球人，三体就是他们的主，而地球对三体的反抗，对他们来说只不过是“主不在乎”的事情。我为什么会突然想到这个题目，并无特殊的含义，大概只是这句话让我觉得很酷吧。&lt;/p&gt;
 &lt;p&gt;昨天和同事从CBD到三里屯，再从三里屯到后海，又从后海骑车到天安门，一阵溜达之后又去西单大悦城对面的麦当劳吃东西，最后大家说要骑车回家，也就是从西城区骑车经过东城区再到朝阳区&amp;hellip;想想都有些胆寒，然而我们确实从西单骑到了呼家楼&amp;hellip;然后再也骑不动了，只能打的回家，到家时已经五点半了，蒙头就睡直到十二点半，实实在在是疯狂的一夜。&lt;/p&gt;
 &lt;p&gt;想来到北京已经三月有余，生活发生着巨变，或者也可以说没有多大的变化。从最开始的欣喜万分，到现在的淡定，也就经过了这么三个月。三个月前我对理想抱着什么样的态度，三个月我的态度其实也差不多，但我感觉自己似乎又看清了一些东西，一些以前站在那个位置看不清的东西。&lt;/p&gt;
@@ -1568,10 +1568,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>草房北</title>
-      <link>http://localhost:1313/blog/north-to-cao-fang/</link>
+      <link>https://blog.tonyz.one/blog/north-to-cao-fang/</link>
       <pubDate>Mon, 06 Mar 2017 02:10:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/north-to-cao-fang/</guid>
+      <guid>https://blog.tonyz.one/blog/north-to-cao-fang/</guid>
       <description>&lt;p&gt;大概每过一个月都会有这样心情糟糕的几天，于是昨晚心情就很糟糕。为什么心情糟糕呢？其实是觉得一个人在北京过得惨兮兮的，没有钱，也没有多少自己的时间。有一点质疑自己的想法，想要在北京／上海留下来是不是痴人说梦？&lt;/p&gt;
 &lt;p&gt;我住在草房，虽然说这里是朝阳区，其实已经到与通州区接壤的位置了。每天早上坐地铁，需要1个小时才能到所里，唯一的安慰是这里有始发车，可能会有座位。除此之外，每天通勤时就是看看书、刷刷手机。很多生活在北京的年轻人都这样吧，甚至有很多人住到了河北，每天花上几小时通勤，到达北京市中心发挥自己的光与热。&lt;/p&gt;
 &lt;p&gt;若干年以后，如果没能在北京留下来，灰头土脸地回到家乡，那就似乎什么都不剩了。已经把最好的岁月留在大都市，成为筑成大都市的一砖一瓦。而少部分能留在北京的人，又开始了新的一轮的竞争，只不过是为了他们的下一代。&lt;/p&gt;
@@ -1582,10 +1582,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>种草 Surface Book</title>
-      <link>http://localhost:1313/blog/surface-book/</link>
+      <link>https://blog.tonyz.one/blog/surface-book/</link>
       <pubDate>Sat, 25 Feb 2017 19:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/surface-book/</guid>
+      <guid>https://blog.tonyz.one/blog/surface-book/</guid>
       <description>&lt;p&gt;作为一个“果粉“，突然对田牌产品种草，这说明什么？嗯，还是听我讲故事吧。&lt;/p&gt;
 &lt;h2 id=&#34;这里是起因&#34;&gt;这里是起因&lt;/h2&gt;
 &lt;p&gt;出于众所周知的原因（其实就是上班），这台陪伴我三年多的 MacBook Air  有些力不从心了，尤其最近，不仅有些奇怪的小问题，还会经常性的卡住。这让我很怀疑，这台机器还能服役多久？作为一名非诉搬砖狗，拥有优异性能的电脑就是吃饭的家伙，所以我产生了换台电脑的冲动。&lt;/p&gt;
@@ -1604,10 +1604,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>论文、小说和美剧</title>
-      <link>http://localhost:1313/blog/papers-fiction-and-drama/</link>
+      <link>https://blog.tonyz.one/blog/papers-fiction-and-drama/</link>
       <pubDate>Mon, 20 Feb 2017 02:10:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/papers-fiction-and-drama/</guid>
+      <guid>https://blog.tonyz.one/blog/papers-fiction-and-drama/</guid>
       <description>&lt;p&gt;一周的工作之后，我只想躺在床上等待日上三竿，然而今天天气不算好，加之窗帘又拉着，于是屋内并不光亮。&lt;/p&gt;
 &lt;p&gt;其实睡不到日上三竿，工作日的作息影响了周末的起床时间，至少这两天我醒来的时间总是比我定下的闹钟要早得多。以前在学校，尤其是大四上学期，总是很晚起来，没有多少事情要做，也没多少事情可做。当时的心情，就是在朋友圈里写的那样：感觉是被困在了一个小地方。这种感觉到现在都令我有些害怕，会不会一辈子都困在一个地方了呢？&lt;/p&gt;
 &lt;p&gt;现在来北京了，确实空间变大了（生活和工作的空间都变大了），但同时也觉得自己有一部分时间和精力完全被工作挤占了，或者说除了工作，我不知道在这里还能做什么？就像题目一样，工作之外的生活我大概只有这三件事：看看论文、看看小说、看看美剧。&lt;/p&gt;
@@ -1619,10 +1619,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>大概就是大概</title>
-      <link>http://localhost:1313/blog/perhaps-and-perhaps/</link>
+      <link>https://blog.tonyz.one/blog/perhaps-and-perhaps/</link>
       <pubDate>Mon, 13 Feb 2017 02:10:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/perhaps-and-perhaps/</guid>
+      <guid>https://blog.tonyz.one/blog/perhaps-and-perhaps/</guid>
       <description>&lt;h2 id=&#34;大概的大概&#34;&gt;大概的大概&lt;/h2&gt;
 &lt;p&gt;大概有一段时间没有更新了，想用各种理由去解释，但说到底还是我懒。建网站之初，我心想一定要保持一周一更的状态，这样才能让自己有较为活跃的思维。随着时间的推移，越来越觉得没有时间安静地坐在电脑前面写字，更没有时间安静地读一本不是小说的书，大概还是我懒。&lt;/p&gt;
 &lt;p&gt;生活的重心从学习转移到工作，似乎更喜欢每天忙碌的感觉，而不是在学校碌碌无为，大概我本来就不是一个好学生吧。就像父辈评价我那样，只会认真做自己感兴趣的事情，那我现在清除地认识到学习并不是我感兴趣的事情。（摊手）&lt;/p&gt;
@@ -1637,10 +1637,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>乘风破浪</title>
-      <link>http://localhost:1313/blog/with-wind-for-dream/</link>
+      <link>https://blog.tonyz.one/blog/with-wind-for-dream/</link>
       <pubDate>Mon, 30 Jan 2017 02:10:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/with-wind-for-dream/</guid>
+      <guid>https://blog.tonyz.one/blog/with-wind-for-dream/</guid>
       <description>&lt;p&gt;昨天看了韩寒的《乘风破浪》，总体还不错。总觉得韩寒的作品充满着回忆的感觉，每次看完韩寒的作品就会想起很多以前的事情，或感慨或欣喜，心绪总归难平。韩寒离他的亭林镇越来越远，因为时间不会停下来等人，我大概也是这样的，离我曾经熟悉的越来越远，是好是坏，要很久以后才会知道吧。&lt;/p&gt;
 &lt;p&gt;小的时候，我们总有许多的梦想，到现在我们可能就想买套房，再买辆车吧，其他的还有什么呢？梦想是奢侈的，乘风破浪的机会也是奢侈的。就好比无论如何努力，我也不可能成为一名宇航员，但宇航员是多少人童年的梦想啊。年龄越大，人就越务实。这是好事，也是坏事。连梦都不会做的那天，我不知道还有什么值得我欣喜。&lt;/p&gt;
 &lt;p&gt;以前做过很多梦，甚至现在也会回味。得到的，也曾得到又失去，拥有时的兴奋，失去时的绝望，这样的感情交织在一起，让我慢慢学会接受这个现实，总是有得有失，生活一向如此。我不知道，得到的会在什么时候失去，珍惜二字就更为可贵了。不懂珍惜，总是失去的诱因，时间抹不平的东西太多，于是在梦里乘风破浪，在现实学会接受。&lt;/p&gt;
@@ -1649,10 +1649,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>新生活</title>
-      <link>http://localhost:1313/blog/new-life/</link>
+      <link>https://blog.tonyz.one/blog/new-life/</link>
       <pubDate>Mon, 09 Jan 2017 02:18:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/new-life/</guid>
+      <guid>https://blog.tonyz.one/blog/new-life/</guid>
       <description>&lt;p&gt;来北京一周整了，从借宿朋友家到现在搬进自己租的房子，北漂生活也就正式开始了。&lt;/p&gt;
 &lt;p&gt;坐在窗边，看着不远处闪烁着灯光，这就是大城市的灯红酒绿，已经有些让我目不暇接了。接下来的日子里，还会看见更大的世界，但愿我这个乡下来的不要迷失了自己。&lt;/p&gt;
 &lt;p&gt;这一周，开始了律所的工作，光荣地成为了一名非诉狗。之前就曾很羡慕过非诉律师的生活，觉得他们一定很光鲜，但这一周的工作做下来，发现光鲜的外表和苦逼的内在必然是同时存在的。这一周看了很多文件，以至于我这个自诩很爱电脑的人看电脑看到眼睛有一种快爆炸的感觉。接下来的日子，这将是常态，所以我已经准备好了眼药水，让我的眼睛可以偶尔放松一下。&lt;/p&gt;
@@ -1663,10 +1663,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>元旦快乐</title>
-      <link>http://localhost:1313/blog/happy-new-year-2017/</link>
+      <link>https://blog.tonyz.one/blog/happy-new-year-2017/</link>
       <pubDate>Mon, 02 Jan 2017 02:20:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/happy-new-year-2017/</guid>
+      <guid>https://blog.tonyz.one/blog/happy-new-year-2017/</guid>
       <description>&lt;p&gt;今天是2017年1月1日，此时我正坐在南京禄口机场的候机区，等待一小时起飞的航班。这趟航班是飞往霾都北京，就如我上一篇文章里说到的那样，北京我去过三次，一次比一次压力更大一些。在面试结束之后回扬州的火车上，我收到了来自 USC 的录取 offer ，当天下午我在咖啡馆坐着时收到来自北京律所的实习 offer 。这一切都有一些不真实，直到此刻我坐在机场、等待飞机起飞，才切实地感受到我的2017将有很长一段时间在北京、甚至是洛杉矶这些陌生的城市度过了。&lt;/p&gt;
 &lt;p&gt;很早之前，我曾经在知乎写过一个答案，讲的是作为一个一般高校的学生如何寻找自己的人生价值。我曾经写到，我一直为出国和进大律所两个目标努力着，我的本科可能会是实现这些目标最大的阻碍，但并不是因为这些我就不去努力了，只要自己努力，并持之以恒地向一个方向努力，梦想总归可能实现的。&lt;/p&gt;
 &lt;p&gt;现在去说已经实现了梦想还为时过早，不过我可以讲我在梦想的路上又前进了一点。不管未来是什么样的，至少我有为自己的梦想努力。未来很遥远，未来其实又不远，你看现在已经2017年了，而一恍惚还以为自己还在2016年呢。&lt;/p&gt;
@@ -1676,10 +1676,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>云端之上</title>
-      <link>http://localhost:1313/blog/above-the-clouds/</link>
+      <link>https://blog.tonyz.one/blog/above-the-clouds/</link>
       <pubDate>Mon, 02 Jan 2017 02:19:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/above-the-clouds/</guid>
+      <guid>https://blog.tonyz.one/blog/above-the-clouds/</guid>
       <description>&lt;p&gt;在飞机上困乏无事，索性打开电脑再写一篇吧。&lt;/p&gt;
 &lt;p&gt;从英国回来之后，很久没有坐过飞机了。还记得从浦东飞阿布扎比，之后再从阿布扎比转机到伦敦，漫长的十多小时的航程，让我体会到坐火车硬座的感觉。再往后，一直在忙这样那样的事情，要不是这次去北京，可能还要挺久才能坐飞机。&lt;/p&gt;
 &lt;p&gt;我还记得第一次坐飞机，那是从哈尔滨飞上海，之前我和朋友们一起坐着20小时的硬座从哈尔滨往返漠河，对，就是中国最北的地方，冬天温度可以达到零下40-50度的寒极。那一次真是觉得好玩，哈尔滨零下十几度，上海还是零上，从哈尔滨机场坐上飞机，再到上海下飞机，顿时觉得好像暖和一点了。其实这一次的反差不算大，去年还是前年冬天飞去海南过冬，二十几度的温度，心旷神怡。可以街边喝酒撸串，也可以在酒店的游泳池游泳，或者在三亚的海边散散步，总之很是不错。返程是直飞南通，经过长沙中转，就好像从热带一下子回到了寒带（地理学得并不好）&lt;/p&gt;
@@ -1689,10 +1689,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>北上吸霾</title>
-      <link>http://localhost:1313/blog/beijing-and-haze/</link>
+      <link>https://blog.tonyz.one/blog/beijing-and-haze/</link>
       <pubDate>Fri, 23 Dec 2016 02:21:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/beijing-and-haze/</guid>
+      <guid>https://blog.tonyz.one/blog/beijing-and-haze/</guid>
       <description>&lt;p&gt;这是我第三次来北京。第一次是高考之后的那个暑假，把北京知名的景点玩了过去；第二次是去年冬天来北京开公众号的会议；这一次来北京，则是为了谋求一份实习。可以这么说，第一次来毫无压力，第二次来感受到些许压力，这一次来深感压力。天公作美，每一次到北京时，雾霾的威力都减了不少，尤其这次，来之前还看到报道说北京雾霾过大，飞机无法降落。今天我下火车时则是晴空万里，将寒冷也驱走了不少。看来，我和北京还是有些缘分的。&lt;/p&gt;
 &lt;p&gt;高中时，常和 tanx 一同放学回家，路上偶尔会谈起今后去哪里上学。 tanx 想去北京，因为他喜欢那里。我没有特定的喜好，当然上海是再好不过的。后来， tanx 去了武汉，我来了扬州，所以我们都没有去成想去的城市，这就是现实。&lt;/p&gt;
 &lt;p&gt;学会接受现实，也学会与现实搏斗。我花了三年多的时间去编织我的梦想，从远到近，从一个虚幻变得切实起来。我还记得自己很久以前写在知乎上的答案，关于在一个比较一般的大学如何寻找自我。我在答案里洋洋自得，似乎是一个预言家。那些话的确说得太早了，现在去看仍旧会脸红，如果无法实现，真是一个失败的预言家对自己深刻地打脸。也正是这个原因，这三年多来，我坚持做了一些事情。无论今后去评价这些事情是否好、是否成功，我很感激自己确实做过一些努力。&lt;/p&gt;
@@ -1702,10 +1702,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>辩护士的自白</title>
-      <link>http://localhost:1313/blog/the-trouble-of-criminal-lawyer/</link>
+      <link>https://blog.tonyz.one/blog/the-trouble-of-criminal-lawyer/</link>
       <pubDate>Wed, 14 Dec 2016 19:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/the-trouble-of-criminal-lawyer/</guid>
+      <guid>https://blog.tonyz.one/blog/the-trouble-of-criminal-lawyer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.loli.net/2018/10/15/5bc38ae645ca4.jpg&#34; alt=&#34;andrew-worley-299600-unsplash.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;看过《Legal High》、《Hero》之后，知道日本的律师叫做辩护士，上庭需要别象征辩护士身份的菊花徽章。菊花徽章是金色的，据说一个律师的菊花徽章颜色越浅、磨损得越厉害，就证明这位律师的资历越深。当时我就在想中国也有律师徽章么？显然也是有的，大二还是大三时上民事诉讼法时，为了扮演模拟庭审中的律师，我也购买了一枚律师徽章。可好像除了我这样参加模拟庭审的学生，真正的律师很少有出庭别律师徽章的，我国律师的心路历程又是怎样的呢？怀着这样的疑问，我最近读了一本朱明勇律师的《无罪辩护》，讲了其作为一名刑事辩护律师办理的十件案件的的办案经过和体会，的确写的不错。&lt;/p&gt;
 &lt;p&gt;其实读这本书之前我就知道在我国做刑事辩护是件很困难的事情了，但书里叙述的案件中的一些事实让我深切感受到刑事律师执业环境之恶劣，以及在我国一些刑事冤案之离谱，让我进一步了解到刑事辩护的窘境之严峻。&lt;/p&gt;
@@ -1726,10 +1726,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>一只小猫</title>
-      <link>http://localhost:1313/blog/a-little-cat/</link>
+      <link>https://blog.tonyz.one/blog/a-little-cat/</link>
       <pubDate>Sat, 10 Dec 2016 02:22:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/a-little-cat/</guid>
+      <guid>https://blog.tonyz.one/blog/a-little-cat/</guid>
       <description>&lt;p&gt;朋友最近捡了一只小奶猫，叫“三七”。这是一只典型的中华田园猫，没有高贵的血统，生下来就直面这个残酷的社会，所幸她遇到了我的朋友，得以感受些许的温暖。然而三七的命运是这么的坎坷，还在我们商量如何云养猫时，三七就因为疾病永远地离开了我们。她出生时无人在意，她离开时，除了我们几个也无人关心，三七就这么走了。&lt;/p&gt;
 &lt;p&gt;朋友说，当看到三七的心跳变为直线时，特别伤心。我感觉到，生命是这么的渺小和脆弱，一旦疾病或意外来袭，毫无招架之力。既然如此，好好活着比什么都重要。想要追求的那些东西也只有在身体健康、精力充沛的前提下才可能追求。对照下我自己现在的身体状况，深感忧虑。&lt;/p&gt;
 &lt;p&gt;最近很爱听李宗盛的歌，从伦敦回来的那一夜，我单曲循环了很久的《漂洋过海来看你》，旋律几近刻入我的心。所以这几天听李宗盛的歌，总有一种饱历沧桑之后的庆幸之感。的确，发生了许多的事情，别了旧人、见了新人，走来走去。为什么说“人海”，因为认识的人就像海水一样，有些走、有些留，一转身就是下辈子，又一转身可能还在那里。&lt;/p&gt;
@@ -1739,10 +1739,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>开心就好</title>
-      <link>http://localhost:1313/blog/just-for-happy/</link>
+      <link>https://blog.tonyz.one/blog/just-for-happy/</link>
       <pubDate>Thu, 08 Dec 2016 02:23:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/just-for-happy/</guid>
+      <guid>https://blog.tonyz.one/blog/just-for-happy/</guid>
       <description>&lt;p&gt;人生在世何其短暂，哪来那么多的烦恼，要的太多，做的太少，那烦恼就多了。&lt;/p&gt;
 &lt;p&gt;今晚听完一场辩论，结果如何并不重要。我自高中以来，有三年的时间献给了辩论，但如果要我以辩论为业，我做不到，我有更想追求的东西。同样的，辩论好玩，但如果较了真，伤了和气，这辩论有什么好玩的。&lt;/p&gt;
 &lt;p&gt;之前有个朋友很爱辩论，在知乎上点了很多赞，都是关于辩论的，一开始不错，后来都是那些辩论dalao的撕逼，有什么好看的，作为吃瓜群众，不会觉得很厉害，只会觉得这些人啊，naive啊，为什么会把一件可以令人开心的事情变成这样呢。&lt;/p&gt;
@@ -1754,10 +1754,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>无题</title>
-      <link>http://localhost:1313/blog/no-title/</link>
+      <link>https://blog.tonyz.one/blog/no-title/</link>
       <pubDate>Fri, 02 Dec 2016 02:20:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/no-title/</guid>
+      <guid>https://blog.tonyz.one/blog/no-title/</guid>
       <description>&lt;p&gt;我必须承认，26号考完托福之后，我给自己放了一个假。从准备司考以来，每天都过得很神经紧张，都会计算今天学习了时间、睡了多少时间，然后用这些时间告诉自己，自己还算努力，结果一定会好的。&lt;/p&gt;
 &lt;p&gt;我很怀疑尽管自己付出了那么多的时间，效率却十分的低，很可能只有百分之十的时间转化成了我复习所得到的知识。因此，这几天我一直在思考，我这段时间做了什么，做成了什么，接下来想要做什么。其实越想是迷茫的，越想越想不清楚。很多规划，我都想调整了，或者说放弃了。我感觉好累，感觉我没办法继续下去了。&lt;/p&gt;
 &lt;p&gt;每天睡不够会头疼，这几天睡得很多依然会头疼。学习会担心结果，不担心会心慌。总之，无论如何我都陷于一种错乱的世界中。这并不是我想要的，但我不得不学会接受与这样的生活共处。而不是让很多东西吞噬我。&lt;/p&gt;
@@ -1767,10 +1767,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>认真的雪</title>
-      <link>http://localhost:1313/blog/serious-snow/</link>
+      <link>https://blog.tonyz.one/blog/serious-snow/</link>
       <pubDate>Thu, 24 Nov 2016 02:25:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/serious-snow/</guid>
+      <guid>https://blog.tonyz.one/blog/serious-snow/</guid>
       <description>&lt;p&gt;今年的雪比往年来得都要早，尚未到12月就飘起了鹅毛大雪，气温也骤降到零度，让我充分感受到这个冬天的寒冷。&lt;/p&gt;
 &lt;h2 id=&#34;冰冷的雪&#34;&gt;冰冷的雪&lt;/h2&gt;
 &lt;p&gt;昨天，期待了很久的司法考试公布结果了。遗憾的是，我并未能通过，尽管我以为第一次就会顺利通过。得知结果之后，我对结果出奇地冷静，因为好像“没通过”这个消息，早已是我能接受的结果了。为什么会这样？&lt;/p&gt;
@@ -1785,10 +1785,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>写点什么好？</title>
-      <link>http://localhost:1313/blog/what-should-i-write/</link>
+      <link>https://blog.tonyz.one/blog/what-should-i-write/</link>
       <pubDate>Sun, 20 Nov 2016 02:26:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/what-should-i-write/</guid>
+      <guid>https://blog.tonyz.one/blog/what-should-i-write/</guid>
       <description>&lt;p&gt;状态不好，甚至觉得有些病态。每天其实起得并不早，晚上睡得当然也不早，可一天下来总觉得没学到什么，收获很小，不知道这样积累下去要多少日子才能有质的改变。羡慕好多人，小明拿到offer了，小张被保研了，小李有了女朋友了&amp;hellip; 总之，身边都是好消息，令人高兴，也令人恐慌。&lt;/p&gt;
 &lt;p&gt;北大的教授贺卫方酒桌上的视频被人曝光到网络上，掀起舆论的热潮。毕福剑酒桌视频让其狼狈不堪，从此告别央视主持人的位子，要知道，毕姥爷还曾主持过春晚，可这又有什么用呢，到最后凄惨收场。所以说，酒桌上能不喝酒就不要喝酒，喝了酒也要管好自己的嘴，吹牛可以，不要上纲上线，谁知道坐在你对面的那个人是否爱拍视频传到网上呢？&lt;/p&gt;
 &lt;p&gt;学习上的很多问题，希望自己能够突然开窍，就像一觉醒来突然就会做所有题目了一样。但这是不可能的，必然是不可能的。真可怜，我是个很笨的人。&lt;/p&gt;
@@ -1798,10 +1798,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>我们见证着历史</title>
-      <link>http://localhost:1313/blog/we-witness-to-history/</link>
+      <link>https://blog.tonyz.one/blog/we-witness-to-history/</link>
       <pubDate>Thu, 10 Nov 2016 19:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/we-witness-to-history/</guid>
+      <guid>https://blog.tonyz.one/blog/we-witness-to-history/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.loli.net/2018/10/15/5bc38a4f94d49.jpg&#34; alt=&#34;joanna-kosinska-44214-unsplash.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;最近刚读完林达先生的《历史在你我身边》，这本书与之前的近距离看美国系列、一路走来一路读等都不一样，内容比较分散，大多是林达先生日常读书中引发的感悟、以及对往事的讲述，显得更为平易近人。&lt;/p&gt;
 &lt;p&gt;这本书的内容虽然较杂，但大致能归为几个话题：法律、文革、政治正确还有司法制度。读完这本书，我也有一些自己的感悟，也稍作一些分享。&lt;/p&gt;
@@ -1830,10 +1830,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>一场游戏，一个等式</title>
-      <link>http://localhost:1313/blog/equation/</link>
+      <link>https://blog.tonyz.one/blog/equation/</link>
       <pubDate>Mon, 07 Nov 2016 02:28:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/equation/</guid>
+      <guid>https://blog.tonyz.one/blog/equation/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;生命是一场游戏，也是一个等式。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1849,10 +1849,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>美国总统讲话－2016年全国家庭暴力宣传月</title>
-      <link>http://localhost:1313/blog/presidential-proclamation-about-anti-doemstic-violence/</link>
+      <link>https://blog.tonyz.one/blog/presidential-proclamation-about-anti-doemstic-violence/</link>
       <pubDate>Sun, 30 Oct 2016 20:50:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/presidential-proclamation-about-anti-doemstic-violence/</guid>
+      <guid>https://blog.tonyz.one/blog/presidential-proclamation-about-anti-doemstic-violence/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;之前也试着翻译过一些法律方面的文章，但终究不够得体，停了笔。这一次正好看到一篇美国总统奥巴马关于反家暴的讲话，觉得文章不长，且用词不难，可以尝试翻译一下，于是就花了两天的时间，翻译出下面的这篇文章。&lt;/p&gt;
 &lt;p&gt;可能看上去还是比较粗糙的，毕竟我了解自己的英文水平。但很多事情开头最难，昨天在诊所成员的请求下帮忙翻译了一段奥巴马关于反家暴的公益短片，虽然过程有些困难，但结果还是很不错的。做这样那样的事情，让自己变得更好，这种感觉不错。&lt;/p&gt;
@@ -1886,10 +1886,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>法律与医学的奇妙结合</title>
-      <link>http://localhost:1313/blog/the-fantastic-links-of-law-and-medicine/</link>
+      <link>https://blog.tonyz.one/blog/the-fantastic-links-of-law-and-medicine/</link>
       <pubDate>Thu, 20 Oct 2016 00:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/the-fantastic-links-of-law-and-medicine/</guid>
+      <guid>https://blog.tonyz.one/blog/the-fantastic-links-of-law-and-medicine/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;暑假里和 &lt;strong&gt;ElvisJcy&lt;/strong&gt; 关于法学和医学有过一段谈话，聊了一些在法学领域模糊的医学问题，也对这几年愈演愈烈的“医患纠纷”交流了看法。总的来说，这场谈话我受益颇多，但苦于之前一直没有时间整理下谈话的内容（其实之前整理过一个谈话的大纲，结果被我用做草稿纸了）。今天复习的状态似乎到了临界点，所以就顺其自然地写一写这场让我颇有收获的谈话吧。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1919,10 +1919,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>法律诊所的二三事</title>
-      <link>http://localhost:1313/blog/something-about-law-clinic/</link>
+      <link>https://blog.tonyz.one/blog/something-about-law-clinic/</link>
       <pubDate>Thu, 13 Oct 2016 01:29:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/something-about-law-clinic/</guid>
+      <guid>https://blog.tonyz.one/blog/something-about-law-clinic/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;这两天一直在教务处磨成绩单和在读证明的事情，截止11日，中英文成绩单、在读证明和排名证明都已经弄好，就等明天装入信封密封了。来不及喘一口气，又要磨推荐信的事，尽管已经和一位教授说好，另一位教授明天应该也可以联系好，但如何写出两封语气不同，角度不同的推荐信成了摆在我面前的难题。因推荐信的事情发愁得睡不着，于是起来写写最近也在弄法律诊所的事情，权当是对去年一年诊所工作的回忆和交代，也是对这一期新诊所的一些期待。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1938,10 +1938,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>佚名</title>
-      <link>http://localhost:1313/blog/anonymous/</link>
+      <link>https://blog.tonyz.one/blog/anonymous/</link>
       <pubDate>Sat, 08 Oct 2016 01:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/anonymous/</guid>
+      <guid>https://blog.tonyz.one/blog/anonymous/</guid>
       <description>&lt;p&gt;在查看一些数据的时候，偶然间发现百度索引了这个域名之前的网站的信息，那也是我曾经写过的文字，只不过我已经找不到它们在哪里了。就像在无垠的大海里抛下了一粒沙，从我手中落下后，就再也无处寻找。与之类似的，很多以前写过的文字，现在也不知道去了哪里。&lt;/p&gt;
 &lt;p&gt;人越是长大，越是容易封闭自己。看到很多人关了Q空间、删了微博，或者关了朋友圈，我也不例外。Q空间上曾经有过一百多篇日志，被我删得很干净。出于什么样的心情呢？可能是害怕被别人看穿，也可能是认为以前的自己太过幼稚。没有多少人愿意将自己并不美好的一面展现出来，这也是为什么美颜相机经久不衰。&lt;/p&gt;
 &lt;p&gt;但我还是希望能够把记录文字的习惯坚持下去，尽管很多年以后可能再去看现在的文字很幼稚，但这也是曾经的青春的记录呀。&lt;/p&gt;
@@ -1950,10 +1950,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>律师学院和法律信仰</title>
-      <link>http://localhost:1313/blog/inns-of-court-and-law-faith/</link>
+      <link>https://blog.tonyz.one/blog/inns-of-court-and-law-faith/</link>
       <pubDate>Wed, 05 Oct 2016 05:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/inns-of-court-and-law-faith/</guid>
+      <guid>https://blog.tonyz.one/blog/inns-of-court-and-law-faith/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;律师学院于欧洲中世纪时期成立，位于英国伦敦，律师学院是训练英国的大律师的组织，现时在英国执业的大律师均会是其中一间律师学院的会员。由林肯律师学院、中殿律师学院、内殿律师学院、格雷律师学院组成。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1978,10 +1978,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>瞬间</title>
-      <link>http://localhost:1313/blog/moment/</link>
+      <link>https://blog.tonyz.one/blog/moment/</link>
       <pubDate>Wed, 05 Oct 2016 01:32:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/moment/</guid>
+      <guid>https://blog.tonyz.one/blog/moment/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;有那么个瞬间，我想抛掉手上所有的书，好好放松一下。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1996,10 +1996,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>在 Old Bailey 听庭审</title>
-      <link>http://localhost:1313/blog/old-bailey/</link>
+      <link>https://blog.tonyz.one/blog/old-bailey/</link>
       <pubDate>Mon, 03 Oct 2016 05:03:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/old-bailey/</guid>
+      <guid>https://blog.tonyz.one/blog/old-bailey/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;中央刑事法院（Central Criminal Court）是位于英国伦敦的法院，通常以所在街道称为老贝利（Old Bailey），负责处理英格兰和威尔士的重大刑事案件。此地曾是中世纪新门监狱的所在地。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2023,10 +2023,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>九个人决定未来</title>
-      <link>http://localhost:1313/blog/niene-men/</link>
+      <link>https://blog.tonyz.one/blog/niene-men/</link>
       <pubDate>Sat, 01 Oct 2016 17:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/niene-men/</guid>
+      <guid>https://blog.tonyz.one/blog/niene-men/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.loli.net/2018/10/15/5bc381de93425.jpg&#34; alt=&#34;roman-koester-570842-unsplash.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;《九人：美国最高法院风云》这本书读到一半的时候，&lt;strong&gt;法影斑斓&lt;/strong&gt;公众号突然推送了爆炸性消息 &lt;strong&gt;“斯卡利亚大法官去世了”&lt;/strong&gt; ，看到这条推送后我放下手中这本书立即去美国最高法院网站试图证实这条消息是否真实，当我看到罗伯茨首席大法官发布了一条简短的讣告，我知道那个最高法院最有趣的大法官真的走了。然而他的离去却给人们出了一道难题——最高法院今后会走向何方？&lt;/p&gt;
 &lt;p&gt;《九人》这本书讲述的是伦奎斯特法院到罗伯茨刚就任首席大法官之间的故事，基本可以说是美国最高法院从民主急先锋向右转的过程。顶替马歇尔大法官的托马斯大法官认同&lt;strong&gt;色盲宪法&lt;/strong&gt;，而顶替奥康纳大法官的是比托马斯大法官还要保守的阿利托大法官，以至于曾经处于劣势的斯卡利亚大法官终于成为这个法院的多数派。《九人》告诉我们，大法官们不仅能审案断案，还能将布什送上总统宝座，这九个人不仅在改写美国司法进程，更通过美国司法来影响社会发展。&lt;/p&gt;
@@ -2036,10 +2036,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>一个刑事律师的执业感悟？</title>
-      <link>http://localhost:1313/blog/thoughts-about-criminal-lawyer/</link>
+      <link>https://blog.tonyz.one/blog/thoughts-about-criminal-lawyer/</link>
       <pubDate>Fri, 30 Sep 2016 17:50:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/thoughts-about-criminal-lawyer/</guid>
+      <guid>https://blog.tonyz.one/blog/thoughts-about-criminal-lawyer/</guid>
       <description>&lt;p&gt;最近读完孙中伟律师的《死刑改判在最高法院》，除去书中某些吹捧自己的段落，这本书还是不错的，介绍了很多做刑事律师的经验之谈，尤其对于刚入门或即将入门的刑事辩护律师有启发、思考的价值。&lt;/p&gt;
 &lt;p&gt;国际上一直有人权组织批评中国的死刑制度，甚至还是某大法一直抹黑中国利用死囚器官移植，但我认为随着社会发展的进步，我国的死刑制度的确也有了很大的进步。&lt;strong&gt;2007年将死刑复核权收归最高人民法院，最近出台的《刑法修正案（九）》也减少了适用死刑的罪名&lt;/strong&gt;。审阅我国现行刑法发现确实当下只有少数确实对社会有严重危害、恶劣影响的罪名还适用死刑，大多数案件已经不再课以重刑。这显然表明我国立法的进步。&lt;/p&gt;
 &lt;p&gt;当然，我依然认为死刑不应当废除，对于某些案件、某些犯罪嫌疑人适用死刑是合适的。倘若没有死刑这样的刑罚来惩戒罪犯，可能我国将会涌现出更多穷凶极恶的罪犯。对于某些情况下，可能也只有对罪犯适用死刑才能伸张正义，古老的**“同态复仇法”**的内涵至今仍是适用的。&lt;/p&gt;
@@ -2048,10 +2048,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>永别了，斯卡利亚大法官</title>
-      <link>http://localhost:1313/blog/farewell-scalia/</link>
+      <link>https://blog.tonyz.one/blog/farewell-scalia/</link>
       <pubDate>Wed, 28 Sep 2016 04:50:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/farewell-scalia/</guid>
+      <guid>https://blog.tonyz.one/blog/farewell-scalia/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;最高法院卡利亚大法官猝然离世给日益激烈的美国大选火上浇油，但可能这才符合斯卡利亚大法官一生的个性，&lt;strong&gt;高调而有趣&lt;/strong&gt;。这就是我们的斯卡利亚大法官，最高法院的喜剧之王。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2063,10 +2063,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>后司考随想</title>
-      <link>http://localhost:1313/blog/thoughts-after-bar-exam/</link>
+      <link>https://blog.tonyz.one/blog/thoughts-after-bar-exam/</link>
       <pubDate>Wed, 28 Sep 2016 01:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/thoughts-after-bar-exam/</guid>
+      <guid>https://blog.tonyz.one/blog/thoughts-after-bar-exam/</guid>
       <description>&lt;p&gt;司考终于在前天傍晚落下帷幕，为之努力了几个月的我，终于可以稍稍舒一口气，不用再担心有做不完的题目和听不完的音频，这样看上去好像挺好的。&lt;/p&gt;
 &lt;p&gt;考后第一天早晨本想睡到自然醒，哪想到备考期间的生物钟已经固化，尽管不用早起看书做题，但仍然早早醒了，在床上摩挲一会儿，还是下床洗漱吧。&lt;/p&gt;
 &lt;p&gt;洗漱完毕，打开一罐八宝粥，木然坐在电脑前，原来考好了就是这样的感觉啊？兴奋吗？好像并不。打开软件想要码字，快速地敲下题目，回车之后却怎么都不知道如何开头。的确，没有什么值得讲的。&lt;/p&gt;
@@ -2081,10 +2081,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>近来小感</title>
-      <link>http://localhost:1313/blog/rencent-thoughts/</link>
+      <link>https://blog.tonyz.one/blog/rencent-thoughts/</link>
       <pubDate>Wed, 14 Sep 2016 01:39:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/rencent-thoughts/</guid>
+      <guid>https://blog.tonyz.one/blog/rencent-thoughts/</guid>
       <description>&lt;h2 id=&#34;阿里月饼事件&#34;&gt;阿里月饼事件&lt;/h2&gt;
 &lt;p&gt;今天知乎上热议的是“如何评价阿里安全部门员工月饼事件？“，而我是在即刻上看到的，越发得觉得自己的落伍，至于这件事本身，不同的人发表了许许多多意见。有人认为员工的行为无伤大雅，阿里开除员工大动干戈；有人认为员工通过脚本抢月饼，违反了企业规定，如此处罚并无不当。&lt;/p&gt;
 &lt;p&gt;作为一名旁观者，又从学法律的角度来看这个问题，这其实就是一个简单的违反员工章程，劳动单位即时解除劳动合同的典型的劳动争议案件。如果我是阿里员工，那就会尽可能在合同规定的范围内、法律允许的情况下，拿足赔偿金，然后寻找下家；如果我是阿里HR，我会在法务的指导下安排好员工的离职事宜，尽可能不引起劳动纠纷。这样的结局可能才是皆大欢喜。至于道德、价值观，这些不是法律调整的对象，我还是不做更多的关注。&lt;/p&gt;
@@ -2099,10 +2099,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>别怕，通中依然是通中</title>
-      <link>http://localhost:1313/blog/tongzhong-forver/</link>
+      <link>https://blog.tonyz.one/blog/tongzhong-forver/</link>
       <pubDate>Sat, 10 Sep 2016 05:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/tongzhong-forver/</guid>
+      <guid>https://blog.tonyz.one/blog/tongzhong-forver/</guid>
       <description>&lt;p&gt;通中的姚校长最近退休了，接任的是从外校来的新校长。&lt;/p&gt;
 &lt;p&gt;新校长如何，开学仅一周就评价可能过于武断，因此现在就悲观地认为通中模式不复存在为时过早。通中这块牌子是历代通中人苦心经营出来的，通中模式也是历代通中决策层摸索探寻出来的，不会因为一任校长、一朝一夕的改变，就使通中彻底转了向，变了样。&lt;/p&gt;
 &lt;p&gt;其实通中最可贵的是她的精神，“诚恒”二字不仅刻在学校教学楼下的石碑上，更写进了每个通中人的心里。这是无数通中教师言传身教的结果，并不仅仅是书本上知识的熏陶。学生走出通中，进入大学，都带着母校给予的荣誉感，同时也激励着通中学生更加奋进，生怕辱没了通中的名声。&lt;/p&gt;
@@ -2115,10 +2115,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>网银里的钱去哪儿了？</title>
-      <link>http://localhost:1313/blog/where-is-my-money/</link>
+      <link>https://blog.tonyz.one/blog/where-is-my-money/</link>
       <pubDate>Tue, 06 Sep 2016 00:55:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/where-is-my-money/</guid>
+      <guid>https://blog.tonyz.one/blog/where-is-my-money/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.loli.net/2018/10/14/5bc2947a9376d.jpg&#34; alt=&#34;online-bank&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;最近电信诈骗案件的报道常见于报端，细细读来这些案件的报道，笔者发现一些案件纯粹是出于受害人的警惕性过低，而有些案件则是犯罪分子利用了某些银行的网银系统的缺陷，让受害人防不胜防。今天笔者将为大家分析下面一起案例。&lt;/p&gt;
@@ -2151,10 +2151,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>开学快乐</title>
-      <link>http://localhost:1313/blog/happy-new-smester/</link>
+      <link>https://blog.tonyz.one/blog/happy-new-smester/</link>
       <pubDate>Sun, 04 Sep 2016 01:37:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/happy-new-smester/</guid>
+      <guid>https://blog.tonyz.one/blog/happy-new-smester/</guid>
       <description>&lt;h2 id=&#34;一点回忆&#34;&gt;一点回忆&lt;/h2&gt;
 &lt;p&gt;2001年9月1日开始上小学，到今天也就是2016年9月1日已经整整15年，第一次不用在开学的这一天去学校，这样的感觉有些怪怪的，毕竟我还是一个学生，不用准时出现在校园里有些特别。以往我都是一个“好学生”，从不会迟到，印象里真的没有因为迟到而被老师罚过。（并不是说上学迟到就不是好学生啊）&lt;/p&gt;
 &lt;p&gt;这次不用到学校，纯粹是因为开学第一个月学院不安排课程，给我们用来备考。对于我而言，因为很多事情发生之后，就没有那么想回到学校了，再加上之前有个很重要的人告诉我在家复习效率更高，并且自己体会下来也确实感觉如此，因此我还是决定在家多复习几天。&lt;/p&gt;
@@ -2171,10 +2171,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>眼皮肿了</title>
-      <link>http://localhost:1313/blog/eye-sick/</link>
+      <link>https://blog.tonyz.one/blog/eye-sick/</link>
       <pubDate>Sun, 28 Aug 2016 01:37:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/eye-sick/</guid>
+      <guid>https://blog.tonyz.one/blog/eye-sick/</guid>
       <description>&lt;p&gt;就在距离考试还有28天时，我的眼皮肿了起来&lt;/p&gt;
 &lt;p&gt;真是不巧啊，需要眯着眼睛来读书、做题目，一旦时间久了，就会非常不舒服，真是令人头疼啊。这让我想起来最近用来放松日剧《高考灰姑娘》，主人公在高考之前遇到了无数头疼的问题，虽然我还没看到结局，但我估计结局一定是大圆满，所以说是不是考试之前多一点折磨，考试就会完美通过了呢？&lt;/p&gt;
 &lt;p&gt;如果真如上面所说，我还真是愿意眼皮再肿一会儿，虽然挺疼的。&lt;/p&gt;
@@ -2183,10 +2183,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>电信诈骗及常外校园污染事件后续</title>
-      <link>http://localhost:1313/blog/telephone-defraud-and-oillution/</link>
+      <link>https://blog.tonyz.one/blog/telephone-defraud-and-oillution/</link>
       <pubDate>Sun, 28 Aug 2016 00:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/telephone-defraud-and-oillution/</guid>
+      <guid>https://blog.tonyz.one/blog/telephone-defraud-and-oillution/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;这两天网络上热议的是一名山东的大学生被电信诈骗后，因伤心至极不幸去世的话题。今晚相关部门宣布已经抓获三名涉案犯罪嫌疑人，并发布了A级通缉令追逃剩余的三名涉案犯罪嫌疑人，足以见得对这个案件的重视。我对各家新闻网站评论区对这些犯罪嫌疑人喊打喊杀的言论已经毫无意外，类似的热点事件出现后，勇于争先的键盘侠比比皆是，而真正思考案件背后的问题，并继续关注后续发展的人少之又少。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2220,10 +2220,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>试析王宝强离婚后子女抚养权问题</title>
-      <link>http://localhost:1313/blog/some-mor-law-problems-in-mr-wang-case/</link>
+      <link>https://blog.tonyz.one/blog/some-mor-law-problems-in-mr-wang-case/</link>
       <pubDate>Wed, 24 Aug 2016 00:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/some-mor-law-problems-in-mr-wang-case/</guid>
+      <guid>https://blog.tonyz.one/blog/some-mor-law-problems-in-mr-wang-case/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;随着舆论的降温，王宝强离婚案逐渐淡出人们的视野，但作为法律人，借着热点事件普法的热情暂时还未削减，所以今天聊一聊离婚后子女抚养权的问题。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2241,10 +2241,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>欠马达的电影票</title>
-      <link>http://localhost:1313/blog/jason-bourne/</link>
+      <link>https://blog.tonyz.one/blog/jason-bourne/</link>
       <pubDate>Tue, 23 Aug 2016 06:02:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/jason-bourne/</guid>
+      <guid>https://blog.tonyz.one/blog/jason-bourne/</guid>
       <description>&lt;p&gt;看《谍影重重》之前我以为最好看的谍战片是《碟中谍》，看过马达的《谍影重重》之后，我才知道谍战片还能这么拍，没有炫到晃眼的动作和特技，没有香艳美女和极品跑车，只有平淡无奇的对话，真实有力的打斗，以及烧脑的情节发展，这就是谍影重重的魅力。不过这要归功于马特达蒙的精彩表演，因为看过《谍》4的人就知道离开了马达的《谍》就像失去了灵魂一样，苍白无力且难看。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;观影中&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;当最后的Extreme Ways响起，不由得跟着音乐打起了节奏，估计旁边的人会以为我发病了&amp;hellip;可这首曲子真的好听啊，尤其是《谍》3片尾随着JB一猛子扎入水中，音乐恰到好处地响起来，寓意着无限可能。&lt;/p&gt;
@@ -2258,10 +2258,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>试分析王宝强离婚事件中的几个法律问题</title>
-      <link>http://localhost:1313/blog/some-law-problems-in-mr-wang-case/</link>
+      <link>https://blog.tonyz.one/blog/some-law-problems-in-mr-wang-case/</link>
       <pubDate>Thu, 18 Aug 2016 00:50:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/some-law-problems-in-mr-wang-case/</guid>
+      <guid>https://blog.tonyz.one/blog/some-law-problems-in-mr-wang-case/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;近日来，王宝强与其妻马蓉离婚纠纷成为媒体关注的焦点。王宝强一直以好丈夫、好父亲的形象出现在世人面前，其妻马蓉与其经纪人宋磊发生不正当男女关系导致婚姻破裂让众多网友更加心疼王宝强。随着事情的发展，曝出其妻马蓉转移夫妻共同财产，并以侵犯名誉权起诉王宝强。正好我之前因法律诊所接触了比较多的家事法律方面的知识，故对这次事件的几个法律问题稍作分析。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2276,10 +2276,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>Bandwagon VPS 推荐</title>
-      <link>http://localhost:1313/blog/bandwagon-vps/</link>
+      <link>https://blog.tonyz.one/blog/bandwagon-vps/</link>
       <pubDate>Mon, 01 Aug 2016 22:15:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/bandwagon-vps/</guid>
+      <guid>https://blog.tonyz.one/blog/bandwagon-vps/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://bandwagonhost.com/aff.php?aff=15653&#34;&gt;Bandwagon&lt;/a&gt;是一家非常著名的 IDC ，也是我个人经常使用的一家IDC服务商，比如搭建站点供访客访问，因此我比较推荐该IDC服务商用于新手联手。&lt;/p&gt;
 &lt;p&gt;以下为我个人比较推荐的配置&lt;/p&gt;
 &lt;ul&gt;
@@ -2296,10 +2296,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>生命本身是不断地扬弃</title>
-      <link>http://localhost:1313/blog/life-is-life/</link>
+      <link>https://blog.tonyz.one/blog/life-is-life/</link>
       <pubDate>Sun, 24 Jul 2016 01:32:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/life-is-life/</guid>
+      <guid>https://blog.tonyz.one/blog/life-is-life/</guid>
       <description>&lt;p&gt;以前并未意识到人与人之间的差别是如此之大。随着年龄的增长，我逐渐发现曾经看似平等的一切都因为不同的原因而发生变化。我开始羡慕别人，但一切羡慕不来。我陷入苦恼，在理想与现实的巨大沟壑面前。&lt;/p&gt;
 &lt;p&gt;最近在读《教父》，小说中的教父唐从柯里昂村的卑微村民，成长为纽约教父。当他从西西里岛离开，初次踏上纽约的土地，也曾羡慕过别人吧。唐认为“一个人只有一种命运”，他选择了他自己的命运，通过智慧和勇敢构建起了属于他的帝国。帝国繁华之后，唐付出了多少、改变了多少，恐怕只有唐自己知道。&lt;/p&gt;
 &lt;p&gt;唐的故事告诉我，命运这种东西也许一开始就注定了。但即使命运早已注定，放弃自我、随波逐流，不该是我的选择。就像唐在年轻时选择用自己的方式去构建帝国，同样年轻的我也应当用自己的方式去让我的梦想充实起来。只有这样，我才能接受我的命运。&lt;/p&gt;
@@ -2309,10 +2309,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>法徽之下</title>
-      <link>http://localhost:1313/blog/under-the-badge/</link>
+      <link>https://blog.tonyz.one/blog/under-the-badge/</link>
       <pubDate>Sun, 05 Jun 2016 01:35:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/under-the-badge/</guid>
+      <guid>https://blog.tonyz.one/blog/under-the-badge/</guid>
       <description>&lt;p&gt;学校安排的见习已过去两周，两周之前我还为去了法院而感到遗憾，两周之后则觉得去法院见习是个不错的选择。这次见习给了我一次从法院内部看司法体系运作的机会，管中窥豹也能略见一二，因此还是略有一些体会的。&lt;/p&gt;
 &lt;p&gt;我在法院呆的地方是执行部门，对，今年上半年有一个史上最牛的红头文件，就是那个部门抬头比文件内容还要长的关于建立惩治失信人的文件，我所在的部门就是这群失信人的对头。这周我也有机会体验了一把强制执行，没有惊心动魄，只是跟着去银行划扣了被执行人的钱，仅此而已。&lt;/p&gt;
 &lt;p&gt;自法院内部看了两周，时间不长，但也看出了些事情。一个是，法官、书记员是真的忙，从早忙到晚，忙的事情又都很琐碎，那些大案、要案是不可能天天有，但那些令人头疼、上火的案件却时时刻刻出现。我们部门可以戏谑是扬州第二售楼处，天天要拍卖被强制执行的房子，因此我这些天没少和房产评估报告打交道。在我看来，这种工作也许不应该由法官来做，或者说有没有更好的办法减轻执行部门在琐碎事情上的负担。&lt;/p&gt;
@@ -2323,10 +2323,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>论高校家长式管理</title>
-      <link>http://localhost:1313/blog/lun-gao-xiao-jia-chang-shi-guan-li/</link>
+      <link>https://blog.tonyz.one/blog/lun-gao-xiao-jia-chang-shi-guan-li/</link>
       <pubDate>Thu, 19 May 2016 04:50:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/lun-gao-xiao-jia-chang-shi-guan-li/</guid>
+      <guid>https://blog.tonyz.one/blog/lun-gao-xiao-jia-chang-shi-guan-li/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;团委又来查人了，大家快来！&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2344,10 +2344,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>棍棒和兴奋剂</title>
-      <link>http://localhost:1313/blog/exhilarant/</link>
+      <link>https://blog.tonyz.one/blog/exhilarant/</link>
       <pubDate>Sun, 24 Apr 2016 04:50:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/exhilarant/</guid>
+      <guid>https://blog.tonyz.one/blog/exhilarant/</guid>
       <description>&lt;p&gt;月初终于读完赵瑜的《马家军调查》，这本书的故事发生在我出生那年。同龄人可能对马家军不熟悉，也不清楚1993-1995那几年围绕马家军的纷扰之事。那我建议你读一读这本书，你会发现那个并不遥远的年代居然那么荒诞无序。&lt;/p&gt;
 &lt;p&gt;《马家军调查》这本书从马俊仁教练带领王军霞等运动员成功获得世界大赛冠军写起，记述了马教练的训练方式、训练秘诀还有在成名之后卷入的人事纷争、商业纠纷、马家军叛变等内容。读这本书，既让人觉得荒唐，又会让人觉得唏嘘，接下来就聊一聊令我印象深刻的部分吧。&lt;/p&gt;
 &lt;p&gt;马家军为什么会成功？这个问题困扰了国内外田径专家很久，虽然有很多关于马俊仁训练方式的很多传言，但仍不及这本书记述内容的详实。如果让我用两个词概括，那就是棍棒和兴奋剂。&lt;/p&gt;
@@ -2361,10 +2361,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>不该建的学校</title>
-      <link>http://localhost:1313/blog/the-school-shouldnt-build/</link>
+      <link>https://blog.tonyz.one/blog/the-school-shouldnt-build/</link>
       <pubDate>Wed, 20 Apr 2016 00:50:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/the-school-shouldnt-build/</guid>
+      <guid>https://blog.tonyz.one/blog/the-school-shouldnt-build/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;昨日，央视新闻频道对常州外国语中学新校址邻近原化工厂受污染土地，四百余名师生接连患病进行了深入报道。结合央视报道和澎拜新闻报道以及知乎上网友的评论，我得出产生如下几个疑问：&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2398,10 +2398,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>《批评官员的尺度》读后感</title>
-      <link>http://localhost:1313/blog/the-sullivan-case-and-the-first-amendment/</link>
+      <link>https://blog.tonyz.one/blog/the-sullivan-case-and-the-first-amendment/</link>
       <pubDate>Tue, 19 Apr 2016 17:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/the-sullivan-case-and-the-first-amendment/</guid>
+      <guid>https://blog.tonyz.one/blog/the-sullivan-case-and-the-first-amendment/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.loli.net/2018/10/15/5bc3809a33e96.jpg&#34; alt=&#34;rochelle-brown-648528-unsplash.jpg&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“ 若批评不自由，则赞美无意义 。”&lt;/p&gt;
@@ -2417,10 +2417,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>Batman V.S Superman</title>
-      <link>http://localhost:1313/blog/batman-v-s-superman/</link>
+      <link>https://blog.tonyz.one/blog/batman-v-s-superman/</link>
       <pubDate>Sat, 26 Mar 2016 06:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/batman-v-s-superman/</guid>
+      <guid>https://blog.tonyz.one/blog/batman-v-s-superman/</guid>
       <description>&lt;p&gt;在看这部电影之前，我一直以为蝙蝠侠大战超人是类似关公战秦琼一样的笑话，然而DC真的推出了这样一部电影，作为一个非DC漫粉，我还是去看了这部电影。&lt;/p&gt;
 &lt;p&gt;我对蝙蝠侠的印象一直停留在诺兰的蝙蝠侠三部曲，这三部电影是一边看一边让你烧脑的电影，看完之后你会有一种终于结束了，但真的好爽的感觉。后来诺兰去拍POI，我就跟着追这部美剧，同样的烧脑风格，甚至还预言了棱镜门事件。只不过这部剧今年就要结束了，挺令人遗憾的。&lt;/p&gt;
 &lt;p&gt;超人的电影我也看了一些，但基本上没什么印象了，好像只有小时候超人的动画让我有些记忆。最近有一部美剧超女，基本上可以算是超人的衍生剧，但不是一种风格，超人是很酷的，超女就有些囧。&lt;/p&gt;
@@ -2433,10 +2433,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>黑色夜巴黎</title>
-      <link>http://localhost:1313/blog/nightmare-in-paris/</link>
+      <link>https://blog.tonyz.one/blog/nightmare-in-paris/</link>
       <pubDate>Tue, 22 Mar 2016 04:50:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/nightmare-in-paris/</guid>
+      <guid>https://blog.tonyz.one/blog/nightmare-in-paris/</guid>
       <description>&lt;p&gt;当袭击者的子弹射入观众的胸膛，音乐会沉寂了；当袭击者的炸弹炸碎体育场的大门，足球比赛沉寂了。昔日绚丽多彩的巴黎在这一夜变得黑暗无比，快乐、希望都被夺走，只剩下惊恐、悲伤和死亡。&lt;/p&gt;
 &lt;p&gt;还好第二天的太阳照常升起，只是一百多位巴黎市民、游客再也感受不到太阳的温暖，是什么人让黑色笼罩巴黎，是什么人将恐怖带给民众，是什么人将仇恨播撒向世界？巴黎人向自己、向世界提出这些问题。答案大概是ISIS，一个落后、野蛮、残忍的自称为伊斯兰国的恐怖组织。&lt;/p&gt;
 &lt;p&gt;9.11以来，恐怖主义取代地区战争成为世界和平的主要威胁，不仅对西方主要国家造成了巨大损失，也对中国的国家安全、社会稳定造成了巨大影响。无论是伦敦地铁爆炸案，还是乌鲁木齐7.15事件，又或是《查理周刊》编辑部袭击案，昆明暴恐事件，这一系列恐怖袭击事件一次又一次击碎人们祈愿和平的善良、挑战人们对恐怖主义容忍的底线。&lt;/p&gt;
@@ -2447,10 +2447,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>拒绝拖延</title>
-      <link>http://localhost:1313/blog/do-not-delay/</link>
+      <link>https://blog.tonyz.one/blog/do-not-delay/</link>
       <pubDate>Tue, 22 Mar 2016 01:16:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/do-not-delay/</guid>
+      <guid>https://blog.tonyz.one/blog/do-not-delay/</guid>
       <description>&lt;p&gt;搞定今天的真题，停下笔来开始写文章。&lt;/p&gt;
 &lt;p&gt;距离上次写隔了一个周末，感觉手都有些生疏了，今天就不去关注社会上的民生热点或者什么重大事件了，聊聊最近的状态。&lt;/p&gt;
 &lt;p&gt;这周末终于把柏浪涛的刑法攻略伴着录音过了一遍，对刑法知识系统地理了一下，我已经忘记我是从几号开始的，不过肯定比我预期的时间要长了一点，主要还是我自己太拖沓了。几天前在一个群里和别人聊到复习进度，别人已经搞定刑法加法了，开始转战其他较小的部门法。而我，我要对自己无尽的嘲讽了。&lt;/p&gt;
@@ -2468,10 +2468,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>害人的疫苗</title>
-      <link>http://localhost:1313/blog/harmful-vaccinum/</link>
+      <link>https://blog.tonyz.one/blog/harmful-vaccinum/</link>
       <pubDate>Sat, 19 Mar 2016 01:10:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/harmful-vaccinum/</guid>
+      <guid>https://blog.tonyz.one/blog/harmful-vaccinum/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;2016年3月11日，山东省济南市公安局食品药品与环境犯罪侦查支队二大队副大队长翟金亮告诉澎湃新闻，2010年以来，庞某卫与其医科学校毕业的女儿孙某，从上线疫苗批发企业人员及其他非法经营者处非法购进25种儿童、成人用二类疫苗，未经严格冷链存储运输销往全国18个省市，涉案金额达5.7亿元。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2496,10 +2496,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>闹到联合国的王娜娜</title>
-      <link>http://localhost:1313/blog/un-and-mrs-wang/</link>
+      <link>https://blog.tonyz.one/blog/un-and-mrs-wang/</link>
       <pubDate>Thu, 17 Mar 2016 01:10:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/un-and-mrs-wang/</guid>
+      <guid>https://blog.tonyz.one/blog/un-and-mrs-wang/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;在为女儿出面沟通的过程中，张志强最后悔的一件事是亲戚说的那句，“&lt;strong&gt;&lt;strong&gt;这事儿你闹到联合国也没用&lt;/strong&gt;&lt;/strong&gt;，还是得周口管。”&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2534,10 +2534,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>南京，首都的影子</title>
-      <link>http://localhost:1313/blog/the-old-capital-nanjing/</link>
+      <link>https://blog.tonyz.one/blog/the-old-capital-nanjing/</link>
       <pubDate>Wed, 16 Mar 2016 00:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/the-old-capital-nanjing/</guid>
+      <guid>https://blog.tonyz.one/blog/the-old-capital-nanjing/</guid>
       <description>&lt;p&gt;大一时曾和舍友去南京游玩，住在夫子庙青旅。在南京的两天里把中山陵、明孝陵还有南京大屠杀纪念馆转遍了，后来我们笑言去南京逛了一座又一座坟。如此密集地逛这些陵，南京给我的感觉自然不会好，回来之后想起南京，总是离不开压抑、沉闷的字眼。这是前言。&lt;/p&gt;
 &lt;p&gt;上周末又去南京，这次陪父母又去了一趟中山陵，恰巧赶上孙中山先生去世91周年，中山陵和以前并无两样，但给我的感觉却不似之前那么阴沉，可能既有父母陪伴的缘故，也有当天因为活动人确实多的原因。于是我在想，之前我对南京的理解是不是错了呢？&lt;/p&gt;
 &lt;p&gt;南京，公元前472年建城，距今2500多年。民国时期曾作为首都，战火纷乱之间见证繁荣。南京现在仍随处可见首都的影子，在夫子庙我看到了首都大剧院的牌子，站在三层小楼前，我好奇这里发生过多少故事。而毗邻着省政府的外国大使馆旧址，让我不停驻足细读门牌上的介绍。我原以为压抑、沉闷的城市，原来有如此多足以令人澎湃的历史。&lt;/p&gt;
@@ -2553,10 +2553,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>为了什么去晨跑？</title>
-      <link>http://localhost:1313/blog/why-should-we-morning-jog/</link>
+      <link>https://blog.tonyz.one/blog/why-should-we-morning-jog/</link>
       <pubDate>Wed, 09 Mar 2016 01:30:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/why-should-we-morning-jog/</guid>
+      <guid>https://blog.tonyz.one/blog/why-should-we-morning-jog/</guid>
       <description>&lt;p&gt;这两天我的空间、朋友圈被“晨跑”刷屏，我花了些时间看了一些言论，支持晨跑者寥寥，而反对者的理由有很多，如雾霾天气跑步有害健康、晨跑排队打卡浪费时间、晨跑规定时间死板等等。今天下大雨晨跑暂停，正好给大家时间再对晨跑这件事做些思考，我也谈一谈自己的看法。&lt;/p&gt;
 &lt;p&gt;学校为什么要求学生晨跑？从学校体工部发布的文件我们可以看到学校的目的&lt;/p&gt;
 &lt;blockquote&gt;
@@ -2583,10 +2583,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>绝望的三十天</title>
-      <link>http://localhost:1313/blog/thirty-daysdesperation/</link>
+      <link>https://blog.tonyz.one/blog/thirty-daysdesperation/</link>
       <pubDate>Mon, 07 Mar 2016 01:40:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/thirty-daysdesperation/</guid>
+      <guid>https://blog.tonyz.one/blog/thirty-daysdesperation/</guid>
       <description>&lt;p&gt;昨天有个新闻&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;有一女子被发现死亡在电梯中，而电梯已经停用三十天，也就是该女子被困电梯三十天之久。&lt;/p&gt;
@@ -2604,10 +2604,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>我认识的一位民科</title>
-      <link>http://localhost:1313/blog/folk-scientists/</link>
+      <link>https://blog.tonyz.one/blog/folk-scientists/</link>
       <pubDate>Thu, 25 Feb 2016 01:37:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/folk-scientists/</guid>
+      <guid>https://blog.tonyz.one/blog/folk-scientists/</guid>
       <description>&lt;p&gt;挺早之前，通中贴吧有位老先生，大概叫&lt;strong&gt;&lt;strong&gt;李秉泉&lt;/strong&gt;&lt;/strong&gt;，是我校的一位老校友。他总在贴吧上发表关于推翻爱因斯坦相对论的一些文章，那时候我还不知道有&lt;strong&gt;&lt;strong&gt;民科&lt;/strong&gt;&lt;/strong&gt;这个词，现在想来这位老先生就是民科了。&lt;/p&gt;
 &lt;p&gt;我不知道老先生在我们中学贴吧总是发些挑战相对论的文章是什么原因，可能是为了在我们这些校友间寻找认同吧。然而仅从我的角度来看，老先生的文章是看不懂的，虽然有很多深奥的物理学术语，但文章的逻辑让人隐约觉得理不顺。而一些物理学的不错的同学会在贴吧上与李老辩论，因为这种争论贴吧吧主好像还封过一些人账号。&lt;/p&gt;
 &lt;p&gt;李老先生引起的争论在一段时间后就平息了，因为大家都觉得这个老人只是在自娱自乐，做着拿诺奖的春秋大梦，用时下流行的词来说，李老先生是&lt;strong&gt;&lt;strong&gt;诺奖爷&lt;/strong&gt;&lt;/strong&gt;。最近回通中吧看老先生的帖子还在，也可能是他依然在他的理论奔走。&lt;/p&gt;
@@ -2618,10 +2618,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>那些会战，那些将军</title>
-      <link>http://localhost:1313/blog/generals/</link>
+      <link>https://blog.tonyz.one/blog/generals/</link>
       <pubDate>Sun, 05 Jan 2014 01:35:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/generals/</guid>
+      <guid>https://blog.tonyz.one/blog/generals/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;抗战初期国民党正面战场组织的重要会战有（ ）&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2640,10 +2640,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>残忍</title>
-      <link>http://localhost:1313/blog/curde/</link>
+      <link>https://blog.tonyz.one/blog/curde/</link>
       <pubDate>Fri, 06 Dec 2013 01:32:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/curde/</guid>
+      <guid>https://blog.tonyz.one/blog/curde/</guid>
       <description>&lt;p&gt;今早手机推送新闻“重庆小女孩电梯中殴打一岁男童”、“苏州拆迁户冲突中刺死两名拆迁工作人员”。一早上就是两条如此血淋淋的新闻，让我觉得生活不仅残酷更是残忍。如果说拆迁户刺死拆迁工作人员是因为他们殴打他的妻儿，那重庆小女孩为什么要在电梯中殴打男童呢？似乎没有任何可以说得通的理由，只能让人觉得这个小女孩是如此的残忍。&lt;/p&gt;
 &lt;p&gt;中午在影院看了《无人区》，充满黑色暴力的一部西部电影，没有过分直接的血腥描写，但无时无刻不让人想起“残忍”二字。一天之内见到如此多的事物，让我不禁对残忍有了更深刻的认识。&lt;/p&gt;
 &lt;p&gt;在知乎上看到一篇名为“爸，我回来了”的回答，是关于从小被父亲打的孩子的成长经历。回答人自己说在父亲殴打的阴影下患上了抑郁症和焦虑症，成绩直线下滑，因此人生走向了一条几乎失败的道路。是因为父亲暴戾的性格使得孩子的人生充满了阴影，从而孩子的个性发生了改变，孩子似乎也变得有些残忍了。这个回答也许可以解释第一条新闻里女孩的所作所为，她的恶行其实只是她父亲的恶在她身上的显现。因为后续的新闻说女孩父亲解释说女孩有可能只是觉得男童不喜欢自己，让自己觉得不舒服。他在平常生活中对女孩管教比较严厉，这可能是女孩表达情绪的方式。&lt;/p&gt;
@@ -2656,10 +2656,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>南通西路走一走</title>
-      <link>http://localhost:1313/blog/wandering-on-nantong-xi-lu/</link>
+      <link>https://blog.tonyz.one/blog/wandering-on-nantong-xi-lu/</link>
       <pubDate>Sun, 27 Oct 2013 00:28:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/wandering-on-nantong-xi-lu/</guid>
+      <guid>https://blog.tonyz.one/blog/wandering-on-nantong-xi-lu/</guid>
       <description>&lt;p&gt;每座城市都会有相似的场景，也会有让你想起故乡的路名。路上的学生穿着校服骑着自行车，让我想起了我在高中时傍晚放学的场景。曾经的我们，未来的他们，走在不同的路上，其实过着类似的生活。他们现在觉得乏味的学习生活，是我们每个怀念过去的人回不去的美好时光。&lt;/p&gt;
 &lt;p&gt;每座城市都有麦当劳、肯德基、星巴克诸如此类，以前我认为这些连锁快餐巨头除了给人们带来一些便利其他就没什么了。但独自在外，吃着不同于家乡的菜系，南方人不喜辣，北方人不喜甜，很容易产生一种思乡的感情。于是，这些世界各地一个口味的快餐店成了人们寻找归属感的地方，熟悉的口味、熟悉菜单，尽管窗外的街景已然不是故乡的那幅模样，但手中的这杯热饮可以暂时温暖心中孤独寒冷的那部分。&lt;/p&gt;
 &lt;p&gt;走在路上的我，一定会很容易被人认出来是寄居在这座城市的旅客吧。走在南通的街头，无论是熟悉亦或是陌生的地方，都不会慌张，这是我的城市，心中有足够的底气。而独自走在异乡的街头，无论怎样都很难做到从容不迫，他们的口音，他们举手投足之间的动作似乎都与我熟悉的那些人那么的不同。所以无论是在哪座城市，我都清楚自己不属于这座城市，正如在南通的街头我认出那些远方的客人一般。&lt;/p&gt;
@@ -2670,10 +2670,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>埃及乱象</title>
-      <link>http://localhost:1313/blog/chaos-in-egypt/</link>
+      <link>https://blog.tonyz.one/blog/chaos-in-egypt/</link>
       <pubDate>Tue, 20 Aug 2013 00:22:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/chaos-in-egypt/</guid>
+      <guid>https://blog.tonyz.one/blog/chaos-in-egypt/</guid>
       <description>&lt;p&gt;在埃及这块地方，人民似乎一直过着动荡的生活。&lt;/p&gt;
 &lt;p&gt;穆巴拉克下台了，穆尔西上台了。国泰民安了一阵子，可是老百姓发现又不对了。这个穆尔西之前和我们承诺的政策落实了么？咱老百姓的生活真的得到改善了么？从外部来看，埃及的政局真的稳定了吗？在穆尔西的领导下，埃及真的能走上政治正常化的道路么？以上问题，困扰了埃及民众和国际问题观察家一年多的时间，到现在以上问题的答案都已经很清楚了：No！&lt;/p&gt;
 &lt;p&gt;在穆尔西当选总统之前，埃及民众显然不清楚什么叫做民主选举，或者说他们不懂该怎么选，以至于我现在认为穆尔西被选上总统纯属其政治作秀能力强，埃及民众太好骗了，所以把穆尔西选了上去，这样的结果就是穆尔西执政后埃及民众大呼上当，然后又掀起了一场倒穆的运动。这倒好，穆尔西总统位子还没坐热乎就被人民群众的汪洋大流被赶下来了。&lt;/p&gt;
@@ -2683,10 +2683,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>红灯的困惑</title>
-      <link>http://localhost:1313/blog/confusion-of-red-lights/</link>
+      <link>https://blog.tonyz.one/blog/confusion-of-red-lights/</link>
       <pubDate>Tue, 13 Aug 2013 00:20:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/confusion-of-red-lights/</guid>
+      <guid>https://blog.tonyz.one/blog/confusion-of-red-lights/</guid>
       <description>&lt;p&gt;昨晚回家，遇到红灯，我停下脚步等着红灯变色，但是周遭如我一样停下等红灯的人寥寥无几，大多无视红灯径直而去。三十几秒后红灯变绿，我继续我的行程，但是却一直被众人无视红灯的情况困扰着。&lt;/p&gt;
 &lt;p&gt;其实也不是第一次在路上看到众人闯红灯疾驰而去的场景了，但是每一次都不能理解他们为何不愿意等上几十秒来保证自己和他人的安全呢？在宝贵的生命面前，我相信几十秒是微不足道的，这个道理简单到小学生都应该明白，可是为什么那些路人不愿意去等红灯呢？很多人会说这是一个违法成本过低的问题，但是仔细去想，如果只从对闯红灯的处罚来看，其违法成本的确不高，但是从闯红灯有可能对生命安全造成的严重后果来看，这违法成本是相当巨大的。问题又来了，既然明白有可能会有如此巨大的违法成本，为什么还会有如此多的人去闯红灯呢？&lt;/p&gt;
 &lt;p&gt;早晨上学的时候，在某个红绿灯路口，总是会看到有学生无视红灯疾行而去。作为一个社会中应当处于最美好的阶段的学生，遵守信号灯，遵守交通规则，这是再合理不过了。可是令人遗憾的是，本应没有太多大人习气的学生们，早早地加入了闯红灯大军，不知道这是否与我好几次看到老奶奶骑着自行车闯红灯而后座坐着小孩子这种家人耳濡目染有关。&lt;/p&gt;
@@ -2700,10 +2700,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>国情不是借口</title>
-      <link>http://localhost:1313/blog/not-an-excuse/</link>
+      <link>https://blog.tonyz.one/blog/not-an-excuse/</link>
       <pubDate>Mon, 12 Aug 2013 00:18:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/not-an-excuse/</guid>
+      <guid>https://blog.tonyz.one/blog/not-an-excuse/</guid>
       <description>&lt;p&gt;9日晚，乘Z51次火车从北京回南通。&lt;/p&gt;
 &lt;p&gt;火车车厢空调跳闸，整节车厢温度比邻节车厢高了整整五度，在这种情况下，很多旅客都站出来找乘务员和列车长反映情况，无奈电工不给力，修了两个小时都未能将空调修好，致使群情沸腾。好不容易，空调终于恢复正常，但列车长却毫无表示，仅仅一句“对不起“就想完事走人。&lt;/p&gt;
 &lt;p&gt;对这种充满铁路官僚作风的处理方式，我和同伴们以及部分旅客自然感到不满。既是对在近似蒸笼车厢中呆了两个小时的不满，也是对列车工作人员处理突发情况反应缓慢，处理方式刻板生硬感到不满。于是我们找来列车长希望其能给我们一个满意的解释。可能是列车长年轻未曾处理过类似事件，他便把列车上的党支部书记找来与我们交谈。&lt;/p&gt;
@@ -2718,10 +2718,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>海峡浅浅</title>
-      <link>http://localhost:1313/blog/a-narrow-strait/</link>
+      <link>https://blog.tonyz.one/blog/a-narrow-strait/</link>
       <pubDate>Tue, 30 Jul 2013 23:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/a-narrow-strait/</guid>
+      <guid>https://blog.tonyz.one/blog/a-narrow-strait/</guid>
       <description>&lt;p&gt;海峡浅浅，却不知隔断了多少的亲情、友情、爱情，让多少人体会到生死离别的苦涩。六十多年来，这边有人冒着危险泅渡海峡，那边也 有人冒着被击落的危险驾驶飞机飞跃海峡。我想，这样的行为是比意识形态更为深刻的，是游子对故乡的感情吧！有些人终究长眠于这浅浅的海峡，从某种意义上，他们或许更幸运，毕竟他们在地理意义上距故乡更为接近。更多的人只能在这边或者那边，抱着遗憾而离开。还好，有人送他们回家。&lt;/p&gt;
 &lt;p&gt;在迷信的传说中，有一种特殊的职业——赶尸匠，这些人一直在路上，赶着亡人返乡。也许这个行当没有传说中的那么邪乎，但是至少可以从中看出每个中国人心中都有落叶归根的夙愿，毕竟，人都是来自那片最初的土地——故乡。台湾有个老兵，叫高秉涵，这些年一直只身往返于两岸，他抱着沉重的骨灰坛登上飞机，返回大陆。比骨灰坛更重的是每一个老兵的亡魂。在大陆的各个城市，他瘦高，清瘦的背影孤独地前行着。也许他并不孤独，因为老兵的灵魂陪着他，寻找他们自己的故乡。&lt;/p&gt;
 &lt;p&gt;“近乡情更怯，不敢问来人。”尽管那些老兵的身体已然成灰，但浓浓的乡愁永远不会消散。老高承接过老兵的乡愁，在越接近他们故乡的那一刻，老高一次次地感受到浓浓的乡愁，这是怎样的感受，对于我这样一个尚未远离家乡的人，恐怕无法深知。但老高说过：“一个没有在深夜里痛哭过的人，没有资格谈痛苦。”这种痛苦我曾切身体会过。古今中外所有的游子都是共通的吧！那片只在记忆中出现过的故土，终于再一次出现在他的面前，掬一把土，放进贴身的口袋，用体温去感受泥土的温度，不，这是故乡的温度，这是一别再无缘见面的母亲的温度，多亲切，多温暖啊！老高喝下掺有故乡泥土的水，他说他要让故乡永远流淌在自己血液中，不再分离。他是老兵，他是普通的中国人。&lt;/p&gt;
