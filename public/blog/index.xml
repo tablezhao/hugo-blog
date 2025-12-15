@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>This is My Table</title>
-    <link>https://blog.tonyz.one/</link>
-    <description>Recent content on This is My Table created by </description>
+    <title>Blogs on This is My Table</title>
+    <link>https://blog.tonyz.one/blog/</link>
+    <description>Recent content in Blogs on This is My Table created by </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 30 Jul 2013 22:33:56 +0800</lastBuildDate><atom:link href="https://blog.tonyz.one/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jul 2013 22:33:56 +0800</lastBuildDate><atom:link href="https://blog.tonyz.one/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>海峡浅浅</title>
       <link>https://blog.tonyz.one/blog/a-narrow-strait/</link>
