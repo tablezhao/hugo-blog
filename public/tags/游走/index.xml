@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>游走 on This is My Table</title>
-    <link>https://blog.tonyz.one/tags/%E6%B8%B8%E8%B5%B0/</link>
+    <link>http://localhost:1313/tags/%E6%B8%B8%E8%B5%B0/</link>
     <description>Recent content in 游走 on This is My Table created by </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 May 2019 00:20:00 +0800</lastBuildDate><atom:link href="https://blog.tonyz.one/tags/%E6%B8%B8%E8%B5%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 May 2019 00:20:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%B8%B8%E8%B5%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JFK Library 初探</title>
-      <link>https://blog.tonyz.one/blog/first-visit-to-jfk-library/</link>
+      <link>http://localhost:1313/blog/first-visit-to-jfk-library/</link>
       <pubDate>Sun, 26 May 2019 00:20:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/first-visit-to-jfk-library/</guid>
+      <guid>http://localhost:1313/blog/first-visit-to-jfk-library/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://postimg.cc/D4VPvvMF&#34;&gt;&lt;img src=&#34;https://i.postimg.cc/J006Qt3y/JFK-Library.jpg&#34; alt=&#34;JFK-Library.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;总统邻居--开山之作&#34;&gt;总统邻居 &amp;amp; 开山之作&lt;/h2&gt;
 &lt;p&gt;我住在波士顿的Brookline，有一天我用 Google Trips 随便看看周边有什么景点时，发现在距离住处两三个街区的地方有个肯尼迪总统故居，难道这就是曾经在历史上因古巴导弹危机而闻名的肯尼迪总统曾经的住处？于是我打开维基百科检索起来，果真发现这位大名鼎鼎的总统确实曾和我住在同一个小镇且仅仅相距几百米。抛开时间来看，我有幸和肯尼迪总统做了一回邻居，这也是驱使我今天访问 JFK Library 的动力之一了。&lt;/p&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title>疾走纽约</title>
-      <link>https://blog.tonyz.one/blog/walk-in-ny/</link>
+      <link>http://localhost:1313/blog/walk-in-ny/</link>
       <pubDate>Mon, 28 Jan 2019 05:50:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/walk-in-ny/</guid>
+      <guid>http://localhost:1313/blog/walk-in-ny/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://postimg.cc/cKmDJ4hr&#34;&gt;&lt;img src=&#34;https://i.postimg.cc/B6WRMj1c/image.jpg&#34; alt=&#34;image.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;这周末去纽约参加ISIP，顺便将纽约那些值得打卡的景点匆匆看了一遍，不过时间实在不够用，所以还有如联合国纽约总部、自由女神像、中央车站这些必打卡景点还没去，幸好波屯离纽约并不远，过段时间可以找个新的理由再去纽约逛一逛。&lt;/p&gt;
 &lt;h2 id=&#34;7th-ave--33-st&#34;&gt;7th Ave &amp;amp; 33 St&lt;/h2&gt;
@@ -93,10 +93,10 @@
     
     <item>
       <title>寻找东极</title>
-      <link>https://blog.tonyz.one/blog/dongji-island/</link>
+      <link>http://localhost:1313/blog/dongji-island/</link>
       <pubDate>Thu, 21 Jun 2018 02:10:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/dongji-island/</guid>
+      <guid>http://localhost:1313/blog/dongji-island/</guid>
       <description>&lt;h2 id=&#34;0为什么去东极岛&#34;&gt;0.为什么去东极岛&lt;/h2&gt;
 &lt;p&gt;14年暑假在去四川旅行的途中看了韩寒导演的《后会无期》之后，就对东极岛种了草，然而四年过去才得以成行，此外，这是我第一次自驾游旅行，因此很有必要写一篇游记来记录下这次有趣的旅行。&lt;/p&gt;
 &lt;h2 id=&#34;01行前准备&#34;&gt;0.1行前准备&lt;/h2&gt;
@@ -123,10 +123,10 @@
     
     <item>
       <title>南京咖啡店不完全评测</title>
-      <link>https://blog.tonyz.one/blog/reviews-of-cafe-in-nanjing/</link>
+      <link>http://localhost:1313/blog/reviews-of-cafe-in-nanjing/</link>
       <pubDate>Sun, 24 Dec 2017 06:00:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/reviews-of-cafe-in-nanjing/</guid>
+      <guid>http://localhost:1313/blog/reviews-of-cafe-in-nanjing/</guid>
       <description>&lt;h2 id=&#34;一评测目录&#34;&gt;一、评测目录&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Pause Café&lt;/li&gt;
@@ -167,10 +167,10 @@
     
     <item>
       <title>律师学院和法律信仰</title>
-      <link>https://blog.tonyz.one/blog/inns-of-court-and-law-faith/</link>
+      <link>http://localhost:1313/blog/inns-of-court-and-law-faith/</link>
       <pubDate>Wed, 05 Oct 2016 05:00:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/inns-of-court-and-law-faith/</guid>
+      <guid>http://localhost:1313/blog/inns-of-court-and-law-faith/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;律师学院于欧洲中世纪时期成立，位于英国伦敦，律师学院是训练英国的大律师的组织，现时在英国执业的大律师均会是其中一间律师学院的会员。由林肯律师学院、中殿律师学院、内殿律师学院、格雷律师学院组成。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -195,10 +195,10 @@
     
     <item>
       <title>在 Old Bailey 听庭审</title>
-      <link>https://blog.tonyz.one/blog/old-bailey/</link>
+      <link>http://localhost:1313/blog/old-bailey/</link>
       <pubDate>Mon, 03 Oct 2016 05:03:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/old-bailey/</guid>
+      <guid>http://localhost:1313/blog/old-bailey/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;中央刑事法院（Central Criminal Court）是位于英国伦敦的法院，通常以所在街道称为老贝利（Old Bailey），负责处理英格兰和威尔士的重大刑事案件。此地曾是中世纪新门监狱的所在地。&lt;/p&gt;
 &lt;/blockquote&gt;

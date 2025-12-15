@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>极客 on This is My Table</title>
-    <link>https://blog.tonyz.one/tags/%E6%9E%81%E5%AE%A2/</link>
+    <link>http://localhost:1313/tags/%E6%9E%81%E5%AE%A2/</link>
     <description>Recent content in 极客 on This is My Table created by </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 20 Jan 2019 02:26:29 +0800</lastBuildDate><atom:link href="https://blog.tonyz.one/tags/%E6%9E%81%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jan 2019 02:26:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%9E%81%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>引入评论系统</title>
-      <link>https://blog.tonyz.one/blog/new-comments-system/</link>
+      <link>http://localhost:1313/blog/new-comments-system/</link>
       <pubDate>Sun, 20 Jan 2019 02:26:29 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/new-comments-system/</guid>
+      <guid>http://localhost:1313/blog/new-comments-system/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://postimg.cc/Yjz8P2xT&#34;&gt;&lt;img src=&#34;https://i.postimg.cc/G3ZNHHT3/20190119212534.jpg&#34; alt=&#34;20190119212534.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;本站引入 “Valine” 无后端评论系统了，意味着薛魏可以有一点互动了。&lt;/p&gt;
 &lt;p&gt;另外，网站加上了 Google Analytics 统计系统，不知道国内的同学访问有没有比较大的迟滞感？可以留言反馈。如果迟滞感特别明显，考虑切回百度统计或者干脆撤掉统计功能。&lt;/p&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>田牌信仰达成</title>
-      <link>https://blog.tonyz.one/blog/got-surface/</link>
+      <link>http://localhost:1313/blog/got-surface/</link>
       <pubDate>Sat, 24 Nov 2018 21:16:17 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/got-surface/</guid>
+      <guid>http://localhost:1313/blog/got-surface/</guid>
       <description>&lt;h2 id=&#34;早已种草&#34;&gt;早已种草&lt;/h2&gt;
 &lt;p&gt;其实很久以前，我就对田牌的Suface系列种草了，只是当时在大悦城适用Surface Book体验过差，再加上囊中羞涩，暂时搁置了购入一台田牌机器的计划，但还是写了一篇文章的，参见 &lt;a href=&#34;https://tonyz.one/surface-book/&#34;&gt;种草Surface Book&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;这次恰好Surface Pro6发布赶上美帝人民喜闻乐见的黑五，所以价格跳水，让我觉得是时候拔草田牌了，于是就有了本篇流水式的评测。&lt;/p&gt;
@@ -44,10 +44,10 @@
     
     <item>
       <title>组装 Intel NUC 指南</title>
-      <link>https://blog.tonyz.one/blog/intel-nuc/</link>
+      <link>http://localhost:1313/blog/intel-nuc/</link>
       <pubDate>Fri, 26 Oct 2018 15:08:49 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/intel-nuc/</guid>
+      <guid>http://localhost:1313/blog/intel-nuc/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/d0BwFWCz/1934942-947af077b12043e8.jpg&#34; alt=&#34;NUC-Win10.jpg&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;由头&#34;&gt;由头&lt;/h2&gt;
 &lt;p&gt;买一台新电脑的想法来源于买了显示器之后，每天需要将笔记本搬来搬去很麻烦，我是一个很怕麻烦的人，所以意识到需要做一点改变来解决这些麻烦。最开始我其实是想买Mac Mini，搜了下亚马逊发现翻新版的Mac Mini最便宜的是不到400美元，可是这毕竟是4-5年前发布的产品了，看到网上有些评测说连最新版的 OS X都快跑不动了，所以买一个全面落后的产品是不可能的。&lt;/p&gt;
@@ -79,10 +79,10 @@
     
     <item>
       <title>Ghost 安装指南</title>
-      <link>https://blog.tonyz.one/blog/how-to-install-ghost-blog/</link>
+      <link>http://localhost:1313/blog/how-to-install-ghost-blog/</link>
       <pubDate>Thu, 11 Oct 2018 00:30:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/how-to-install-ghost-blog/</guid>
+      <guid>http://localhost:1313/blog/how-to-install-ghost-blog/</guid>
       <description>&lt;p&gt;Ghost是一个现代化的，开源的，基于Node.js的博客发布平台，它的前端管理系统基于Ember.js， 后端的模板引擎采用的handlebars， 而默认数据库是MySQL，当然，你也可以使用其他类型的数据库。&lt;a href=&#34;https://link.zhihu.com/?target=https%3A//messiahhh.com&#34;&gt;可以来我博客看下效果&lt;/a&gt;
 &lt;strong&gt;Ghost1.0&lt;/strong&gt;如果用过1.0版本以前的Ghost的同学，会对Ghost版本的更新感到头疼，而一些配置问题也让人心烦。好在，就在一个月前，Ghost推出了Ghost1.0.0，并在一个月内升级到了1.6.2（到目前为止）大版本的提升，主要是因为一个东西的出现，那就是Ghost-Cli。
 &lt;strong&gt;Ghost-CLI&lt;/strong&gt;有了Ghost-Cli，你可以快速安装Ghost自动配置MySQL, Nginx , SSL等快捷的更新版本（只用一行命令就可以）其他等等
@@ -161,10 +161,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>诊所网站迁移手记</title>
-      <link>https://blog.tonyz.one/blog/the-story-about-mirgraiton-of-website/</link>
+      <link>http://localhost:1313/blog/the-story-about-mirgraiton-of-website/</link>
       <pubDate>Wed, 26 Jul 2017 18:30:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/the-story-about-mirgraiton-of-website/</guid>
+      <guid>http://localhost:1313/blog/the-story-about-mirgraiton-of-website/</guid>
       <description>&lt;h2 id=&#34;缘由&#34;&gt;缘由&lt;/h2&gt;
 &lt;p&gt;15年时，刚进入法律诊所学习，和诊所老师聊得很投机，就答应帮忙建一个诊所网站，不承想这个网站从15年已经运行了两年多了，还屹立于这个世界上，我很是欣慰。但随着国内网络环境的恶化，加之服务费启高，以及我毕业离开诊所之后无人维护网站等等原因，我决定把诊所网站从原来的虚拟主机迁出，迁入到位于洛杉矶的VPS中，这样节约成本，也更方便我自己管理。&lt;/p&gt;
 &lt;h2 id=&#34;迁出&#34;&gt;迁出&lt;/h2&gt;
@@ -186,10 +186,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>种草 Surface Book</title>
-      <link>https://blog.tonyz.one/blog/surface-book/</link>
+      <link>http://localhost:1313/blog/surface-book/</link>
       <pubDate>Sat, 25 Feb 2017 19:30:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/surface-book/</guid>
+      <guid>http://localhost:1313/blog/surface-book/</guid>
       <description>&lt;p&gt;作为一个“果粉“，突然对田牌产品种草，这说明什么？嗯，还是听我讲故事吧。&lt;/p&gt;
 &lt;h2 id=&#34;这里是起因&#34;&gt;这里是起因&lt;/h2&gt;
 &lt;p&gt;出于众所周知的原因（其实就是上班），这台陪伴我三年多的 MacBook Air  有些力不从心了，尤其最近，不仅有些奇怪的小问题，还会经常性的卡住。这让我很怀疑，这台机器还能服役多久？作为一名非诉搬砖狗，拥有优异性能的电脑就是吃饭的家伙，所以我产生了换台电脑的冲动。&lt;/p&gt;
@@ -208,10 +208,10 @@ $echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
     
     <item>
       <title>Bandwagon VPS 推荐</title>
-      <link>https://blog.tonyz.one/blog/bandwagon-vps/</link>
+      <link>http://localhost:1313/blog/bandwagon-vps/</link>
       <pubDate>Mon, 01 Aug 2016 22:15:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/bandwagon-vps/</guid>
+      <guid>http://localhost:1313/blog/bandwagon-vps/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://bandwagonhost.com/aff.php?aff=15653&#34;&gt;Bandwagon&lt;/a&gt;是一家非常著名的 IDC ，也是我个人经常使用的一家IDC服务商，比如搭建站点供访客访问，因此我比较推荐该IDC服务商用于新手联手。&lt;/p&gt;
 &lt;p&gt;以下为我个人比较推荐的配置&lt;/p&gt;
 &lt;ul&gt;
