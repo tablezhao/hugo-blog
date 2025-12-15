@@ -20,7 +20,7 @@ pagerSize = 10
 
 [[menu.main]]
  name = "归档"
- url = "/archives/"
+ url = "/archive/"
  weight = 3
 
 [[menu.main]]
