@@ -1,0 +1,3 @@
+{{ if or (eq .Params.toc true) (and (ne .Params.toc false) (.Site.Params.toc)) }}
+{{ .TableOfContents }}
+{{ end }}

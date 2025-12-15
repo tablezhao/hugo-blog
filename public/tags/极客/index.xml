@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>极客 on This is My Table</title>
+    <link>https://blog.tonyz.one/tags/%E6%9E%81%E5%AE%A2/</link>
+    <description>Recent content in 极客 on This is My Table created by </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 20 Jan 2019 02:26:29 +0800</lastBuildDate><atom:link href="https://blog.tonyz.one/tags/%E6%9E%81%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>引入评论系统</title>
+      <link>https://blog.tonyz.one/blog/new-comments-system/</link>
+      <pubDate>Sun, 20 Jan 2019 02:26:29 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/new-comments-system/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://postimg.cc/Yjz8P2xT&#34;&gt;&lt;img src=&#34;https://i.postimg.cc/G3ZNHHT3/20190119212534.jpg&#34; alt=&#34;20190119212534.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;本站引入 “Valine” 无后端评论系统了，意味着薛魏可以有一点互动了。&lt;/p&gt;
+&lt;p&gt;另外，网站加上了 Google Analytics 统计系统，不知道国内的同学访问有没有比较大的迟滞感？可以留言反馈。如果迟滞感特别明显，考虑切回百度统计或者干脆撤掉统计功能。&lt;/p&gt;
+&lt;p&gt;谢谢反馈，欢迎玩耍。&lt;/p&gt;
+&lt;p&gt;2019年1月19日&lt;/p&gt;
+&lt;p&gt;波士顿&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>田牌信仰达成</title>
+      <link>https://blog.tonyz.one/blog/got-surface/</link>
+      <pubDate>Sat, 24 Nov 2018 21:16:17 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/got-surface/</guid>
+      <description>&lt;h2 id=&#34;早已种草&#34;&gt;早已种草&lt;/h2&gt;
+&lt;p&gt;其实很久以前，我就对田牌的Suface系列种草了，只是当时在大悦城适用Surface Book体验过差，再加上囊中羞涩，暂时搁置了购入一台田牌机器的计划，但还是写了一篇文章的，参见 &lt;a href=&#34;https://tonyz.one/surface-book/&#34;&gt;种草Surface Book&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;这次恰好Surface Pro6发布赶上美帝人民喜闻乐见的黑五，所以价格跳水，让我觉得是时候拔草田牌了，于是就有了本篇流水式的评测。&lt;/p&gt;
+&lt;h2 id=&#34;价格和配置&#34;&gt;价格和配置&lt;/h2&gt;
+&lt;p&gt;10月份新发布的Surface Pro6 日常售价是899美元，搭配上 Type Cover 之后的价格是1000美元出头，这次黑五的价格是799美元，所以说价格是相当美好的。配置的话，当然是乞丐版的8代i5-8250U加上8G内存和128G SSD，好在还有个micro SD卡槽，可以搭配一张128G的micro SD卡，用以存储一些并不常用的大型文件。&lt;/p&gt;
+&lt;h2 id=&#34;使用场景和体验&#34;&gt;使用场景和体验&lt;/h2&gt;
+&lt;p&gt;我其实在这部机器之前，已经使用过 MacBook Air 和 小米笔记本 Air 13，还拥有一台 Intel Nuc，因此对我来说我需要不是一台够用的机器，而是一台足够好，可以满足我使用需求的机器。&lt;/p&gt;
+&lt;p&gt;MacBook 近几年的更新乏善可陈，价格又节节攀升，再加上我日常需要使用满血版的 Office，所以现在基本上不会考虑 Macbook 系列了；小米笔记本 Air 13 整体还是不错的，但风扇噪音是个无法解决的问题，此外它的重量也令我有些不满意。因此，单机重770克，连上 Type Cover 重1000克的Surface Pro6 显然是我最好的选择，再加上可以触控的显示屏满足了我对 iPad 使用场景的需求，却又比 iPad Pro 功能多很多。&lt;/p&gt;
+&lt;p&gt;经过我一天的使用来看，机器性能完全满足我的需求，屏幕显示和触控都符合我的期待，键盘输入体验也不错，Windows Hello 人脸识别的功能让我惊喜，此外需要表扬的就是类似已经被苹果砍掉的 Magsafe 功能的磁吸充电接口 Surface Connect，以及触感和反应出色的触控板，让我找回了第一次使用 MacBook Air 的惊喜感。&lt;/p&gt;
+&lt;h2 id=&#34;结语&#34;&gt;结语&lt;/h2&gt;
+&lt;p&gt;我应该是从苹果的坑刚刚爬出，就又掉进了田牌的坑&amp;hellip;&lt;/p&gt;
+&lt;p&gt;2018年11月24日&lt;/p&gt;
+&lt;p&gt;于波士顿&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>组装 Intel NUC 指南</title>
+      <link>https://blog.tonyz.one/blog/intel-nuc/</link>
+      <pubDate>Fri, 26 Oct 2018 15:08:49 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/intel-nuc/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/d0BwFWCz/1934942-947af077b12043e8.jpg&#34; alt=&#34;NUC-Win10.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;由头&#34;&gt;由头&lt;/h2&gt;
+&lt;p&gt;买一台新电脑的想法来源于买了显示器之后，每天需要将笔记本搬来搬去很麻烦，我是一个很怕麻烦的人，所以意识到需要做一点改变来解决这些麻烦。最开始我其实是想买Mac Mini，搜了下亚马逊发现翻新版的Mac Mini最便宜的是不到400美元，可是这毕竟是4-5年前发布的产品了，看到网上有些评测说连最新版的 OS X都快跑不动了，所以买一个全面落后的产品是不可能的。&lt;/p&gt;
+&lt;p&gt;放弃Mac Mini之后，我把目光转向了 Lenovo Thinkcentre M710 Tiny 和 M715 Tiny这两款机器，然而M710 Tiny价格基本上在600刀以上，M715 Tiny不仅是AMD的CPU，而且还缺货了好久，所以也只能将这两款放弃了。&lt;/p&gt;
+&lt;p&gt;放弃知名品牌的机器之后，我想是不是看一看一些小众品牌的机器，比如很多我都没听说过名字的 Mini PC，但在Youtube 看了很多评测之后，发现类似的机器质量似乎都有些不可靠，而且扩展性不高，今后想要升级就很困难了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/NMCt95pD/1934942-f33353cb0a580042.jpg&#34; alt=&#34;NUC-大小对比.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;至此，我终于发现了Intel 的亲儿子 NUC Kit 系列，拥有5代至8代 i3至 i7全系列CPU，可以自己扩展内存和硬盘空间，既可以组装一台性能均衡、长期使用的Mini PC，又可以搞一台接近发烧级别的全能PC，除此之外，还有三年的全球联保，价格也挺亲民，简直是完美了。&lt;/p&gt;
+&lt;p&gt;Shut UP， Take My Money！&lt;/p&gt;
+&lt;h2 id=&#34;备材&#34;&gt;备材&lt;/h2&gt;
+&lt;p&gt;在确定购入 Intel NUC之后，需要做的事情就简单了。首先去买 Intel NUC Kits i3BNH 这个套件，买7代i3的NU的理由是——打折！换算下来比国内购入要便宜了25%左右。除此之外，根据我的使用需求，CPU不是一个关键且核心的点，于是7代i3版本对我来说是个很好的选择。（目前计划回国以后这个套件给我爸妈用，然后重新组装一台8代/9代 i5版本的NUC自用。）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/5NY4zScC/1934942-491d08284dd95cda.jpg&#34; alt=&#34;NUC包装盒.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;因为 Kits 版本是不含 Memory 及 Storage 的，所以在买 NUC Kits 的同时，我买了一根 8G DDR4 2400 SOIDMM 的 Memory，一块 256G M.2 SSD，这样我就买齐了组装一台 Intel NUC的配件。&lt;/p&gt;
+&lt;p&gt;PS：显示屏是 HP VH240a，之前是为了投射笔记本用，现在正好拿来接 NUC。&lt;/p&gt;
+&lt;h2 id=&#34;组装&#34;&gt;组装&lt;/h2&gt;
+&lt;p&gt;因为NUC Kits 其实就是一块主板及一些零部件，所以买回来的Memory及Storage需要自己安装到这块主板上去。好在我很早以前就有过拆装电脑零件的经验了，正好手头也有螺丝刀，于是就自己动手开始组装。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/L6cH3gR0/1934942-abdec864eed7f537.jpg&#34; alt=&#34;NUC内部-硬盘托.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/K8tmqc8c/1934942-c0dcd2ee54c4ff6c.jpg&#34; alt=&#34;NUC内部-无硬盘托.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;首先是打开 NUC Kits 的后盖，可以看到一个 2.5 寸的硬盘托，把硬盘托取下才能看到主板的全部面貌。从这个角度看过去，可以看到有两个 Memory 的接口，以及一个 M.2 SSD 的接口，于是我把买来的 Memory 拆开插到卡槽里，再把 SSD 拆开并插到相应的卡槽里，最后把硬盘托复位，合上后盖并拧紧螺丝，硬件组装部分就完成了！&lt;/p&gt;
+&lt;h2 id=&#34;开机装系统&#34;&gt;开机&amp;amp;装系统&lt;/h2&gt;
+&lt;p&gt;硬件组装好之后，就可以接通电源开机了。好久没用台式机，所以看到BIOS界面还是觉得很新鲜的。进入BIOS检查了下各项设置之后，就插上已经制作好成为Windows 10系统安装介质的U盘，然后重新启动NUC，就会进入系统安装界面了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/1zPsLx8G/1934942-314a61318f81f7b1.jpg&#34; alt=&#34;NUC-BIOS界面.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/3Rx7xgCW/1934942-b77f35be6959dd25.jpg&#34; alt=&#34;NUC-Win10安装.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Windows 10安装起来很简单，按部就班即可，不过记得要支持正版哦~&lt;/p&gt;
+&lt;h2 id=&#34;done&#34;&gt;Done！&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/brGhQp5h/1934942-07c61d7a757c4e7f.jpg&#34; alt=&#34;NUC-特写.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;系统安装和激活完，一台全新可用的NUC就在我面前了。再安装上必备的Dropbox和Google Drive这些工具，这台NUC就可以用于学习/工作了，一切大功告成！&lt;/p&gt;
+&lt;p&gt;2018年10月26日&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ghost 安装指南</title>
+      <link>https://blog.tonyz.one/blog/how-to-install-ghost-blog/</link>
+      <pubDate>Thu, 11 Oct 2018 00:30:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/how-to-install-ghost-blog/</guid>
+      <description>&lt;p&gt;Ghost是一个现代化的，开源的，基于Node.js的博客发布平台，它的前端管理系统基于Ember.js， 后端的模板引擎采用的handlebars， 而默认数据库是MySQL，当然，你也可以使用其他类型的数据库。&lt;a href=&#34;https://link.zhihu.com/?target=https%3A//messiahhh.com&#34;&gt;可以来我博客看下效果&lt;/a&gt;
+&lt;strong&gt;Ghost1.0&lt;/strong&gt;如果用过1.0版本以前的Ghost的同学，会对Ghost版本的更新感到头疼，而一些配置问题也让人心烦。好在，就在一个月前，Ghost推出了Ghost1.0.0，并在一个月内升级到了1.6.2（到目前为止）大版本的提升，主要是因为一个东西的出现，那就是Ghost-Cli。
+&lt;strong&gt;Ghost-CLI&lt;/strong&gt;有了Ghost-Cli，你可以快速安装Ghost自动配置MySQL, Nginx , SSL等快捷的更新版本（只用一行命令就可以）其他等等
+&lt;strong&gt;你需要先做些准备（官方推荐&lt;/strong&gt;Ubuntu 16.04操作系统的服务器（官方只推荐这个操作系统MySQL（默认NginxNode支持的版本： &amp;gt;= 4.5 &amp;lt; 5.*推荐的版本： &amp;gt;= 6.9 &amp;lt; 7.&lt;em&gt;将会被支持的版本： 8.&lt;/em&gt; （Ghost 只支持LTS的Node，如目前的6， 将来的LTS服务器至少1GB 内存（可以使用swap）需要一个非root用户来执行ghost命令&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Follow me&lt;/strong&gt;
+&lt;strong&gt;1GB内存？ 你需要Swap&lt;/strong&gt;你可以看&lt;a href=&#34;https://link.zhihu.com/?target=https%3A//www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-16-04&#34;&gt;这个&lt;/a&gt;，或者在命令行中输入（官方推荐方法）&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$dd if=/dev/zero of=/var/swap bs=1k count=1024k
+$mkswap /var/swap
+$swapon /var/swap
+$echo &#39;/var/swap swap swap default 0 0&#39; &amp;gt;&amp;gt; /etc/fstab
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;用非root用户执行ghost命令增加用户&#34;&gt;&lt;strong&gt;用非root用户执行ghost命令&lt;/strong&gt;增加用户&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;$adduser &amp;lt;user&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;给用户sudo权限&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$usermod -G sudo &amp;lt;user&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;切换到非root用户&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$su - &amp;lt;user&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;用apt-get安装mysql和nginx以及node如果你已经安装好这些东西跳过就行update-package-lists&#34;&gt;&lt;strong&gt;用apt-get安装MySQL和Nginx以及Node&lt;/strong&gt;如果你已经安装好这些东西，跳过就行&lt;strong&gt;Update package lists&lt;/strong&gt;&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;$sudo apt-get update
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Upgrade installed packages&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$sudo apt-get upgrade
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Install NGINX&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$sudo apt-get install nginx
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Open Firewall for HTTP/HTTPS&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$sudo ufw allow &#39;Nginx Full&#39;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Install MySQL&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$sudo apt-get install mysql-server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Add the NodeSource APT repository for Node 6&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;install Node.js&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$sudo apt-get install -y nodejs
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;安装Ghost-CLI&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$sudo npm i -g ghost-cli
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;或者使用yarn(&amp;gt;= 0.23.x)&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$sudo yarn global add ghost-cli
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;准备工作完成。&lt;strong&gt;安装Ghost&lt;/strong&gt;新建一个文件夹&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$sudo mkdir -p /var/www/ghost
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;！！不要安装在/root下给这个文件夹你的用户的权限([user] 换成你的非root用户名)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;$sudo chown [user]:[user] /var/www/ghost
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;切换到新文件夹里&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$cd /var/www/ghost
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;安装&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ghost install
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;然后会蹦出一系列的问题，包括&lt;/p&gt;
+&lt;p&gt;域名&lt;/p&gt;
+&lt;p&gt;MySQL信息（localhost, 用户名，密码， 数据库名）&lt;/p&gt;
+&lt;p&gt;Nginx&lt;/p&gt;
+&lt;p&gt;SSL&lt;/p&gt;
+&lt;p&gt;其他最后一步会提示你是否要启动服务&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;完成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;现在，你输入你的域名，应该就能成功的访问了。输入&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;域名/ghost
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;可以进入网站的后台系统，可以进行发布，更换主题等各种功能&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.zhihu.com/?target=https%3A//docs.ghost.org/v1/docs/introduction&#34;&gt;官方文档&lt;/a&gt;你可以使用ghost config来更改配置你也可以用ghost start/stop/restart来管理你的应用你也可以用ghost install 来更新你的应用&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>诊所网站迁移手记</title>
+      <link>https://blog.tonyz.one/blog/the-story-about-mirgraiton-of-website/</link>
+      <pubDate>Wed, 26 Jul 2017 18:30:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/the-story-about-mirgraiton-of-website/</guid>
+      <description>&lt;h2 id=&#34;缘由&#34;&gt;缘由&lt;/h2&gt;
+&lt;p&gt;15年时，刚进入法律诊所学习，和诊所老师聊得很投机，就答应帮忙建一个诊所网站，不承想这个网站从15年已经运行了两年多了，还屹立于这个世界上，我很是欣慰。但随着国内网络环境的恶化，加之服务费启高，以及我毕业离开诊所之后无人维护网站等等原因，我决定把诊所网站从原来的虚拟主机迁出，迁入到位于洛杉矶的VPS中，这样节约成本，也更方便我自己管理。&lt;/p&gt;
+&lt;h2 id=&#34;迁出&#34;&gt;迁出&lt;/h2&gt;
+&lt;p&gt;诊所网站原本是在国内一家小运营商的虚拟主机上，所以迁出的工作主要就是在后台打包数据库并下载到本地，以及通过FTP把网站后台的一些自定义数据下载到本地。&lt;/p&gt;
+&lt;p&gt;迁出的过程还是比较顺利的，主要是这个虚拟主机的源在河南，所以数据拖回本地的速度很快。&lt;/p&gt;
+&lt;h2 id=&#34;迁入&#34;&gt;迁入&lt;/h2&gt;
+&lt;p&gt;将网站迁入到位于洛杉矶的VPS时我遇到了几个问题。&lt;/p&gt;
+&lt;p&gt;第一个问题是导入SQL数据时遇到的错误提示，即提示有一张数据表无法导入。一开始我以为是数据损坏了，但我重新检查了数据导出过程并没有什么错误。通过Google检索我也没发现原因，只能自己摸索。我重新导出，在导出时把所有可选项都勾选了，这样导出的文件在导入时就没有再报错了。&lt;/p&gt;
+&lt;p&gt;另一个问题是CMS程序安装时与数据库对接的问题。因为诊所网站使用了蝉知CMS，在安装时需要填入数据库名和密码信息，但如果填入的信息与之前的数据库完全相同则会提示已存在数据库，需要抹除数据。所以为了保证数据安全，可以新建一个数据库，并将CMS与其对接，对接成功后再把原来的数据导入新数据库，这样数据就能完全恢复。&lt;/p&gt;
+&lt;p&gt;第三个问题是域名解析的问题。在迁入网站后，我把域名从原来的虚拟主机解析到我的VPS上，解析挺顺利，一会儿就可以打开网站了。但是过一会儿我再访问网站时会提示 “Bad request （Invalid hostname）”，我觉得很奇怪，以为是nignx的问题，于是重启nignx，可是这个错误提示还是反复出现。经过Google之后，发现这个提示一般是windows IIS服务的提示，然而我的VPS是Linux系统，怎么会出现这样的提示呢？思考之后，我觉得是DNS解析存在时效的问题，也就是部分地区仍解析到原虚拟主机上，这样因为原虚拟主机被我关闭了，所以就会提示错误。果然在等了一天以后，这样的提示不再出现。&lt;/p&gt;
+&lt;h2 id=&#34;一点感想&#34;&gt;一点感想&lt;/h2&gt;
+&lt;p&gt;诊所网站迁出成功之后，我回想了这几年折腾网站的经历。&lt;/p&gt;
+&lt;p&gt;其实最早是在高中用Frontpage做静态站玩，那个时候几乎就和做PPT一样，这个网站后来放在高中官网上，后来也时不时地去看看，前段时间我再去看，发现已经404了，可能是现在维护高中官网的老师移除这个网页。现在再去找这个网页的文件，可能只有到我那台快作古的台式机里才能找到了吧。&lt;/p&gt;
+&lt;p&gt;诊所网站则是我第二次尝试，主要使用了CMS建站程序，不再自己一个控件一个控件的搭了。经过接近一年的打磨，网站看上去还是像点样子的。这次迁出来的目的，其实就是因为舍不得这个网站也就这么没了。&lt;/p&gt;
+&lt;p&gt;最近自己在做的网站是法律尽职调查导航网站，这次有了自己的团队，在前端工程师和设计师的帮助下完成了网站，尽管还很稚嫩，但总算不是孤芳自赏，有一些人会去使用我的网站了，这一点让我很高兴。&lt;/p&gt;
+&lt;p&gt;最后，还是放一下诊所网站的地址——&lt;a href=&#34;http://www.jsflyz.com&#34;&gt;www.jsflyz.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2017/07/26&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>种草 Surface Book</title>
+      <link>https://blog.tonyz.one/blog/surface-book/</link>
+      <pubDate>Sat, 25 Feb 2017 19:30:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/surface-book/</guid>
+      <description>&lt;p&gt;作为一个“果粉“，突然对田牌产品种草，这说明什么？嗯，还是听我讲故事吧。&lt;/p&gt;
+&lt;h2 id=&#34;这里是起因&#34;&gt;这里是起因&lt;/h2&gt;
+&lt;p&gt;出于众所周知的原因（其实就是上班），这台陪伴我三年多的 MacBook Air  有些力不从心了，尤其最近，不仅有些奇怪的小问题，还会经常性的卡住。这让我很怀疑，这台机器还能服役多久？作为一名非诉搬砖狗，拥有优异性能的电脑就是吃饭的家伙，所以我产生了换台电脑的冲动。&lt;/p&gt;
+&lt;h2 id=&#34;这里是经过&#34;&gt;这里是经过&lt;/h2&gt;
+&lt;p&gt;说换就换吗？那肯定是不是的，首先要做的就是现场考察下目前主流机器。在我眼里，这个世界上的电脑只有 MacBook 和其他电脑。所以此行的第一站就是朝阳大悦城的 Apple Store 咯！&lt;/p&gt;
+&lt;p&gt;到店之后，我看了看2016款的 MacBook Pro with Touch Bar，顺手试了试它，觉得这款机器还不错，但无法让我产生购买的冲动，尤其是这台机器仅有的四个 Type C 接口，当在办公室同事要给通过 U 盘传文件时，这画面美得不敢想象。&lt;/p&gt;
+&lt;p&gt;于是我又上楼去看了看田牌的展柜，这里主要就是两款机器，一台 Surface Pro4，这是一台朋友告诫我千万别买的机器，于是我看都没看；另一台则是 Surface Book，今天真正打动我的机器。&lt;/p&gt;
+&lt;h2 id=&#34;这里是赞美&#34;&gt;这里是赞美&lt;/h2&gt;
+&lt;p&gt;讲真话，田牌自从用过 Nokia 760（好像还躺在我学校的柜子里）之后，我就对田牌出的任何产品毫无兴趣。完全就是把消费者当白鼠，把无法正常使用的产品推向市场。但这个 Surface Book 啊，确实很好用，至少满足了我目前对一台笔记本的所有需求，而且还有磁性充电口（对，我怼的就是2016款 MBP）。&lt;/p&gt;
+&lt;p&gt;Surface Book 有两个 USB 3.0 和一个 Mini DP 接口，甚至还有一个 SD 卡槽，简直要感动哭了。我宁愿带着充电器出门，也不愿意带着一堆转换器好么！更令人感动的是，它是分体式设计，同时满足笔记本和平板的需求，终于不要干买一台 MBP 和 iPad Pro 同时用的蠢事情了。更何况它还有 2K 的显示屏，嗯，这大概比 Retina 还要 Retina 吧。&lt;/p&gt;
+&lt;h2 id=&#34;这里是结语&#34;&gt;这里是结语&lt;/h2&gt;
+&lt;p&gt;说了这么多，我还是没买。只有一个原因，那就是穷。&lt;/p&gt;
+&lt;p&gt;所以我要努力搬砖了。（手动再见）&lt;/p&gt;
+&lt;p&gt;2017.2.25&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bandwagon VPS 推荐</title>
+      <link>https://blog.tonyz.one/blog/bandwagon-vps/</link>
+      <pubDate>Mon, 01 Aug 2016 22:15:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/bandwagon-vps/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://bandwagonhost.com/aff.php?aff=15653&#34;&gt;Bandwagon&lt;/a&gt;是一家非常著名的 IDC ，也是我个人经常使用的一家IDC服务商，比如搭建站点供访客访问，因此我比较推荐该IDC服务商用于新手联手。&lt;/p&gt;
+&lt;p&gt;以下为我个人比较推荐的配置&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;硬盘：10 GB RAID-10&lt;/li&gt;
+&lt;li&gt;内存：512 MB&lt;/li&gt;
+&lt;li&gt;CPU：1x Intel Xeon&lt;/li&gt;
+&lt;li&gt;流量：500 GB/月&lt;/li&gt;
+&lt;li&gt;带宽：1 Gigabit&lt;/li&gt;
+&lt;li&gt;机房：可迁移至任意机房&lt;/li&gt;
+&lt;li&gt;价格：19.99美元/年&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bandwagonhost.com/aff.php?aff=15653&#34;&gt;购买链接&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

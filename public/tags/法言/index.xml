@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>法言 on This is My Table</title>
+    <link>https://blog.tonyz.one/tags/%E6%B3%95%E8%A8%80/</link>
+    <description>Recent content in 法言 on This is My Table created by </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 07 Aug 2024 15:50:35 +0800</lastBuildDate><atom:link href="https://blog.tonyz.one/tags/%E6%B3%95%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数据合规新闻三则</title>
+      <link>https://blog.tonyz.one/blog/shu-ju-he-gui-xin-wen-san-ze/</link>
+      <pubDate>Wed, 07 Aug 2024 15:50:35 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/shu-ju-he-gui-xin-wen-san-ze/</guid>
+      <description>&lt;p&gt;今日注意到三则和数据合规有关的新闻：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;《互联网平台停服数据处理安全要求》&lt;/li&gt;
+&lt;li&gt;《中德数据跨境流动合作备忘录》&lt;/li&gt;
+&lt;li&gt;咖啡经营者被上海网信办约谈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;简单研读了下这三则新闻，分别对应了三个事情：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;APP停止运营时需要如何通知用户和处理数据&lt;/li&gt;
+&lt;li&gt;数据跨境的领域开始有了类似于双边贸易协定的协议&lt;/li&gt;
+&lt;li&gt;网信办的执法重点从去年的停车扫码开始转移到咖啡店点单&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;对于上面三个事情，对我来说也有一定的思考：&lt;/p&gt;
+&lt;p&gt;对于第一个事情，APP停止运营时各个公司发布的公告都不太一样，提供的相关数据处理方案也不一样，这个标准的出台至少为今后如何规范的拟定停运通知和采取必要的措施提供了参考。&lt;/p&gt;
+&lt;p&gt;对于第二个事情，我的思考是贸易领域有WTO这样的跨国家的国际贸易组织，同时也有双边、多边协定，为贸易和货物流动提供了基础。那今后是否在数据跨境领域也会出现类似的双边、多边数据跨境协定，甚至出现跨国家的国际数据流动联盟（组织）？对于企业来说，是应该欢迎这样的协定、组织，还是应该坚持数据自由流动，恐怕是今后一段时间内会出现的新问题。&lt;/p&gt;
+&lt;p&gt;对于第三件事情，今天下午和新加坡同事进行了交流，我想从国外合规从业者的视角来看，会觉得为什么监管部门会把视角放在这些较小的领域或者企业，而不是真正的以线上业务为主要业务的企业。类似于欧盟地区的执法案例，似乎监管和处罚的主要是跨国的互联网企业，很少有类似的特定线下行业的企业。这对外国同事和我们来说都是一个新鲜的课题，有待观察今后的监管趋势和方向是否还是集中在这一类行业或企业身上。&lt;/p&gt;
+&lt;p&gt;以上为今天对感兴趣的专业内容的梳理。&lt;/p&gt;
+&lt;p&gt;2024/08/07&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>闲言碎语话——规范和促进数据跨境流动规定（征求意见稿）</title>
+      <link>https://blog.tonyz.one/blog/the-regulations-about-cbdt/</link>
+      <pubDate>Thu, 28 Sep 2023 14:25:09 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/the-regulations-about-cbdt/</guid>
+      <description>&lt;p&gt;今天临近下班时发现CAC在节前给数据合规律师发了大礼包，仔细一看这个大礼包对今年特别热的数据出境合规工作可能会产生很大的影响，于是在第一时间研读起来，感觉有不少规定很有意思，想简单地讲几句。&lt;/p&gt;
+&lt;p&gt;一、国际贸易、学术合作、跨国生产制造和市场营销等活动中产生的数据出境，不包含个人信息或者重要数据的，不需要申报数据出境安全评估、订立个人信息出境标准合同、通过个人信息保护认证。&lt;/p&gt;
+&lt;p&gt;Tony：这点基本上就是废话，之前数据出境合规工作主要也是关注的是个人信息和重要数据，如果只是单纯的业务相关数据不会考虑开展数据出境安全评估。&lt;/p&gt;
+&lt;p&gt;二、未被相关部门、地区告知或者公开发布为重要数据的，数据处理者不需要作为重要数据申报数据出境安全评估。&lt;/p&gt;
+&lt;p&gt;Tony：对一些可能涉及处理重要数据的企业来说，这可能是利好，除非被相关部门、地区告知或公开发布为重要数据的，都不需要去考虑重要数据出境的问题。&lt;/p&gt;
+&lt;p&gt;三、不是在境内收集产生的个人信息向境外提供，不需要申报数据出境安全评估、订立个人信息出境标准合同、通过个人信息保护认证。&lt;/p&gt;
+&lt;p&gt;Tony：强调数据出境合规的前提是个人信息是在境内收集产生的，对于很多跨国企业使用中国分支机构作为技术支持机构而处理境外用户的个人信息的情况，不再需要担心这部分个人信息也会受到数据出境合规的监管。（那如果从境外直接收集境内用户的个人信息的场景，是不是也可以参照这条处理？）&lt;/p&gt;
+&lt;p&gt;四、符合以下情形之一的，不需要申报数据出境安全评估、订立个人信息出境标准合同、通过个人信息保护认证：&lt;/p&gt;
+&lt;p&gt;（一）为订立、履行个人作为一方当事人的合同所必需，如跨境购物、跨境汇款、机票酒店预订、签证办理等，必须向境外提供个人信息的；&lt;/p&gt;
+&lt;p&gt;（二）按照依法制定的劳动规章制度和依法签订的集体合同实施人力资源管理，必须向境外提供内部员工个人信息的；&lt;/p&gt;
+&lt;p&gt;（三）紧急情况下为保护自然人的生命健康和财产安全等，必须向境外提供个人信息的。&lt;/p&gt;
+&lt;p&gt;Tony： 可以说是本次规定的重大利好。第一条解决了很多跨境电商、跨境金融、航空公司、连锁酒店最近一直很关注的到底要不要做数据出境合规的问题，尤其是对于境外接收方十分庞杂的情形，如果真的做数据出境合规，基本上没办法完成申报/备案。第二条让所有跨国公司人力资源团队都放下了悬着的心，懂的都懂。第三条基本上是延续了个保法第13条规定的精神。&lt;/p&gt;
+&lt;p&gt;五、预计一年内向境外提供不满1万人个人信息的，不需要申报数据出境安全评估、订立个人信息出境标准合同、通过个人信息保护认证。但是，基于个人同意向境外提供个人信息的，应当取得个人信息主体同意。&lt;/p&gt;
+&lt;p&gt;Tony： 又是本次的规定又一利好。基于这个规定，很多跨国公司基于常规的客户管理、公司管理等等需要，会有少量个人信息出境的需求，如果这些都要做数据出境合规的话，工作量可想而知。&lt;/p&gt;
+&lt;p&gt;六、预计一年内向境外提供1万人以上、不满100万人个人信息，与境外接收方订立个人信息出境标准合同并向省级网信部门备案或者通过个人信息保护认证的，可以不申报数据出境安全评估；向境外提供100万人以上个人信息的，应当申报数据出境安全评估。但是，基于个人同意向境外提供个人信息的，应当取得个人信息主体同意。&lt;/p&gt;
+&lt;p&gt;Tony：没有意外，只是对数据出境合规三条路径的进一步解释和明确。&lt;/p&gt;
+&lt;p&gt;七、自由贸易试验区可自行制定本自贸区需要纳入数据出境安全评估、个人信息出境标准合同、个人信息保护认证管理范围的数据清单（以下简称负面清单），报经省级网络安全和信息化委员会批准后，报国家网信部门备案。&lt;/p&gt;
+&lt;p&gt;负面清单外数据出境，可以不申报数据出境安全评估、订立个人信息出境标准合同、通过个人信息保护认证。&lt;/p&gt;
+&lt;p&gt;Tony：规定是好规定，如何落地是问题。参照前几天北京商务局起草的《北京市外商投资条例》中关于数据跨境便利措施的规定，问题一样是如何落地。&lt;/p&gt;
+&lt;p&gt;八、国家机关和关键信息基础设施运营者向境外提供个人信息和重要数据的，依照有关法律、行政法规、部门规章规定执行。&lt;/p&gt;
+&lt;p&gt;向境外提供涉及党政军和涉密单位敏感信息、敏感个人信息的，依照有关法律、行政法规、部门规章规定执行。&lt;/p&gt;
+&lt;p&gt;Tony：说了等于没说。&lt;/p&gt;
+&lt;p&gt;九、数据处理者向境外提供重要数据和个人信息，应当遵守法律、行政法规的规定，履行数据安全保护义务，保障数据出境安全；发生数据出境安全事件或者发现数据出境安全风险增大的，应当采取补救措施，及时向网信部门报告。&lt;/p&gt;
+&lt;p&gt;Tony：正确的废话。&lt;/p&gt;
+&lt;p&gt;十、各地方网信部门应当加强对数据处理者数据出境活动的指导监督，强化事前事中事后监管，发现数据出境活动存在较大风险或者发生安全事件的，要求数据处理者进行整改消除隐患；对拒不改正或者导致严重后果的，依法责令其停止数据出境活动，保障数据安全。&lt;/p&gt;
+&lt;p&gt;Tony：强调了事前事中事后监管，主要是为了配套上面给出的一些宽松措施，来实现监管兜底。&lt;/p&gt;
+&lt;p&gt;十一、《数据出境安全评估办法》、《个人信息出境标准合同办法》等相关规定与本规定不一致的，按照本规定执行。&lt;/p&gt;
+&lt;p&gt;Tony：说清楚了这几个关于数据出境的规定如何适用的问题。&lt;/p&gt;
+&lt;p&gt;总结：期待尽快落地，方便合理的数据跨境，避免给企业带来太多的合规成本和经营障碍，这样才能利好经济。&lt;/p&gt;
+&lt;p&gt;20230928&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>心态与位置</title>
+      <link>https://blog.tonyz.one/blog/attitude-and-position/</link>
+      <pubDate>Sun, 24 Nov 2019 14:16:25 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/attitude-and-position/</guid>
+      <description>&lt;p&gt;入职接近一个月，经手了一些工作，也有了新的思考。&lt;/p&gt;
+&lt;p&gt;这些思考里面，我觉得最重要的一点是心态的问题。我之前曾经在很多地方实习过，做过诉讼也做过非诉，对于日常工作基本上是有一定了解的。因此来到公司，并没有很多不适应，很快就进入角色，忙碌但有收获。但慢慢的我也发现了问题，例如我有点畏惧和陌生的同事沟通，如果是需要我和陌生同事协调某个重要的事情，尤其是对方职级比我高不少时，我会不太敢去沟通。&lt;/p&gt;
+&lt;p&gt;我思考了下为什么会这样。可能是因为之前都是实习生的身份，对于律师、合伙人，我的意见更多是辅助和参考，而不用我自己出主意、给意见。现在我是公司的一名正式法务，那我的意见和主意就代表这个问题上法务部门的态度和意见。对于具体的工作来说，即使对方职级比我高很多，但因为我们在同一个项目代表着不同部门出具意见，我们其实就是平等的。对于这个项目来说，不会因为对方职级比我高很多就代表他/她的意见更为重要，而我需要做的是摆正心态、拿出专业度，去处理好经手的每一个项目。&lt;/p&gt;
+&lt;p&gt;另一个问题是位置。以往我的身份总是乙方，为作为甲方的企业审查合同、提供意见，而现在我是公司法务，在很多项目中我是代表着甲方评审法律风险，给出专业意见。我所处的位置发生了很大的变化，而我最开始并没有察觉到，我以为我做的是我熟悉的工作，然而很陌生。&lt;/p&gt;
+&lt;p&gt;身处公司法务的位置，我在给出意见时更多要考虑业务能否落地，是否会影响公司整体的部署安排；而在外部律师的位置时，我在给出意见时更多是要提示风险，让客户自己做决定是否落地业务。所处位置不同，我能够接触到的信息深度、广度也完全不一样，我需要面对的同事、对手也毫不相同，这时候我给出的意见会更为直接地体现在业务经营上。因此，搞清楚自己的位置很重要，才能把握好经手的每一份合同、每一个项目。&lt;/p&gt;
+&lt;p&gt;最后，重归工作的感觉真好。&lt;/p&gt;
+&lt;p&gt;2019年11月24日&lt;/p&gt;
+&lt;p&gt;于深圳&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>求职小记</title>
+      <link>https://blog.tonyz.one/blog/stories-of-jobs/</link>
+      <pubDate>Sun, 03 Nov 2019 08:30:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/stories-of-jobs/</guid>
+      <description>&lt;p&gt;从回国至今，已经四月有余，终于收到了合适的offer，不用再在失眠的夜里怀疑自己今年能不能找到一份满意的工作，这种感觉挺好。不过今夜又失眠了，各种各样的情绪在心里反复。趁这个失眠的夜晚，写一写今年求职的经历和感受，博君一乐。&lt;/p&gt;
+&lt;h2 id=&#34;只想去律所阶段&#34;&gt;只想去律所阶段&lt;/h2&gt;
+&lt;p&gt;从大学到研究生，除了在法院就是在律所实习，因为我根本没想过去公司，觉得只有做律师才能体现出我的价值，才能做我想做的事情，所以这个阶段求职的思路就是只投律所。什么红圈所、外资所、精品所，或者大所、名所，能想到的律所我基本上都投了一圈，也收到了一些所的回复，或者是笔试/面试邀请，让我印象比较深刻的是下面一些经历：&lt;/p&gt;
+&lt;h3 id=&#34;某红圈所&#34;&gt;某红圈所&lt;/h3&gt;
+&lt;p&gt;出国之前，在好友张律的帮助下曾经去某红圈所参加过笔试/面试，那次是我第一次去这么高大上的律所，颇有一种刘姥姥进大观园的感觉。这次回国以后也有幸收到了某红圈所（另一家）的笔试邀请，让我见识到什么叫做“地狱难度”的笔试。很显然我并没有通过这家所的笔试，我充分认识到了我距离行业内最优秀的同学之间的差距。（但这个团队的合伙人前段时间被人举报了&amp;hellip;）&lt;/p&gt;
+&lt;h3 id=&#34;某外所&#34;&gt;某外所&lt;/h3&gt;
+&lt;p&gt;如果说某红圈所让我体验了什么叫“地狱难度”的笔试，那大概某外所让我体验到什么叫做“地狱难度”的面试。后来想了想，其实面试的难度取决于律所的招聘需求，是需要一个初出茅庐的1年级小朋友，还是一个有了一定工作经验，能够上项目的3年级同学。对于我来说，虽然有机会拿到某外所的面试邀请，但我确实经验不够，项目深度也不够，很遗憾没有通过面试。这让我思考，今后工作中要多深挖、多积累，才能成为一个合格的中年级同学。&lt;/p&gt;
+&lt;h3 id=&#34;某大所&#34;&gt;某大所&lt;/h3&gt;
+&lt;p&gt;有幸得到好友王哥推荐，获得了某大所的面试机会，并且顺利通过获得offer（令人心动的offer？）。拿到offer之后，我开始按部就班地实习留用，但实习第一天我发现这份工作和我想象的不一样。我比较期待的是比较高强度的工作，和比较紧张的工作节奏，如果能够钱多一点是更好的。然而这份工作与我期待的不太一样，可能用“钱多事少离家近”形容比较合适，但我并不想做这么一份工作，尤其是害怕在这样的环境中过得太舒服，于是还是走了。&lt;/p&gt;
+&lt;h3 id=&#34;本土所&#34;&gt;本土所&lt;/h3&gt;
+&lt;p&gt;其实很多本土所都很好，立足于本土，也成长于本土。但我比较希望在起步阶段可以找到一个高一些的平台，所以很多时候这些本土所没办法提供这样的平台。当然，很多本土所其实也不喜欢我这种背景的同学，会觉得呆不住/呆不久，这确实是个两难的事情。&lt;/p&gt;
+&lt;h2 id=&#34;那就干法务呗&#34;&gt;那就干法务呗&lt;/h2&gt;
+&lt;p&gt;律所求职碰壁之后，我开始反思自己的思路，即是不是一定要去律所呢？在咨询了一些同学/朋友的意见之后，我开始觉得对于法学生求职来说，并不一定只有律所一条路，还有企业校招和公务员考试这样的路径。出于对自己性格的认知，我觉得还是选择进企业比较合适，于是就关注起各种校招的信息来。&lt;/p&gt;
+&lt;h3 id=&#34;一些金融行业的公司&#34;&gt;一些金融行业的公司&lt;/h3&gt;
+&lt;p&gt;最开始，我是投了一些证券、基金公司，然而并没有人理我。想了想，可能还是因为学历短板，再加上并没有相关经验，叠加上今年的行业形势，这个方向可能很难找到合适的工作了。那不如投投我喜欢的方向吧。&lt;/p&gt;
+&lt;h3 id=&#34;一些互联网大厂&#34;&gt;一些互联网大厂&lt;/h3&gt;
+&lt;p&gt;因为很喜欢互联网，还懂一点点相关知识，于是投了得有七八个互联网大厂。给我反馈的大概有个四五个的样子。参加了鹅厂某子公司的笔试，然而并没有后续消息，至于鹅厂本厂应该也没看上我的简历，迄今为止尚未发起面试。（笔试之后接近一个月，鹅厂某子公司发来面试邀请，然而我已经准备入职某厂了，就婉拒了面试邀请。）&lt;/p&gt;
+&lt;p&gt;参加了杭州某大厂的面试，面试体验很棒，面试官很nice（还是通中学长！），但因为没有hc只能走外包入职，而外包能给出的价格令人心碎。尽管这样，我还是很喜欢这个大厂的几位面试官，让我觉得面试也可以这么开心。&lt;/p&gt;
+&lt;p&gt;之后又去了北京西二旗，参观了米厂的新总部，顺便完成了一次愉快的面试（感谢阿破在昌平收留了我）。米厂的法务总可能是我见过的最nice的法务总，让我有一种和他干准没错的感觉。面试环节走的比较通畅，也拿到了offer，然而因为收到了最想要的offer，我只能忍痛放弃了。&lt;/p&gt;
+&lt;p&gt;最后是等了很久的某厂的offer。其实很早就飞来深圳完成了面试，只不过在面试通过之后等了很久的offer。还好总归是等来了。对我来说，能够和这些优秀的同学一起参加群面就是很幸运且新奇的体验了。没想到居然能够通过三轮面试，顺利晋级，让我意外又开心。等待的过程中，几位朋友告诉我“等待是一种艺术”，几多体会，颇有味道。&lt;/p&gt;
+&lt;p&gt;很幸运的是，从美国回来、反复折腾了四个月以后，我拿到了期待已久的offer，即将体验一段很有趣的工作/生活。在这四个月里，我反复期待/落空，质疑自己到崩溃，但总算熬过来了，幸好幸好。&lt;/p&gt;
+&lt;p&gt;谢谢各位朋友在这段时间里对我的帮助和鼓励，也谢谢家里人的支持和理解，有你们真好。&lt;/p&gt;
+&lt;p&gt;写于 2019年10月18日&lt;/p&gt;
+&lt;p&gt;修改于 2019年11月3日&lt;/p&gt;
+&lt;p&gt;于上海&amp;amp;深圳&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>诊所教育与我的成长</title>
+      <link>https://blog.tonyz.one/blog/legal-clinic-and-my-experience/</link>
+      <pubDate>Thu, 07 Mar 2019 14:20:57 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/legal-clinic-and-my-experience/</guid>
+      <description>&lt;p&gt;新的一期法律诊所又开课了，受李老师邀请，与小朋友们分享了一下我参加法律诊所的心得体会，也算是对我这几年法律诊所经历的回顾和总结。&lt;/p&gt;
+&lt;p&gt;可以说，法律诊所让我在扬大的学习生活有了很多有趣的目标，也帮助我成功从扬大走了出来，让我不断向前走，认识更多优秀的人，因此很感谢这段经历。&lt;/p&gt;
+&lt;h2 id=&#34;一引子&#34;&gt;一、引子&lt;/h2&gt;
+&lt;p&gt;各位老师、各位同学大家晚上好，我是赵超，是扬州大学法学院2017届毕业生，目前就读于美国波士顿大学法学院。&lt;/p&gt;
+&lt;p&gt;非常感谢李秀华老师邀请我参与到今晚的诊所课堂，让我有机会回顾诊所教育对我这几年成长的帮助，我很高兴能在这里与大家分享我对诊所教育的看法以及对法律学习的一点心得。&lt;/p&gt;
+&lt;h2 id=&#34;二学习视野&#34;&gt;二、学习视野&lt;/h2&gt;
+&lt;p&gt;首先，我认为诊所教育可以拓宽我们的学习视野，让我们得以在更为广阔的天地学习和发展。就拿我本人来说，诊所教育对我的学习视野拓宽是显而易见的。在加入法律诊所之前，尽管我已经接受了两年多法学本科教育，但对法律实务仍只有一个模糊的概念。虽然从课本上学到了许多有用的法学知识，但我并不知道如何将这些知识运用到法律实务之中。因此，法律诊所为我提供了一个很好的实践平台，通过法律诊所我得以接触到需要法律援助的当事人，从而学会如何接待当事人、如何起草法律文书、如何协调和管理案件；通过法律诊所我参加了多次学术研讨会，从而接触到当前学界、实务界对一些热点问题的最新观点；通过法律诊所我结识了许多校内外、热衷于法律诊所、提供法律援助的同学、老师和实务工作者，从而让我不再拘泥于扬州大学这个平台。&lt;/p&gt;
+&lt;p&gt;凡此种种，都是我接触和加入法律诊所后，通过日常学习和实践获得的，让我得以在大学本科阶段对学术、实务都拥有了更好的理解，同时也让我保持着对新鲜事物和领域的好奇心，去不断探索和接触新事物。&lt;/p&gt;
+&lt;h2 id=&#34;三公益意识&#34;&gt;三、公益意识&lt;/h2&gt;
+&lt;p&gt;无论国内国外，法律诊所一般都承载着一定的公益性。例如我们扬州大学婚姻家庭法律诊所，为社会中需要婚姻家庭方面法律援助的弱势群体提供帮助，同时也在全社会范围内宣传与婚姻家庭方面的法律常识；再比如波士顿大学法学院网络法法律诊所，为波士顿地区以麻省理工、哈佛大学、波士顿大学学生为主体的初创型科技公司提供法律服务，协助并指导这些年轻的创业者避免法律风险，更好地创业和接受投资，这些都是法律诊所的公益性的体现。&lt;/p&gt;
+&lt;p&gt;加入法律诊所后，在李老师的指导下，我利用自己的一技之长，为诊所建立了微信公众号，用于宣传诊所和为关注者提供法律咨询。此后，我秉持着这种公益意识，思考了如何做一些有益于法律人这个群体的事。因此，在2017年实习时，我设计、制作并运营了“法律尽职调查导航”网站，为法律从业者提供法律检索方面的帮助；2018年夏天我加入了“律盐”公众号运营团队，制作并运营与法律求职有关的微信文章，帮助许多年轻的法律人找到了心仪的工作。可以说，法律诊所的教育与实践，让我对公益意识有了更多认识，并不断以自身行为努力实践。&lt;/p&gt;
+&lt;h2 id=&#34;四法律思维&#34;&gt;四、法律思维&lt;/h2&gt;
+&lt;p&gt;一名法律人必不可少的是法律思维，如何培养法律思维我想是很多人会问的一个问题。我个人觉得，培养法律思维需要通过理论与实践相结合的方式，一方面加强法学理论的学习，另一方面要注重法律实践，二者是相辅相成的关系。拿我自己来说，在本科学习时，我比较偏好民法、侵权法方向，因此加入法律诊所后，我得以在上述两个法学领域有一定的实践机会，同时也因此接触到李老师邀请来的业界大拿，让我的法律思维得以提高。&lt;/p&gt;
+&lt;p&gt;我目前主要学习的方向是美国公司法、证券法和国际金融监管。尽管现在学习的内容与本科时有很大的不同，但本科时法律诊所和课堂学习训练了我的法律思维，使得我在学习美国公司法、证券法时经常通过比较中美法律异同的方式来加深对相关规定的记忆。&lt;/p&gt;
+&lt;p&gt;此外，我认为一个法律人也应当对当下热点法律问题保持关注，例如上周我在哈佛大学法学院参加哈佛中国法学会组织的主题为“如何与中国合作？”的论坛，与来自哈佛大学法学院、商学院、费正清中国研究中心的多位教授、美国多家知名律所的合伙人以及君合律师事务所纽约办公室合伙人共同探讨了“经济背景下的中美贸易争端”、“在美国中国资本投资的机遇与挑战”等热点问题，帮助我从法律层面了解当前中美贸易争端，并启发我关注到中国资本进入美国投资的限制与合规问题，这些热点问题也能促进我对国际金融监管这门课的学习和认知。因此，我建议同学们在学习之余一定要对这些热点法律问题保持关注，只有这样才能跟上不断在进步的业界同仁。&lt;/p&gt;
+&lt;h2 id=&#34;五个人成长&#34;&gt;五、个人成长&lt;/h2&gt;
+&lt;p&gt;我一直有着出国读书的想法，但在接触法律诊所之前这个想法较为原始。当时的我，除了尚且可以的学习成绩以外，并无什么拿得出手的亮点，而申请国外学校时是很看重除学习以外的亮点的。因此，当我进入法律诊所后，我开始了解到如何进行法律实务，什么能力是我们今后从事法律实务时需要的，什么样的思维是我们今后处理案件时应该具备的，等等诸如此类的问题。同时大量参加了公益活动、学术活动，在前往波士顿大学法学院读书前，我曾经在多家律师事务所实习，可以说法律诊所的经历和经验帮助我得到了不错的实习机会，也在我申请国外学校时丰富了我的背景。&lt;/p&gt;
+&lt;p&gt;因此，我非常鼓励大家积极参加诊所活动，不仅为诊所的发展贡献自己的力量，也会从中收获许多意想不到的惊喜。若干年后，我相信，各位同学一定会像我一样十分怀念在诊所的日子，并以曾经身为法律诊所的一员而永远骄傲。&lt;/p&gt;
+&lt;p&gt;谢谢大家！&lt;/p&gt;
+&lt;p&gt;2019年3月5日&lt;/p&gt;
+&lt;p&gt;于波士顿&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>微信取证指南</title>
+      <link>https://blog.tonyz.one/blog/evidences-for-wechat/</link>
+      <pubDate>Mon, 15 Oct 2018 00:50:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/evidences-for-wechat/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;本文转载自 &lt;a href=&#34;https://sspai.com/post/46220&#34;&gt;给每个人的微信取证指南，这件事不是截个图那么简单-少数派&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2018 年 7 月 18 日，广东省广州市南沙区人民法院（广东自由贸易区南沙片区人民法院）出台《&lt;a href=&#34;http://opinion.people.com.cn/n1/2018/0720/c1003-30159812.html&#34;&gt;互联网电子数据证据举证、认证规程&lt;/a&gt;》，使「微信取证」再次成为公众关注焦点。因此本文将从法律从业人员的角度，聊一聊微信取证（及其它互联网社交软件取证）的相关问题。&lt;/p&gt;
+&lt;p&gt;（Nick 按：这篇文章由做律师的黛西老师原创，由于她没有 Matrix 帐号，于是假我手发出，希望能对你有所帮助。）&lt;/p&gt;
+&lt;h2 id=&#34;微信取证的基本原则&#34;&gt;微信取证的基本原则&lt;/h2&gt;
+&lt;p&gt;此前，微信、QQ 等互联网社交软件的取证就已经被纳入有效证据的范畴，此次举证规程的出台再度明确了软件取证的各项细节。整个过程并非部分网友想象的「只是截截聊天记录」那么简单，它需要形成一套完整的证据链条。&lt;/p&gt;
+&lt;p&gt;在开始取证前，建议你先了解微信取证的一些基本原则，便于你举一反三：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;微信聊天记录作为证据要符合「合法性、真实性、关联性」的「三性」特征。&lt;/strong&gt; 即微信聊天记录要依法取得、来源合法；所表达的事实或内容真实；与待证事实密切相关。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;与案件事实有关的内容不得选择性提供&lt;/strong&gt;：微信聊天记录应当完整地反映对话过程，与案件事实有关的内容不得选择性提供，法庭可以要求补充提供指定期间内的完整对话记录。需要注意的是：如果故意选择性提供对话记录内容，将承担相应的法律后果。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;注意保留微信聊天记录中对方身份的证据&lt;/strong&gt;：可以采取对方的自认、手机号码锁定、通过聊天细节、微信头像、微信相册、朋友圈等方式确认，必要时也可以请求腾讯公司协助调查。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;所有证据及时固定，善于利用微信收藏&lt;/strong&gt;：所有证据都尽可能在第一时间固定保存，避免对方撤回、删改等。对于图片、视频等有保存期限的格式，应注意及时下载或收藏，避免证据灭失而无法举证。&lt;/p&gt;
+&lt;p&gt;简单地说，&lt;strong&gt;微信取证不仅要截取聊天记录，还要通过截图、录像等手段向法庭证明截图中的对话双方就是当事人本人。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;微信取证虽然还有其他的注意点，但了解上面四条足以帮助你避开手机操作过程中可能发生的错误。接下来看看微信取证的正确处理方式。&lt;/p&gt;
+&lt;h2 id=&#34;微信取证的方式&#34;&gt;微信取证的方式&lt;/h2&gt;
+&lt;p&gt;司法实践中，&lt;strong&gt;微信聊天记录取证多采取截图 + 录像的方式&lt;/strong&gt;。截图即对微信聊天记录静态固定，录像即对取证过程动态固定。&lt;/p&gt;
+&lt;p&gt;下面以王 XX 诉李 XX 转让合同纠纷案所涉微信记录为例，展示具体取证步骤。即使你不熟悉固定证据的流程，也可以按照下面给出的范例一一截图（图片隐私经打码处理，正常取证步骤无需打码）：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;固定本人信息界面&lt;/strong&gt;（证明你的微信确实是你的）：证明本人持有微信聊天记录的合法性和本人身份的真实性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;http://upload-images.jianshu.io/upload_images/1934942-703b031b345ed51a?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;搜索并固定对方个人信息界面&lt;/strong&gt;（证明对方的微信确实是他的）：借助微信号不可更改的特点，结合个人信息界面中显示的手机号码、头像等信息固定对方当事人的真实身份。群聊天记录需要截取群信息界面及逐个截取有关人员的个人信息界面。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.postimg.cc/5N23Spbn/image.jpg&#34; alt=&#34;image.jpg&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;固定聊天记录&lt;/strong&gt;（证明你们的确说过那些话）：据微信聊天记录在使用终端中只能删除不能添加的特点，比对双方各自微信客户端中完整聊天信息，以验证相关信息的完整性和真实性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload-images.jianshu.io/upload_images/1934942-6aa50cdcf3cdb0dc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;含有音频的，提交与音频内容一致的文字文本。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;http://upload-images.jianshu.io/upload_images/1934942-9228dbc461c893da?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;含有图片、文本的，提交图片、文本文件打印件，即把对话中的图片、表格等单独打印出来。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这样微信取证就基本完成了。&lt;/p&gt;
+&lt;h2 id=&#34;微信取证的更多注意事项&#34;&gt;微信取证的更多注意事项&lt;/h2&gt;
+&lt;p&gt;截图并不是微信取证的全部，在截图完毕之后你还需要了解一些法律方面的注意事项，以避免后续鉴定、质证时可能产生的问题。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;可通过公证或加盖时间戳形式强化证据&lt;/strong&gt; ：目前通常采取的证据固定方式主要有公证和电子证据固化加盖时间戳等形式。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;可通过鉴定确认真实性&lt;/strong&gt;，微信使用人对自己的辩解承担举证责任：只要你对对方出具证据的真实性有所怀疑，都可以申请司法鉴定（通常需要负担一定的鉴定费用）。&lt;/p&gt;
+&lt;p&gt;在社交软件范畴内，司法鉴定会检查和判断你的截图内容是否与真实聊天内容相符、是否由对话生成器生成、是否有删改等，还会判断截图期间当事人的账号是否处于被盗或异常状态。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;应保存好原始储存设备并接受当庭质证&lt;/strong&gt;：当事人应保存好电子证据的原始载体以便在法庭上出示，原始载体包括储存有电子数据的手机、计算机或者其它电子设备等。&lt;/p&gt;
+&lt;p&gt;这是非法律专业人士在固定证据时常常忽略的一点。简言之，你不仅要保留截图记录，还好保留这段对话发生时你用于跟对方聊天的那部电子设备（如电脑、手机等）。在案件审理过程中，法庭不一定会要求你出示原始设备，但如果对方提出质疑申请鉴定，原始设备就起到了关键作用。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;应尽量提供其它证据予以佐证&lt;/strong&gt;：使用支付、转账、红包等功能，应提供支付转账证明；微信聊天记录如果能够与供货单、借条、转账凭证等证据相互印证将更易被采信。&lt;/p&gt;
+&lt;p&gt;仅有微信证据而无其他证据佐证的，存在不予采信的风险。&lt;/p&gt;
+&lt;h2 id=&#34;法律知识拓展&#34;&gt;法律知识拓展&lt;/h2&gt;
+&lt;p&gt;本部分重点告诉你微信取证在法律层面的依据和要求，帮助你更深入地了解包含微信在内的互联网社交工具取证。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;微信聊天记录作为证据的法律依据：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;《中华人民共和国民事诉讼法》第六十三条规定电子数据属于法定证据形式。《最高人民法院关于适用〈中华人民共和国民事诉讼法〉的解释》第一百一十六条对电子数据进一步解释：电子数据是指通过电子邮件、电子数据交换、网上聊天记录、博客、微博客、手机短信、电子签名、域名等形成或者存储在电子介质中的信息。&lt;/li&gt;
+&lt;li&gt;《中华人民共和国电子签名法》第三条至第七条：当事人约定使用电子签名、数据电文的文书，不得仅因为其采用电子签名、数据电文的形式而否定其法律效力；能够有形地表现所载内容，并可以随时调取查用的数据电文，视为符合法律、法规要求的书面形式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;微信聊天记录作为证据的要求：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;符合数据电文的原件形式要求：（一）能够有效地表现所载内容并可供随时调取查用；（二）能够可靠地保证自最终形成时起，内容保持完整、未被更改。但是，在数据电文上增加背书以及数据交换、储存和显示过程中发生的形式变化不影响数据电文的完整性。&lt;/li&gt;
+&lt;li&gt;符合数据电文的文件保存要求：（一）能够有效地表现所载内容并可供随时调取查用；（二）数据电文的格式与其生成、发送或者接收时的格式相同，或者格式不相同但是能够准确表现原来生成、发送或者接收的内容；（三）能够识别数据电文的发件人、收件人以及发送、接收的时间。数据电文不得仅因为其是以电子、光学、磁或者类似手段生成、发送、接收或者储存的而被拒绝作为证据使用。&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>法律尽职调查导航</title>
+      <link>https://blog.tonyz.one/blog/legal-due-diligence/</link>
+      <pubDate>Sat, 15 Jul 2017 20:40:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/legal-due-diligence/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://i.loli.net/2018/10/14/5bc25984457b0.jpg&#34; alt=&#34;rawpixel-645294-unsplash.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;法律尽职调查是作为一名律师，尤其是非诉律师的必备技能。更为高效地进行尽职调查，是每一个非诉律师不断追求的目标。笔者对工作中常用的信息检索网站进行了整理，利用有限的网络知识，制作了一个专门网站作为法律尽职调查导航站。&lt;/p&gt;
+&lt;p&gt;在设计和建立该站的过程中，笔者尽可能用简单直观的页面设计突出导航站的主题。此外，为了方便大家在工作中访问和使用本站，笔者选了“dd.legal”这样一个域名。“dd”是尽职调查英文“due diligence”的缩写，“legal”则是法律的英文，所以即使没有将网站保存为书签，也可以很快访问网站。&lt;/p&gt;
+&lt;p&gt;考虑到笔者的工作阅历和知识所限，会有很多网站并未收录到该导航站中。为了进一步完善网站，笔者设计了一个“自助提交网址”的功能，方便使用者根据具体情况添加网址，笔者再收到反馈后将及时添加相关网站。&lt;/p&gt;
+&lt;p&gt;说了这么多，欢迎各位访问“法律尽职调查导航站”&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://dd.legal&#34;&gt;法律尽职调查导航&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2017/7/15&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>慈善组织财产能否用于投资？</title>
+      <link>https://blog.tonyz.one/blog/questions-about-the-charitable-fund/</link>
+      <pubDate>Sat, 01 Apr 2017 20:30:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/questions-about-the-charitable-fund/</guid>
+      <description>&lt;p&gt;实践中，一些企业为了获得资源、开拓市场，常常会与基金会、红十字会等等慈善组织合作，合作通常是以捐赠资金、捐赠实物的方式进行，而慈善组织有时会希望将这些资金、实物进行投资，从而盘活慈善资金，为更多人提供帮助。因此，这些慈善组织会面临一个显而易见的法律问题，即慈善组织财产能否用于投资？&lt;/p&gt;
+&lt;p&gt;针对此问题，笔者查阅了相关法律法规，研究了类似的案例，做了以下粗浅的分析：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;捐赠协议中不应体现对所捐款项的投资限制。&lt;/strong&gt; 根据《中华人民共和国慈善法》第54条规定，慈善组织可以将除政府资助的财产和捐赠协议约定不得投资的财产之外的财产用于以实现财产保值、增值目的的投资。因此，慈善组织在与捐赠者签订捐赠协议时不应有限制捐赠款项用于投资性事项的条款；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;慈善组织章程应允许进行投资。&lt;/strong&gt; 根据《中华人民共和国慈善法》第52条规定，慈善组织的财产应根据章程规定用于慈善目的，故为实现将慈善资助财产用于投资目的，慈善组织的章程应允许将慈善组织的财产用于投资；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;慈善组织内部决策程序需符合法律规定。&lt;/strong&gt; 根据《中华人民共和国慈善法》第54条规定，慈善组织的重大投资方案应当经决策机构组成人员三分之二以上同意。故为实现将慈善资助财产用于投资目的，需确保慈善组织的决策机构组成人员三分之二以上同意使用捐赠款项进行投资；&lt;/li&gt;
+&lt;li&gt;因《中华人民共和国慈善法》第54条规定中由国家民政部门具体制定的关于慈善组织财产投资的管理办法目前尚未出台，故目前对慈善组织在将其资金用于投资时无具体、可操作性的规定，今后笔者将对该具体管理办法保持关注。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;法律条文&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;《中华人民共和国慈善法》&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;第52条 慈善组织的财产应当根据章程和捐赠协议的规定全部用于慈善目的，不得在发起人、捐赠人以及慈善组织成员中分配。任何组织和个人不得私分、挪用、截留或者侵占慈善财产。&lt;/p&gt;
+&lt;p&gt;第54条 慈善组织为实现财产保值、增值进行投资的，应当遵循合法、安全、有效的原则，投资取得的收益应当全部用于慈善目的。慈善组织的重大投资方案应当经决策机构组成人员三分之二以上同意。政府资助的财产和捐赠协议约定不得投资的财产，不得用于投资。慈善组织的负责人和工作人员不得在慈善组织投资的企业兼职或者领取报酬。前款规定事项的具体办法，由国务院民政部门制定。&lt;/p&gt;
+&lt;p&gt;2017.4.1&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>美国总统讲话－2016年全国家庭暴力宣传月</title>
+      <link>https://blog.tonyz.one/blog/presidential-proclamation-about-anti-doemstic-violence/</link>
+      <pubDate>Sun, 30 Oct 2016 20:50:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/presidential-proclamation-about-anti-doemstic-violence/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;之前也试着翻译过一些法律方面的文章，但终究不够得体，停了笔。这一次正好看到一篇美国总统奥巴马关于反家暴的讲话，觉得文章不长，且用词不难，可以尝试翻译一下，于是就花了两天的时间，翻译出下面的这篇文章。&lt;/p&gt;
+&lt;p&gt;可能看上去还是比较粗糙的，毕竟我了解自己的英文水平。但很多事情开头最难，昨天在诊所成员的请求下帮忙翻译了一段奥巴马关于反家暴的公益短片，虽然过程有些困难，但结果还是很不错的。做这样那样的事情，让自己变得更好，这种感觉不错。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Presidential Proclamation &amp;ndash; National Domestic Violence Awareness Month, 2016&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;总统讲话 —— 2016年全国家庭暴力宣传月&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The physical and emotional scars of domestic violence can cast a long shadow. Too many individuals, regardless of age, ability, sex, sexual orientation, gender identity, circumstance, or race, face the pain and fear of domestic violence. During National Domestic Violence Awareness Month, we shine a light on this violation of the basic human right to be free from violence and abuse, pledge to ensure every victim of domestic violence knows they are not alone, and foster supportive communities that help survivors seek justice and enjoy full and healthy lives.&lt;/p&gt;
+&lt;p&gt;由家庭暴力造成的身体和情感上的伤痕会造成长期的阴影。有太多的个体，无论年龄、智力、性别、性取向、性别认知、经济状况或者种族，都面对着家庭暴力的痛苦和恐惧。在今年的全国家庭暴力宣传月，我们为家暴这种对不受暴力和虐待基本人权的侵犯行为带来一线亮光，我们承诺确保使每一个家庭暴力的受害者知道他们并不孤单，促进社会救助团体去帮助家暴受害者寻求正义和享受完整、健康的生活。&lt;/p&gt;
+&lt;p&gt;Over the past two decades, rates of domestic violence against females have dropped by nearly three-quarters &amp;ndash; but there is still much work to do to build on the progress we have made. Nearly 1 in 4 women and 1 in 7 men have suffered from domestic violence by an intimate partner. All people deserve to feel safe with loved ones, and my Administration is committed to eliminating this scourge and supporting survivors&amp;rsquo; healing &amp;ndash; and we must ensure that survivors and their families have access to the resources, care, and support they need to do so.&lt;/p&gt;
+&lt;p&gt;在过去的20年里，对女性的家庭暴力比率已经下降了接近四分之三，但在已经取得的进展基础之上，我们仍有许多工作要做。几乎每四名女性、七名男性中就有一人曾遭受过来自亲密恋人的家庭暴力。所有人与其所爱之人在一起时应该感到安全，因此我的政府承诺消除家暴之苦并支持家暴受害者从伤痛中恢复，我们必须确保受害者及他们的家人能够获得资源、关心，他们恢复所需的支持。&lt;/p&gt;
+&lt;p&gt;My Administration is dedicated to ensuring that all people feel safe in all aspects of their lives, which is why I proposed significant funding for responding to domestic violence in my most recent budget proposal. We have also championed legislative action like the Family Violence Prevention and Services Act, and the Affordable Care Act &amp;ndash; which ensures that most health plans cover domestic violence screening and counseling services at no additional cost. And the Violence Against Women Act, which was reauthorized in 2013, has enhanced and expanded protections to Native Americans, immigrants, lesbian, gay, bisexual, and transgender individuals, and victims who reside in public housing.&lt;/p&gt;
+&lt;p&gt;我的政府致力于确保所有人在他们生活中每一方面都感觉安全，这是为什么在我最近的财政预算中提出为家庭暴力提供重要的资金。我们也支持如《Family Violence Prevention》、《Services Act》、《Affordable Care Act》这样的立法活动，这些法律确保了大多数医疗保险覆盖了家庭暴力伤害的检查和咨询服务且没有额外的费用。此外《Violence Against Women Act》于2013年得到批准，加强和扩大了对美洲原住民、移民、女同性恋、男同性恋、双性恋以及变性人和居住在公共房屋中的家暴受害人的保护。&lt;/p&gt;
+&lt;p&gt;This is progress we must continue to invest in and carry forward. Earlier this year, I announced a series of commonsense steps my Administration is taking to reduce gun violence, including work to renew our domestic violence outreach efforts. Building on the work of our Police Data Initiative, the White House is promoting smart approaches to collecting data on domestic violence offenses that balance transparency and accountability with victim safety and privacy. And victim safety should also be a priority in the workplace &amp;ndash; a truth that extends to the Federal Government. That is why I directed all Federal agencies to adopt domestic violence workplace policies and encouraged employers to do the same.&lt;/p&gt;
+&lt;p&gt;这是我们必须继续投资和弘扬的事业。在今年早些时候，我宣布了一系列政府正在采取的减少枪支暴力的常识性步骤，包括创新通过非家庭内部解决家暴问题的工作。建立在“警方数据倡议”的工作上，白宫正在尝试采用智能方法收集关于家庭暴力犯罪的数据，以平衡透明度和问责制与受害者安全和隐私。受害人的安全也应该是工作场所的优先考虑的事项－包括在联邦政府工作范围内。这是为什么我指示所有联邦机构采用家庭暴力工作场所政策，并鼓励雇主们也这样做。&lt;/p&gt;
+&lt;p&gt;Our agencies have taken many critical actions to advance this cause. For example, the Department of Justice has invested millions of dollars in new initiatives to prevent domestic violence homicides, urge law enforcement agencies to identify and prevent gender bias when responding to domestic violence and sexual assault, and expand services to underserved victims. And the Department of Housing and Urban Development recently issued guidance to prevent housing discrimination against survivors of domestic violence.&lt;/p&gt;
+&lt;p&gt;我们的政府机构已经采取了许多重要行动来推进这一事业。 例如，司法部已投入数百万美元用于防止家庭暴力引发的杀人案件的新倡议，敦促执法机构在应对家庭暴力和性侵犯时确认和防止性别偏见，并扩大对尚未接受服务的受害者的服务。 住房和城市发展部最近发布了防止对家庭暴力受害者的住房歧视的指导。&lt;/p&gt;
+&lt;p&gt;Vice President Joe Biden&amp;rsquo;s leadership has helped guide our progress and worked to change our national culture &amp;ndash; which too often tolerates and condones domestic violence. We are challenging harmful stereotypes associated with victims of domestic violence and striving to bring the practice of victim-blaming to an end. We must continue to recognize survivors who experience disproportionate rates of domestic violence, and who have been placed at the margins for generations, including women of color, Native Americans, individuals with disabilities, members of the LGBT community, immigrants, and older adults. Along these lines, we also joined with Canada and Mexico to create the North American Working Group on Violence against Indigenous Women and Girls, working together to enhance responses to violent crimes against indigenous women and girls in North America.&lt;/p&gt;
+&lt;p&gt;字副总统乔 拜登的领导下，帮助引导我们的进步，并努力改变我们“常常容忍和纵容家庭暴力”的国家文化 。 我们正在挑战与家庭暴力受害者有关的有害成见，并努力杜绝对受害者责难的做法。 我们必须继续认识到经历过不成比例的家庭暴力的受害者，他们曾被置于几代人的边缘，包括有色妇女，美洲原住民，残疾人，LGBT社区成员，移民和老年人。 在这方面，我们还与加拿大和墨西哥一道，成立了北美原住民妇女和女童暴力工作组，共同努力加强针对北美原住民妇女和女孩的暴力犯罪的打击。&lt;/p&gt;
+&lt;p&gt;Our Nation&amp;rsquo;s character is tested whenever this injustice is tolerated. When anyone is targeted by someone they place their trust in, we have a responsibility to speak up. We all have a role to play in building a bright and safe future for each other and for future generations. This month, we recommit to standing with survivors of domestic violence and to doing our utmost to extend hope and healing to all who need it. If you or someone you know needs assistance, I encourage you to reach out to the National Domestic Violence Hotline, which recently engaged in its 4 millionth conversation with victims and survivors of domestic violence, by calling 1-800-799-SAFE, or visiting &lt;a href=&#34;https://www.TheHotline.org&#34;&gt;www.TheHotline.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;当这样的不公正被容忍时，我们国家的性格将被检验。 当任何人被他们信任的人作为伤害对象时，我们有责任大声说出来。 我们都有责任为彼此和子孙后代建立一个光明和安全的未来。 这个月，我们再次承诺与家庭暴力的受害者站在一起，竭尽全力地向所有有需要的人伸出希望和医疗之手。 如果您或您认识的人需要帮助，我鼓励您联系全国家庭暴力热线，该热线最近与家庭暴力的受害者和幸存者进行了第400万次谈话，请致电1-800-799-SAFE，或访问 &lt;a href=&#34;https://www.TheHotline.org&#34;&gt;www.TheHotline.org&lt;/a&gt; 。&lt;/p&gt;
+&lt;p&gt;NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim October 2016 as National Domestic Violence Awareness Month. I call on all Americans to speak out against domestic violence and support local efforts to assist victims of these crimes in finding the help and healing they need.&lt;/p&gt;
+&lt;p&gt;因此，美利坚合众国总统巴拉克·奥巴马现在根据宪法和美国法律授予我的权力，宣布2016年10月为全国家庭暴力宣传月。 我呼吁所有美国人反对家庭暴力，支持地方政府的努力，帮助这些罪行的受害者寻求帮助和抚平他们所受的伤害。&lt;/p&gt;
+&lt;p&gt;IN WITNESS WHEREOF, I have hereunto set my hand this thirtieth day of September, in the year of our Lord two thousand sixteen, and of the Independence of the United States of America the two hundred and forty-first.&lt;/p&gt;
+&lt;p&gt;为示信守，我谨于公元2016年9月30日，美国独立第241年签署此声明。&lt;/p&gt;
+&lt;p&gt;BARACK OBAMA&lt;/p&gt;
+&lt;p&gt;巴拉克 奥巴马&lt;/p&gt;
+&lt;p&gt;原文：Presidential Proclamation &amp;ndash; National Domestic Violence Awareness Month, 2016&lt;/p&gt;
+&lt;p&gt;翻译：Tony&lt;/p&gt;
+&lt;p&gt;2016.10.30&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>法律与医学的奇妙结合</title>
+      <link>https://blog.tonyz.one/blog/the-fantastic-links-of-law-and-medicine/</link>
+      <pubDate>Thu, 20 Oct 2016 00:30:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/the-fantastic-links-of-law-and-medicine/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;暑假里和 &lt;strong&gt;ElvisJcy&lt;/strong&gt; 关于法学和医学有过一段谈话，聊了一些在法学领域模糊的医学问题，也对这几年愈演愈烈的“医患纠纷”交流了看法。总的来说，这场谈话我受益颇多，但苦于之前一直没有时间整理下谈话的内容（其实之前整理过一个谈话的大纲，结果被我用做草稿纸了）。今天复习的状态似乎到了临界点，所以就顺其自然地写一写这场让我颇有收获的谈话吧。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;婴儿的权利&#34;&gt;婴儿的权利&lt;/h1&gt;
+&lt;p&gt;法学生在刚刚学习法律时，首先会接触到一个概念，即人的权利。在我们的教科书上，对人的权利有这样的描述“始于出生，终于死亡”。由此就会产生一个问题，即“&lt;strong&gt;尚未母亲腹中的婴儿&lt;/strong&gt;是否具有人的权利呢？”&lt;/p&gt;
+&lt;p&gt;这个问题一直困扰着我。我国法律对婴儿的保护，主要体现在继承法中，即被继承人死亡时，应为&lt;strong&gt;尚未出生&lt;/strong&gt;的婴儿保留一份继承财产的份额：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;当婴儿出生后，若婴儿成功存活，则该婴儿继承该份财产；&lt;/li&gt;
+&lt;li&gt;若婴儿未能顺利出生，则该份财产由原有的继承人进行分配；&lt;/li&gt;
+&lt;li&gt;若婴儿出生后存活但不久之后死亡，则该份财产作为婴儿的遗产由婴儿的继承人进行继承。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这里面又牵扯到好几个问题。婴儿尚未出生时为其保留一定的财产份额，是否认可了婴儿具有一定的财产权利呢？如果这个推论成立，婴儿是否具有其他与财产权利相当的人身权利呢？从目前的法律实践来看，这两个问题的答案应该是否定的。&lt;/p&gt;
+&lt;p&gt;接下来我们就要讨论婴儿是不是人、婴儿何时成为人的问题了。这已经不仅仅是法学问题，而是涉及到医学的范畴。就我和 ElvisJcy 交流的结果来看，医学上对婴儿何时为人也有一定的争论。有些人认为当受精卵发育到28-37周即可视作是一个人，而有些人则认为只有婴儿出生之后才视作人。&lt;/p&gt;
+&lt;p&gt;婴儿何时为人，具有什么样的权利，这不仅仅是我国法学界思考过的问题，远在万里之外的美国也曾对此进行过大讨论，但讨论的背景则是女性的堕胎权利。&lt;/p&gt;
+&lt;p&gt;美国虽然是一个崇尚自由的国家，但也有着浓厚的宗教氛围。在这样的宗教环境下，女性的堕胎权利是受到严格限制的。很长一段时间内，美国女性堕胎是违法的，为其实施堕胎手术的医生也会受到严厉的惩罚。因此，美国社会对堕胎权利产生了大讨论。&lt;strong&gt;其中一个重要的论题就是作为被堕胎的对象，婴儿是否具有受保护的权利？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果将婴儿视作一个人，具有人的权利，那么堕胎显然就与杀人的行为类似，从这个角度来看，堕胎显然是不合法的；但如果认为婴儿不是一个人，不具有人的权利，那么堕胎只是女性自身的合法权利，这样的权利应当受到保护，不受侵犯。&lt;/p&gt;
+&lt;p&gt;因此，美国的医学专家、法律专家也对婴儿的权利产生了大讨论，并认为当婴儿可以借助外界设备存活时，就应当认为其是一个人，就不可以进行堕胎。当时也为此设立了一个具体的怀孕周数，但随着医学技术的发展，婴儿体外存活的时间被大大提前，那是否也应该随之修改堕胎的法律呢？进一步说，**如果将来的医学技术发达到足以可以直接在体外培育受精卵直至成长为健康的婴儿，**那这样的婴儿是不是人？是否具有人的完整权利呢？&lt;/p&gt;
+&lt;p&gt;对于婴儿权利的问题，尽管我们讨论了很久，但我们确实未能得出一个满意的结果。但这样的讨论让我确信，很多法学问题的研究和发展，离不开其他学科的知识，所以法律人还是要不断学习的。&lt;/p&gt;
+&lt;h1 id=&#34;医患纠纷的乱象&#34;&gt;医患纠纷的乱象&lt;/h1&gt;
+&lt;p&gt;我们谈论的另一个问题是进来越来越严重的“医患纠纷”。几乎每隔几天我们都可以在新闻里看到某地某医院的医生被患者砍伤、刺伤等等新闻，很多医生不仅流泪、流汗，甚至还要流血。这样的伤医恶行令人发指，也使得一些充满职业理想的年轻医生心灰意冷，选择离开医生这个岗位。&lt;/p&gt;
+&lt;p&gt;ElvisJcy 从一个医学生的角度和我聊了聊这个问题，认为如果这样的伤医行为继续下去，医生这个职业就会成为名副其实的高危行业，优秀的医学生就不会选择这份职业，而整体的医疗水平有可能会受到影响。其实从新闻里我们也可以略看出些端倪，优秀的医生比以往更为稀少，愿意从事这行的年轻人都对可能的危险有所警惕。&lt;/p&gt;
+&lt;p&gt;出现这样的问题，显然是法律调整功能出现了问题。在《刑法修正案九》出台之前，刑法对医闹行为打击不够有力，使得医闹有恃无恐，严重影响了医院的正常秩序，伤害了医生、护士的感情。再加上保障力度不够，警方打击医闹无法可依，医院对医闹行为也只能妥协了事，从而助长了医闹的嚣张气焰。&lt;/p&gt;
+&lt;p&gt;随着刑法修正案的出台，以及有关方面的重视，这样的问题可能会得到解决。但解决的过程必然是伴随着阵痛的，在解决之前，伤医问题还会出现。所以在这个问题解决之前，医生、护士还是要多注意保护自己，医院应当为医生、护士配备足够的保护力量，而警方也要加大打击力度，严惩此类犯罪。&lt;/p&gt;
+&lt;p&gt;法学从来都是一个实践的学问，“徒法不足以自行”这句话写在我们的教科书上，原来我以为讲的是法律需要依靠国家强制力、政府机关部门等等来执行，现在我觉得法学问题不仅仅是法学领域的事情，更和其他学科有着密切的联系。这个趋势已经体现出来，且在今后会越来越明显。作为一名成长中的法律人，对此有着深深的危机感，看来今后还是要多涉猎一些其他学科的知识啊。&lt;/p&gt;
+&lt;p&gt;2016.10.19&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>网银里的钱去哪儿了？</title>
+      <link>https://blog.tonyz.one/blog/where-is-my-money/</link>
+      <pubDate>Tue, 06 Sep 2016 00:55:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/where-is-my-money/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://i.loli.net/2018/10/14/5bc2947a9376d.jpg&#34; alt=&#34;online-bank&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;最近电信诈骗案件的报道常见于报端，细细读来这些案件的报道，笔者发现一些案件纯粹是出于受害人的警惕性过低，而有些案件则是犯罪分子利用了某些银行的网银系统的缺陷，让受害人防不胜防。今天笔者将为大家分析下面一起案例。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;储户资金不翼而飞&#34;&gt;储户资金不翼而飞？&lt;/h2&gt;
+&lt;p&gt;某天下午，小A收到建行发来提示其银行卡“消费5000元”的短信，但小A在这段时间内并没有使用这张卡消费。不一会儿小A接到一个自称“京东商城”的工作人员来电，该工作人员告知小A刚刚在京东商城消费5000元，并报出小A银行卡卡号和小A的姓名。小A起初以为短信只是伪基站发来的假信息，但小A在附近ATM机上查询银行卡余额后发现&lt;strong&gt;确实少了“整整5000元”&lt;/strong&gt;。此时小A开始有些相信那位工作人员的话了，于是该工作人员告诉小A可以帮其拦截消费，需要小A告知其&lt;strong&gt;短信验证码&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;如果小A把验证码告诉这名工作人员，那么这5000元就再也不会回来了。因此遇到这种情况，无论如何都不能相信对方的任何说辞，迅速挂断电话，拨打银行官方客服或前往银行营业网点咨询工作人员。但肯定会有人疑惑，银行卡里的钱究竟去哪儿了呢？&lt;/p&gt;
+&lt;h2 id=&#34;流向理财账户的资金&#34;&gt;流向理财账户的资金&lt;/h2&gt;
+&lt;p&gt;上述案件中，当事人在收到银行提示消费的短信后，登陆网银查询账户余额时确实发现账户余额减少，而这一步正是诈骗者成功的关键，当事人因此对诈骗者产生一定的信任，并希望尽快拿回自己的资金，从而一步步落入圈套。&lt;/p&gt;
+&lt;p&gt;因此，弄明白此时资金流向何处是识破骗局的关键。据了解，建设银行网银提供购买理财产品的功能，用户通过网银购买理财产品时无需短信验证码即可成功操作，而诈骗者就是利用这个操作逻辑造成&lt;strong&gt;消费的假象&lt;/strong&gt;。此时用户的储蓄帐户余额减少，而资金进入保证金账户，但这个账户并不会在主界面有明显提示，隐藏在下级菜单中，使得用户难以查明资金流向，从而轻信诈骗者。&lt;/p&gt;
+&lt;h2 id=&#34;银行是否需要担责&#34;&gt;银行是否需要担责？&lt;/h2&gt;
+&lt;p&gt;通过分析诈骗流程，不难发现诈骗者利用银行短信提示不标明资金流向，网银系统逻辑混乱的问题成功实施诈骗。因此对于受害人的损失，银行是否需要承担相应的责任是值得讨论的问题。&lt;/p&gt;
+&lt;p&gt;储户将资金存入银行时就与银行形成了储蓄合同关系，银行有保证资金安全的义务，若违背该义务造成储户资金损失，银行应承担相应责任。而现实生活中的大量案例表明，如何证明银行应负责任是难题，尤其是在储户网银被盗案件中，&lt;strong&gt;银行常以用户未尽到保管义务，使其网银账户自陷风险&lt;/strong&gt;，银行不应为此担责。&lt;/p&gt;
+&lt;p&gt;具体到本案而言，诈骗者首先盗用了受害人的网银账户，那受害人的网银账户的登录密码等安全信息是如何被诈骗者获知的？一是受害人在上网的过程中大意泄露了自己的登录密码；二是黑客通过拖库、撞库等方式获取到受害人的登录密码，并出售给诈骗者；三是银行系统内部存在倒卖用户信息的内鬼。这些都有可能是用户身份信息泄露的原因。在这当中，第一和第二种原因不因归咎于银行，而第三种原因应该由银行负责。&lt;/p&gt;
+&lt;p&gt;其次是在诈骗者的诈骗过程中，银行短信通知不够明确，使得受害人不明就以。假如银行在短信通知方面能做些改进，准确提示资金的流向，比如转帐、购买理财产品等等，使得受害人第一时间能够掌握资金取向，从而不会轻易相信诈骗者。&lt;/p&gt;
+&lt;p&gt;再次则是某些银行的网银系统操作逻辑存在问题，比如本案中建行网银系统将保证金帐户隐藏在多级菜单中，使受害人无法一目了然地发现其资金并没有被真正转走。而且如果网银的主界面能够明显的显示近期异常操作以及具体的操作动态，提醒受害人注意，这样受害人就能够及时确认自己的资金安全。&lt;/p&gt;
+&lt;p&gt;后两种情况暴露出银行服务过程中的问题，银行是否应该为这样的问题买单是值得思考的问题。一方面如果要求银行为所有因此类问题上当受骗的受害人负责，加重了银行的负担，另一方面如果不要求银行为此负责，受害人难以从诈骗者处追回损失。因此，此类问题亟需银行、司法机关等方面研究解决。&lt;/p&gt;
+&lt;h2 id=&#34;个人应提高警惕性&#34;&gt;个人应提高警惕性&lt;/h2&gt;
+&lt;p&gt;对于个人而言，目前能做的主要是从以下几个方面提高警惕性：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;注意上网安全，防止网银账号被盗&lt;/li&gt;
+&lt;li&gt;对不明来电提高警惕性&lt;/li&gt;
+&lt;li&gt;遇到资金异常，及时通过官方渠道查询&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果能做到上述三点，大多数人就不会被诈骗者的伎俩骗到，而这不是长久之计，解决此类问题的关键在于银行提高网银系统安全性、服务可靠性，司法机关打击电信诈骗的力度，保障个人的财产安全。&lt;/p&gt;
+&lt;h2 id=&#34;结语&#34;&gt;结语&lt;/h2&gt;
+&lt;p&gt;电信诈骗案件由来已久，想要完全消除电信诈骗需要很长一段时间，因此个人要提高警惕性，避免上当受骗，银行应该提升服务水平和网银系统的安全性，此外有关机关的打击力度也应当进一步加大，从而从多方面减少电信诈骗的发生和减少由此造成的损失。&lt;/p&gt;
+&lt;p&gt;2016/9/5&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>电信诈骗及常外校园污染事件后续</title>
+      <link>https://blog.tonyz.one/blog/telephone-defraud-and-oillution/</link>
+      <pubDate>Sun, 28 Aug 2016 00:30:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/telephone-defraud-and-oillution/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;这两天网络上热议的是一名山东的大学生被电信诈骗后，因伤心至极不幸去世的话题。今晚相关部门宣布已经抓获三名涉案犯罪嫌疑人，并发布了A级通缉令追逃剩余的三名涉案犯罪嫌疑人，足以见得对这个案件的重视。我对各家新闻网站评论区对这些犯罪嫌疑人喊打喊杀的言论已经毫无意外，类似的热点事件出现后，勇于争先的键盘侠比比皆是，而真正思考案件背后的问题，并继续关注后续发展的人少之又少。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;正如前几日的王宝强离婚案已经淡出人们的视野，更早的“常外校园污染事件”可能现在已经无人关心了。恰巧今晚也推送了后者的新闻，相关单位发布调查结论，认为常州外国语学校的环境是安全的。但除了常外的学生及其家长，恐怕校园环境安全与否都不重要了，毕竟早在之前已经抒发完了感情。那今天借着聊电信诈骗的由头，再聊聊这件事的后续吧。&lt;/p&gt;
+&lt;h2 id=&#34;电信诈骗之恶&#34;&gt;电信诈骗之恶&lt;/h2&gt;
+&lt;p&gt;电信诈骗之恶，现在的讨论多限于实施诈骗的人的可恶，而很少有人关注到电信诈骗的整个利益链条，这个利益链条盘根错节，使得诈骗案件层出不穷，难以根治。我们稍作分析，不难发现整个利益链条可以拆分为：买卖个人信息者－诈骗者－监管者这样三个部分，接下来我将一一简单分析。&lt;/p&gt;
+&lt;h3 id=&#34;买卖信息者之恶&#34;&gt;买卖信息者之恶&lt;/h3&gt;
+&lt;p&gt;互联网给我们带来便利的同时，也使得我们个人信息泄漏的风险几何增长。时至今日，能够说自己从未接到过诈骗／推销电话的人，恐怕寥寥无几。那为什么我们的手机号、证件号，甚至是购物信息会出现在诈骗者／推销者的手上呢？这就与买卖信息者脱不开关系，尤其是那些盗取个人信息、倒卖个人信息的黑客，他们通过技术手段从疏于防备的网站获取了大量个人信息，再低价转卖给企图利用这些信息诈骗／推销的别有用心之人。这样一来，诈骗／推销的前提条件就具备了。&lt;/p&gt;
+&lt;p&gt;除了盗取个人信息的黑客，还有些公司的员工、网站的经营者通过利用合法途径收集用户信息，然后再将这些用户信息打包卖给专门收集此类信息的第三方公司，再由这些公司转卖给企图这些信息诈骗／推销的人，如果说黑客的窃取行为可以通过提高网络安全水平防范，那这些合法收集来的信息又如何防止被转卖给他人呢？&lt;/p&gt;
+&lt;p&gt;谈到这里，不得不提2015年《刑法修正案九》，这部修正案扩大了非法获取公民个人信息罪和出售、非法提供公民个人信息罪的适用范围、提高了量刑标准，从而有针对地打击、惩处非法获取、买卖个人信息的犯罪分子。但最近的山东大学生受骗事件提醒我们“徒法不足以自行”，仅仅通过立法完善不足以铲除非法获取、买卖个人信息的毒瘤，需要执法部门严格执法，加大对相关人员的打击力度，保护公民的个人信息。&lt;/p&gt;
+&lt;h3 id=&#34;诈骗者之恶&#34;&gt;诈骗者之恶&lt;/h3&gt;
+&lt;p&gt;毋庸置疑，诈骗者是整个电信诈骗利益链条中最为显眼、最招人仇恨的一部分。最近的这起案件中，多名诈骗者利用大学生涉世未深，防范意识差的弱点，以提供助学金为幌子引诱这些大学生支付一定的手续费。很多学生轻信了诈骗者，汇出了数额不等的财产。&lt;/p&gt;
+&lt;p&gt;令人悲哀的是，以往我们关注到都是诈骗者诈骗老年人、中年人居多，但他们竟然将魔爪伸向了那些希望通过助学金来实现自己上大学梦想的孩子。假如诈骗成功，就意味着一个孩子的大学梦想可能破灭，人生命运从此改写。人性中最大的恶，也莫过于此吧。&lt;/p&gt;
+&lt;p&gt;根据我国刑法中有关诈骗罪的规定，实施诈骗行为数额较大，即可判处三年以下有期徒刑；数额巨大或有其它严重情节，即可判处三年以上十年以下有期徒刑，数额特别巨大或有其它特别严重情节的，即可判处十年以上有期徒刑或无期徒刑。因此，最近的这个案件，我认为至少达到第二个量刑区间，可能会判处五年以上有期徒刑。（仅是个人猜测）&lt;/p&gt;
+&lt;h3 id=&#34;运营商及监管者之恶&#34;&gt;运营商及监管者之恶&lt;/h3&gt;
+&lt;p&gt;处于电信诈骗利益链条最后的是运营商及监管者，它们尽管有能力减少电信诈骗，但放任电信诈骗的发生，使得电信诈骗在这几年愈演愈烈，归根究底还是利益作祟。&lt;/p&gt;
+&lt;p&gt;就像很多年前声讯台、短信推销／诈骗的泛滥，运营商只要用户掏得出费用，就允许其设立琳琅满目的声讯台，利用合法的账号群发各种各样的短信，我曾经亲眼见过群发垃圾短信的工具，只需要几张手机卡和几台简单的设备，设定好要群发的号段，接着只要等待发送完毕即可。如此低的成本，再加上运营商及监管者的放任，自然而然就会催生出更多的声讯台、垃圾短信。后来随着媒体报道的增多，国家也从立法层面规范运营商及监管者的责任，从而减少了此类行为的发生。&lt;/p&gt;
+&lt;p&gt;因此，当前电信诈骗高发，运营商及监管者难辞其咎，一方面应完善手机实名制，另一方面要有针对性地对有异常群拨号码、异常通信记录的号码进行停用、注销，真正履行起其监管的责任，从源头减少电信诈骗的发生。&lt;/p&gt;
+&lt;h2 id=&#34;热点的后续关注&#34;&gt;热点的后续关注&lt;/h2&gt;
+&lt;p&gt;最后来聊一聊“常外校园污染事件”的后续吧。今晚澎湃新闻推送了常州外国语中学环境污染事件的调查结果：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;国务院教育督导委员会专项督导组、环保部和江苏省政府调查组、国家卫计委和江苏省卫计委医疗卫生专家组经过3个多月的调查，26日经常州市政府向新华社发布调查结论：常州外国语学校的环境是安全的。&lt;/p&gt;
+&lt;p&gt;调查组同时指出，“常隆地块”前期修复过程中确实存在问题，如：未建设密闭大棚及配套废气收集设备，日常监管不到位，学校未经竣工环保验收违规投入使用等。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我关注到调查的结论是“常州外国语学校的环境是安全的”，但同时也指出学校未经竣工环保验收就违规投入使用的问题。这一方面打消了常外学生及家长对环境安全的顾虑，另一方面也暴露出常外新校区在建设中存在的问题。就我了解，不仅常外新校区的建设中存在这样的问题，很多类似的工程也常常忽视环境评估、环保验收等等必须的过程，使得工程完成后陆续出现环境问题。因此，这提醒许多工程项目的规划者、施工者要严格遵守法律、法规的规定，避免类似的问题再次发生。&lt;/p&gt;
+&lt;p&gt;我们常常关注热点，又在热情退却后留下一地鸡毛，而处于事件中心的人在热点之后仍要承担着许多压力，甚至是悲剧的后果。很多新闻背后有值得人们探究的问题，不妨静下心来思考如何解决这样的问题，又或者恰好有能力为这样的问题解决贡献力量，那总比永远做一个旁观者要好。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;参考&lt;/strong&gt;
+&lt;a href=&#34;http://www.junhe.com/images/ourpublications/Bulletin/Bulletin_CN/20151030_3.pdf&#34;&gt;个人信息保护法律热点问题－君合研究简讯 2015.10.30&lt;/a&gt;
+&lt;a href=&#34;http://www.thepaper.cn/newsDetail_forward_1520022&#34;&gt;常州外国语学校事件”调查结果：校园环境是安全的&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>试析王宝强离婚后子女抚养权问题</title>
+      <link>https://blog.tonyz.one/blog/some-mor-law-problems-in-mr-wang-case/</link>
+      <pubDate>Wed, 24 Aug 2016 00:30:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/some-mor-law-problems-in-mr-wang-case/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;随着舆论的降温，王宝强离婚案逐渐淡出人们的视野，但作为法律人，借着热点事件普法的热情暂时还未削减，所以今天聊一聊离婚后子女抚养权的问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;虽然有言论认为宝强的宝宝不是宝强亲生的，但在没有更多证据证明此言论的前提下，我们还是默认宝强的两个宝宝都是亲生的，那么离婚后亲生子女的抚养权该如何分配呢？&lt;/p&gt;
+&lt;p&gt;首先，需要明确的一点是父母与子女间的关系，不因父母离婚而消除，因此离婚后父母对子女都有抚养的义务，任何人都不得以离婚为借口拒不抚养子女。那如果父母双方都希望获得子女的抚养权应如何处理呢？这就要从子女的年龄、子女的成长环境、男女双方的收入及教育水平等多方面考量。&lt;/p&gt;
+&lt;p&gt;如果父母离婚时，子女仍在哺乳期或小于两周岁，一般认为由女方抚养较为合适；离婚时子女超过十周岁，法官会询问并优先考虑子女的意见。而离婚时，子女大于两周岁，小于十周岁，法官会综合考虑子女从小由谁抚养长大，男女双方的收入、教育水平及家庭环境多方面因素，从而尽可能减少离婚对子女成长的不利影响，保护子女及男女双方的合法权益。&lt;/p&gt;
+&lt;p&gt;因此宝强如果想要获得宝宝的抚养权，就要证明其有抚养宝宝的能力，在这方面宝强应该不存在问题，但因其婚后工作努力，照顾家庭的时间相对较少，因此宝宝可能更亲近女方，这对获得抚养权较为不利。女方虽然婚后无收入来源，但因离婚必然会分割到巨额财产，因此也有足够的抚养能力，且宝宝可能更亲近女方，对于争夺抚养权较为有利。但宝强也可以女方婚内出轨为由质疑女方道德品质不利于宝宝的健康成长，故如何分配子女抚养权将成为本案主审法官的难题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;参考&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第三十六条　父母与子女间的关系，不因父母离婚而消除。离婚后，子女无论由父或母直接抚养，仍是父母双方的子女。离婚后，父母对于子女仍有抚养和教育的权利和义务。离婚后，哺乳期内的子女，以随哺乳的母亲抚养为原则。哺乳期后的子女，如双方因抚养问题发生争执不能达成协议时，由人民法院根据子女的权益和双方的具体情况判决。&lt;/li&gt;
+&lt;li&gt;第三十七条　离婚后，一方抚养的子女，另一方应负担必要的生活费和教育费的一部或全部，负担费用的多少和期限的长短，由双方协议；协议不成时，由人民法院判决。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2016.8.23&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>试分析王宝强离婚事件中的几个法律问题</title>
+      <link>https://blog.tonyz.one/blog/some-law-problems-in-mr-wang-case/</link>
+      <pubDate>Thu, 18 Aug 2016 00:50:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/some-law-problems-in-mr-wang-case/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;近日来，王宝强与其妻马蓉离婚纠纷成为媒体关注的焦点。王宝强一直以好丈夫、好父亲的形象出现在世人面前，其妻马蓉与其经纪人宋磊发生不正当男女关系导致婚姻破裂让众多网友更加心疼王宝强。随着事情的发展，曝出其妻马蓉转移夫妻共同财产，并以侵犯名誉权起诉王宝强。正好我之前因法律诊所接触了比较多的家事法律方面的知识，故对这次事件的几个法律问题稍作分析。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;婚内出轨是否导致丧失分割夫妻共同财产权&#34;&gt;婚内出轨是否导致丧失分割夫妻共同财产权？&lt;/h2&gt;
+&lt;p&gt;首先需要明确的一点，我国婚姻法仅规定了因有配偶者与他人同居，导致离婚的，无过错者有权请求损害赔偿，并未规定剥夺有过错者分配夫妻共同财产的权利。而这次事件中，马蓉与宋喆还只是婚内出轨，尚未达到同居的地步，举重以明轻，即马蓉即使婚内出轨仍可以分配夫妻共同财产。所以这一次王宝强不仅伤心，还很伤钱。&lt;/p&gt;
+&lt;h2 id=&#34;女方转移财产能否达到目的&#34;&gt;女方转移财产能否达到目的？&lt;/h2&gt;
+&lt;p&gt;几乎在王宝强公开声明将与其妻马蓉解除婚姻关系的同时，网友们就曝出马蓉早已架空王宝强对其名下公司的权力，并通过多种方式转移走王宝强的各种财产。那马蓉的这种转移、隐匿财产的行为能够起到作用吗？&lt;/p&gt;
+&lt;p&gt;我认为这种转移、隐匿夫妻共同财产的行为并没有用，转移、隐匿夫妻共同财产的一方更会因此少分或者不分夫妻共同财产，可谓是“偷鸡不成蚀把米”。但值得注意的是，在实务中如何界定夫妻一方转移、隐匿夫妻共同财产的行为存在争议，因此王宝强为夺回自己的财产就需要充分收集马蓉转移、隐匿夫妻共同财产证据，从而让法官信服并在分割夫妻共同财产时倾向于己方。&lt;/p&gt;
+&lt;h2 id=&#34;给我们的启示&#34;&gt;给我们的启示&lt;/h2&gt;
+&lt;p&gt;王宝强离婚的罗生门给我们提了个醒，既要提防隔壁老王，也要提防自己的兄弟。更为重要的是，对于婚前已有巨额财产的明星、商人等群体，在结婚时应签订婚前财产协议书，慎重约定夫妻共同财产的范围以及出现婚姻危机时双方可采取的对策，以避免再出现王宝强被妻子坑惨的悲剧。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>不该建的学校</title>
+      <link>https://blog.tonyz.one/blog/the-school-shouldnt-build/</link>
+      <pubDate>Wed, 20 Apr 2016 00:50:00 +0800</pubDate>
+      
+      <guid>https://blog.tonyz.one/blog/the-school-shouldnt-build/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;昨日，央视新闻频道对常州外国语中学新校址邻近原化工厂受污染土地，四百余名师生接连患病进行了深入报道。结合央视报道和澎拜新闻报道以及知乎上网友的评论，我得出产生如下几个疑问：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;新校址为何紧邻受化学污染土地&#34;&gt;新校址为何紧邻受化学污染土地？&lt;/h1&gt;
+&lt;p&gt;据了解，常州外国语中学因旧校舍存在安全隐患，选址新建校舍。该新校址于2011年动工，而所在地块的环境评估报告迟至2012年才岀具，即新校舍在无环境评估的前提下匆忙施工，为此次事件的爆发埋下了隐患。&lt;/p&gt;
+&lt;p&gt;我们首先要向市政规划部门问责，为何会将学校安排在原化工厂受污染土地附近？众所周知，化工企业是一颗“定时炸弹”，即使化工企业已经搬离，原厂址也会因为多年生产化学品而大量残留化学品，污染土壤及地下水。难道常州市政规划人员在为学校选择校址时不考虑受污染土地会对数千名师生身体健康造成危害吗？&lt;/p&gt;
+&lt;p&gt;其次，根据《环境影响评价法》第二十二条、《建设项目环境保护管理条例》第九条之规定，建设单位应在建设项目开工前报批建设项目环境影响报告，不规定报批的企业由环境保护行政主管部门责令停止建设。上文提到该校新校舍建设项目动工远早于环境评估报告的岀具，那相关职能部门为何没有及时制止建设单位的违法行为，并根据法律规定要求建设单位岀具环境评估报告呢？如果常州市环保局能及时制止建设单位的违法行为，并要求其认真对待建设项目的环境评估，现在威胁师生健康安全的超标污染物就会被及时检测出，学校也会择新址建设。&lt;/p&gt;
+&lt;p&gt;因此，我们不仅要追问常州市政规划部门选址的责任，更要对常州市环保局的渎职行为严惩。&lt;/p&gt;
+&lt;h1 id=&#34;污染事件发生后各方为何反应迟缓&#34;&gt;污染事件发生后，各方为何反应迟缓？&lt;/h1&gt;
+&lt;p&gt;自常州外国语中学2015年8月搬入新校址至2015年12月化学污染事件爆发，学校、新北区区政府、常州市市政府各方反应迟缓，未能及时采取措施避免师生健康受到进一步威胁。不但如此，上述方面还利用职权、社会影响力对试图报道该事件的媒体进行打压，对期望就诊、转学的师生、家长进行恐吓，因此直至昨日央视报道此事件才得以呈现在公众面前。&lt;/p&gt;
+&lt;p&gt;通过梳理此事件的时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;今年1月，澎湃新闻报道，随后当地常州日报辟谣，那里根本没有化工厂；&lt;/li&gt;
+&lt;li&gt;2月底，财新网报道；&lt;/li&gt;
+&lt;li&gt;3月，常州环保局在学校周边执法，认为没有臭味；&lt;/li&gt;
+&lt;li&gt;4月，央视报道，641人送医，还查出了淋巴癌白血病。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们发现事件初期常州相关部门根本不承认不存在此事，直到今年3月常州环保局才前往学校周边检测并以没有臭味认定不存在污染，之后相关检测报告也认为该地块不存在环境污染。但为何昨日央视报道中出现的环境评估报告检测出多项污染物指标超标，严重威胁学校师生安全呢？这当中必然有一方在说谎，在隐瞒真相。&lt;/p&gt;
+&lt;p&gt;换个角度来看，如果污染事件发生后，学校不拒绝家长的合理请求，暂时安排学生在他处上学，避免潜在健康风险；常州环保局能够认真检测该地块环境指标，不草率认定环境无污染；常州相关部门能够正视问题的出现，积极了解、解决问题。这场环境污染事件就不会使得数百名学生受到不应有的伤害，也不会使各方面陷入如此被动的境地。&lt;/p&gt;
+&lt;p&gt;常州外国语中学的新校舍不应建在这块受污染的土地上，可为什么它还是存在了呢？建设单位违法施工、环保部门严重渎职、学校和政府部门拖延解决问题，这当中存在怎样的利益输送链条和多么混乱的依法行政、依法执法的困境？&lt;/p&gt;
+&lt;p&gt;让我们拭目以待，这些问题的答案。&lt;/p&gt;
+&lt;h1 id=&#34;事件追踪&#34;&gt;事件追踪&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.thepaper.cn/newsDetail_forward_1520022&#34;&gt;“常外事件”调查结果：校园环境是安全的（澎湃新闻）&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;国务院教育督导委员会专项督导组、环保部和江苏省政府调查组、国家卫计委和江苏省卫计委医疗卫生专家组经过3个多月的调查，26日经常州市政府向新华社发布调查结论：常州外国语学校的环境是安全的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;调查组同时指出，“常隆地块”前期修复过程中确实存在问题，如：未建设密闭大棚及配套废气收集设备，日常监管不到位，学校未经竣工环保验收违规投入使用等。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

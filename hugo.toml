@@ -14,8 +14,8 @@ pagerSize = 10
  weight = 1
 
 [[menu.main]]
- name = "标签"
- url = "/tags/"
+ name = "书单"
+ url = "/booklist/"
  weight = 2
 
 [[menu.main]]
@@ -23,10 +23,15 @@ pagerSize = 10
  url = "/archive/"
  weight = 3
 
+ [[menu.main]]
+ name = "标签"
+ url = "/tags/"
+ weight = 4
+
 [[menu.main]]
  name = "关于"
  url = "/about/"
- weight = 4
+ weight = 5
 
 [params]
 brand = "This is My Table"
@@ -36,6 +41,8 @@ info = "从未停止对未知的探索，尝试分享一些有趣的东西"
 avatarURL = "images/android-chrome-192x192.png"
 darkModeTheme = "data-dark-mode"
 favicon = "/images/favicon.ico"
+customCSS = ["custom.scss"]
+toc = false  # 全局启用目录
 
 [params.options]
 showDarkMode = true       # 启用深色模式切换功能
