@@ -1,9 +1,5 @@
 ---
 title: About me
-date: 2013-01-02T22:33:56+08:00
-tags: []
-series: []
-featured: false
 ---
 ​
 [![Plane.jpg](https://i.postimg.cc/sgdtdyr4/Plane.jpg)](https://postimg.cc/F7pP3M1Y)
