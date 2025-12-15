@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>法言 on This is My Table</title>
-    <link>https://blog.tonyz.one/tags/%E6%B3%95%E8%A8%80/</link>
+    <link>http://localhost:1313/tags/%E6%B3%95%E8%A8%80/</link>
     <description>Recent content in 法言 on This is My Table created by </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 07 Aug 2024 15:50:35 +0800</lastBuildDate><atom:link href="https://blog.tonyz.one/tags/%E6%B3%95%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Aug 2024 15:50:35 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%B3%95%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>数据合规新闻三则</title>
-      <link>https://blog.tonyz.one/blog/shu-ju-he-gui-xin-wen-san-ze/</link>
+      <link>http://localhost:1313/blog/shu-ju-he-gui-xin-wen-san-ze/</link>
       <pubDate>Wed, 07 Aug 2024 15:50:35 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/shu-ju-he-gui-xin-wen-san-ze/</guid>
+      <guid>http://localhost:1313/blog/shu-ju-he-gui-xin-wen-san-ze/</guid>
       <description>&lt;p&gt;今日注意到三则和数据合规有关的新闻：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;《互联网平台停服数据处理安全要求》&lt;/li&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>闲言碎语话——规范和促进数据跨境流动规定（征求意见稿）</title>
-      <link>https://blog.tonyz.one/blog/the-regulations-about-cbdt/</link>
+      <link>http://localhost:1313/blog/the-regulations-about-cbdt/</link>
       <pubDate>Thu, 28 Sep 2023 14:25:09 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/the-regulations-about-cbdt/</guid>
+      <guid>http://localhost:1313/blog/the-regulations-about-cbdt/</guid>
       <description>&lt;p&gt;今天临近下班时发现CAC在节前给数据合规律师发了大礼包，仔细一看这个大礼包对今年特别热的数据出境合规工作可能会产生很大的影响，于是在第一时间研读起来，感觉有不少规定很有意思，想简单地讲几句。&lt;/p&gt;
 &lt;p&gt;一、国际贸易、学术合作、跨国生产制造和市场营销等活动中产生的数据出境，不包含个人信息或者重要数据的，不需要申报数据出境安全评估、订立个人信息出境标准合同、通过个人信息保护认证。&lt;/p&gt;
 &lt;p&gt;Tony：这点基本上就是废话，之前数据出境合规工作主要也是关注的是个人信息和重要数据，如果只是单纯的业务相关数据不会考虑开展数据出境安全评估。&lt;/p&gt;
@@ -73,10 +73,10 @@
     
     <item>
       <title>心态与位置</title>
-      <link>https://blog.tonyz.one/blog/attitude-and-position/</link>
+      <link>http://localhost:1313/blog/attitude-and-position/</link>
       <pubDate>Sun, 24 Nov 2019 14:16:25 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/attitude-and-position/</guid>
+      <guid>http://localhost:1313/blog/attitude-and-position/</guid>
       <description>&lt;p&gt;入职接近一个月，经手了一些工作，也有了新的思考。&lt;/p&gt;
 &lt;p&gt;这些思考里面，我觉得最重要的一点是心态的问题。我之前曾经在很多地方实习过，做过诉讼也做过非诉，对于日常工作基本上是有一定了解的。因此来到公司，并没有很多不适应，很快就进入角色，忙碌但有收获。但慢慢的我也发现了问题，例如我有点畏惧和陌生的同事沟通，如果是需要我和陌生同事协调某个重要的事情，尤其是对方职级比我高不少时，我会不太敢去沟通。&lt;/p&gt;
 &lt;p&gt;我思考了下为什么会这样。可能是因为之前都是实习生的身份，对于律师、合伙人，我的意见更多是辅助和参考，而不用我自己出主意、给意见。现在我是公司的一名正式法务，那我的意见和主意就代表这个问题上法务部门的态度和意见。对于具体的工作来说，即使对方职级比我高很多，但因为我们在同一个项目代表着不同部门出具意见，我们其实就是平等的。对于这个项目来说，不会因为对方职级比我高很多就代表他/她的意见更为重要，而我需要做的是摆正心态、拿出专业度，去处理好经手的每一个项目。&lt;/p&gt;
@@ -89,10 +89,10 @@
     
     <item>
       <title>求职小记</title>
-      <link>https://blog.tonyz.one/blog/stories-of-jobs/</link>
+      <link>http://localhost:1313/blog/stories-of-jobs/</link>
       <pubDate>Sun, 03 Nov 2019 08:30:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/stories-of-jobs/</guid>
+      <guid>http://localhost:1313/blog/stories-of-jobs/</guid>
       <description>&lt;p&gt;从回国至今，已经四月有余，终于收到了合适的offer，不用再在失眠的夜里怀疑自己今年能不能找到一份满意的工作，这种感觉挺好。不过今夜又失眠了，各种各样的情绪在心里反复。趁这个失眠的夜晚，写一写今年求职的经历和感受，博君一乐。&lt;/p&gt;
 &lt;h2 id=&#34;只想去律所阶段&#34;&gt;只想去律所阶段&lt;/h2&gt;
 &lt;p&gt;从大学到研究生，除了在法院就是在律所实习，因为我根本没想过去公司，觉得只有做律师才能体现出我的价值，才能做我想做的事情，所以这个阶段求职的思路就是只投律所。什么红圈所、外资所、精品所，或者大所、名所，能想到的律所我基本上都投了一圈，也收到了一些所的回复，或者是笔试/面试邀请，让我印象比较深刻的是下面一些经历：&lt;/p&gt;
@@ -122,10 +122,10 @@
     
     <item>
       <title>诊所教育与我的成长</title>
-      <link>https://blog.tonyz.one/blog/legal-clinic-and-my-experience/</link>
+      <link>http://localhost:1313/blog/legal-clinic-and-my-experience/</link>
       <pubDate>Thu, 07 Mar 2019 14:20:57 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/legal-clinic-and-my-experience/</guid>
+      <guid>http://localhost:1313/blog/legal-clinic-and-my-experience/</guid>
       <description>&lt;p&gt;新的一期法律诊所又开课了，受李老师邀请，与小朋友们分享了一下我参加法律诊所的心得体会，也算是对我这几年法律诊所经历的回顾和总结。&lt;/p&gt;
 &lt;p&gt;可以说，法律诊所让我在扬大的学习生活有了很多有趣的目标，也帮助我成功从扬大走了出来，让我不断向前走，认识更多优秀的人，因此很感谢这段经历。&lt;/p&gt;
 &lt;h2 id=&#34;一引子&#34;&gt;一、引子&lt;/h2&gt;
@@ -151,10 +151,10 @@
     
     <item>
       <title>微信取证指南</title>
-      <link>https://blog.tonyz.one/blog/evidences-for-wechat/</link>
+      <link>http://localhost:1313/blog/evidences-for-wechat/</link>
       <pubDate>Mon, 15 Oct 2018 00:50:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/evidences-for-wechat/</guid>
+      <guid>http://localhost:1313/blog/evidences-for-wechat/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;本文转载自 &lt;a href=&#34;https://sspai.com/post/46220&#34;&gt;给每个人的微信取证指南，这件事不是截个图那么简单-少数派&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -247,10 +247,10 @@
     
     <item>
       <title>法律尽职调查导航</title>
-      <link>https://blog.tonyz.one/blog/legal-due-diligence/</link>
+      <link>http://localhost:1313/blog/legal-due-diligence/</link>
       <pubDate>Sat, 15 Jul 2017 20:40:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/legal-due-diligence/</guid>
+      <guid>http://localhost:1313/blog/legal-due-diligence/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.loli.net/2018/10/14/5bc25984457b0.jpg&#34; alt=&#34;rawpixel-645294-unsplash.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;法律尽职调查是作为一名律师，尤其是非诉律师的必备技能。更为高效地进行尽职调查，是每一个非诉律师不断追求的目标。笔者对工作中常用的信息检索网站进行了整理，利用有限的网络知识，制作了一个专门网站作为法律尽职调查导航站。&lt;/p&gt;
 &lt;p&gt;在设计和建立该站的过程中，笔者尽可能用简单直观的页面设计突出导航站的主题。此外，为了方便大家在工作中访问和使用本站，笔者选了“dd.legal”这样一个域名。“dd”是尽职调查英文“due diligence”的缩写，“legal”则是法律的英文，所以即使没有将网站保存为书签，也可以很快访问网站。&lt;/p&gt;
@@ -262,10 +262,10 @@
     
     <item>
       <title>慈善组织财产能否用于投资？</title>
-      <link>https://blog.tonyz.one/blog/questions-about-the-charitable-fund/</link>
+      <link>http://localhost:1313/blog/questions-about-the-charitable-fund/</link>
       <pubDate>Sat, 01 Apr 2017 20:30:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/questions-about-the-charitable-fund/</guid>
+      <guid>http://localhost:1313/blog/questions-about-the-charitable-fund/</guid>
       <description>&lt;p&gt;实践中，一些企业为了获得资源、开拓市场，常常会与基金会、红十字会等等慈善组织合作，合作通常是以捐赠资金、捐赠实物的方式进行，而慈善组织有时会希望将这些资金、实物进行投资，从而盘活慈善资金，为更多人提供帮助。因此，这些慈善组织会面临一个显而易见的法律问题，即慈善组织财产能否用于投资？&lt;/p&gt;
 &lt;p&gt;针对此问题，笔者查阅了相关法律法规，研究了类似的案例，做了以下粗浅的分析：&lt;/p&gt;
 &lt;ol&gt;
@@ -285,10 +285,10 @@
     
     <item>
       <title>美国总统讲话－2016年全国家庭暴力宣传月</title>
-      <link>https://blog.tonyz.one/blog/presidential-proclamation-about-anti-doemstic-violence/</link>
+      <link>http://localhost:1313/blog/presidential-proclamation-about-anti-doemstic-violence/</link>
       <pubDate>Sun, 30 Oct 2016 20:50:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/presidential-proclamation-about-anti-doemstic-violence/</guid>
+      <guid>http://localhost:1313/blog/presidential-proclamation-about-anti-doemstic-violence/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;之前也试着翻译过一些法律方面的文章，但终究不够得体，停了笔。这一次正好看到一篇美国总统奥巴马关于反家暴的讲话，觉得文章不长，且用词不难，可以尝试翻译一下，于是就花了两天的时间，翻译出下面的这篇文章。&lt;/p&gt;
 &lt;p&gt;可能看上去还是比较粗糙的，毕竟我了解自己的英文水平。但很多事情开头最难，昨天在诊所成员的请求下帮忙翻译了一段奥巴马关于反家暴的公益短片，虽然过程有些困难，但结果还是很不错的。做这样那样的事情，让自己变得更好，这种感觉不错。&lt;/p&gt;
@@ -322,10 +322,10 @@
     
     <item>
       <title>法律与医学的奇妙结合</title>
-      <link>https://blog.tonyz.one/blog/the-fantastic-links-of-law-and-medicine/</link>
+      <link>http://localhost:1313/blog/the-fantastic-links-of-law-and-medicine/</link>
       <pubDate>Thu, 20 Oct 2016 00:30:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/the-fantastic-links-of-law-and-medicine/</guid>
+      <guid>http://localhost:1313/blog/the-fantastic-links-of-law-and-medicine/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;暑假里和 &lt;strong&gt;ElvisJcy&lt;/strong&gt; 关于法学和医学有过一段谈话，聊了一些在法学领域模糊的医学问题，也对这几年愈演愈烈的“医患纠纷”交流了看法。总的来说，这场谈话我受益颇多，但苦于之前一直没有时间整理下谈话的内容（其实之前整理过一个谈话的大纲，结果被我用做草稿纸了）。今天复习的状态似乎到了临界点，所以就顺其自然地写一写这场让我颇有收获的谈话吧。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -355,10 +355,10 @@
     
     <item>
       <title>网银里的钱去哪儿了？</title>
-      <link>https://blog.tonyz.one/blog/where-is-my-money/</link>
+      <link>http://localhost:1313/blog/where-is-my-money/</link>
       <pubDate>Tue, 06 Sep 2016 00:55:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/where-is-my-money/</guid>
+      <guid>http://localhost:1313/blog/where-is-my-money/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.loli.net/2018/10/14/5bc2947a9376d.jpg&#34; alt=&#34;online-bank&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;最近电信诈骗案件的报道常见于报端，细细读来这些案件的报道，笔者发现一些案件纯粹是出于受害人的警惕性过低，而有些案件则是犯罪分子利用了某些银行的网银系统的缺陷，让受害人防不胜防。今天笔者将为大家分析下面一起案例。&lt;/p&gt;
@@ -391,10 +391,10 @@
     
     <item>
       <title>电信诈骗及常外校园污染事件后续</title>
-      <link>https://blog.tonyz.one/blog/telephone-defraud-and-oillution/</link>
+      <link>http://localhost:1313/blog/telephone-defraud-and-oillution/</link>
       <pubDate>Sun, 28 Aug 2016 00:30:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/telephone-defraud-and-oillution/</guid>
+      <guid>http://localhost:1313/blog/telephone-defraud-and-oillution/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;这两天网络上热议的是一名山东的大学生被电信诈骗后，因伤心至极不幸去世的话题。今晚相关部门宣布已经抓获三名涉案犯罪嫌疑人，并发布了A级通缉令追逃剩余的三名涉案犯罪嫌疑人，足以见得对这个案件的重视。我对各家新闻网站评论区对这些犯罪嫌疑人喊打喊杀的言论已经毫无意外，类似的热点事件出现后，勇于争先的键盘侠比比皆是，而真正思考案件背后的问题，并继续关注后续发展的人少之又少。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -428,10 +428,10 @@
     
     <item>
       <title>试析王宝强离婚后子女抚养权问题</title>
-      <link>https://blog.tonyz.one/blog/some-mor-law-problems-in-mr-wang-case/</link>
+      <link>http://localhost:1313/blog/some-mor-law-problems-in-mr-wang-case/</link>
       <pubDate>Wed, 24 Aug 2016 00:30:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/some-mor-law-problems-in-mr-wang-case/</guid>
+      <guid>http://localhost:1313/blog/some-mor-law-problems-in-mr-wang-case/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;随着舆论的降温，王宝强离婚案逐渐淡出人们的视野，但作为法律人，借着热点事件普法的热情暂时还未削减，所以今天聊一聊离婚后子女抚养权的问题。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -449,10 +449,10 @@
     
     <item>
       <title>试分析王宝强离婚事件中的几个法律问题</title>
-      <link>https://blog.tonyz.one/blog/some-law-problems-in-mr-wang-case/</link>
+      <link>http://localhost:1313/blog/some-law-problems-in-mr-wang-case/</link>
       <pubDate>Thu, 18 Aug 2016 00:50:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/some-law-problems-in-mr-wang-case/</guid>
+      <guid>http://localhost:1313/blog/some-law-problems-in-mr-wang-case/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;近日来，王宝强与其妻马蓉离婚纠纷成为媒体关注的焦点。王宝强一直以好丈夫、好父亲的形象出现在世人面前，其妻马蓉与其经纪人宋磊发生不正当男女关系导致婚姻破裂让众多网友更加心疼王宝强。随着事情的发展，曝出其妻马蓉转移夫妻共同财产，并以侵犯名誉权起诉王宝强。正好我之前因法律诊所接触了比较多的家事法律方面的知识，故对这次事件的几个法律问题稍作分析。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -467,10 +467,10 @@
     
     <item>
       <title>不该建的学校</title>
-      <link>https://blog.tonyz.one/blog/the-school-shouldnt-build/</link>
+      <link>http://localhost:1313/blog/the-school-shouldnt-build/</link>
       <pubDate>Wed, 20 Apr 2016 00:50:00 +0800</pubDate>
       
-      <guid>https://blog.tonyz.one/blog/the-school-shouldnt-build/</guid>
+      <guid>http://localhost:1313/blog/the-school-shouldnt-build/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;昨日，央视新闻频道对常州外国语中学新校址邻近原化工厂受污染土地，四百余名师生接连患病进行了深入报道。结合央视报道和澎拜新闻报道以及知乎上网友的评论，我得出产生如下几个疑问：&lt;/p&gt;
 &lt;/blockquote&gt;
