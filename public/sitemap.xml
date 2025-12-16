@@ -2,443 +2,446 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://blog.tonyz.one/blog/ai-and-law/</loc>
+    <lastmod>2025-12-15T21:27:33+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.tonyz.one/blog/</loc>
+    <lastmod>2025-12-15T21:27:33+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.tonyz.one/tags/</loc>
+    <lastmod>2025-12-15T21:27:33+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.tonyz.one/</loc>
+    <lastmod>2025-12-15T21:27:33+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.tonyz.one/tags/%E8%A7%82%E7%82%B9/</loc>
+    <lastmod>2025-12-15T21:27:33+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.tonyz.one/tags/%E7%97%B4%E8%AF%AD/</loc>
     <lastmod>2025-10-08T13:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.tonyz.one/blog/holiday-keynotes/</loc>
     <lastmod>2025-10-08T13:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-08T13:50:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E7%97%B4%E8%AF%AD/</loc>
-    <lastmod>2025-10-08T13:50:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/holiday-keynotes/</loc>
-    <lastmod>2025-10-08T13:50:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/2nd-anniversary/</loc>
+    <loc>https://blog.tonyz.one/blog/2nd-anniversary/</loc>
     <lastmod>2025-05-22T13:50:15+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/losing-the-habit-of-thinking/</loc>
+    <loc>https://blog.tonyz.one/blog/losing-the-habit-of-thinking/</loc>
     <lastmod>2025-04-23T14:11:34+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%B3%95%E8%A8%80/</loc>
+    <loc>https://blog.tonyz.one/tags/%E6%B3%95%E8%A8%80/</loc>
     <lastmod>2024-08-07T15:50:35+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/shu-ju-he-gui-xin-wen-san-ze/</loc>
+    <loc>https://blog.tonyz.one/blog/shu-ju-he-gui-xin-wen-san-ze/</loc>
     <lastmod>2024-08-07T15:50:35+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/yi-nian-de-yi-ban-you-guo-qu-liao/</loc>
+    <loc>https://blog.tonyz.one/blog/yi-nian-de-yi-ban-you-guo-qu-liao/</loc>
     <lastmod>2024-06-30T11:39:14+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E8%A7%82%E7%82%B9/</loc>
+    <loc>https://blog.tonyz.one/blog/lu-shi-he-fa-wu/</loc>
     <lastmod>2024-04-13T15:19:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/lu-shi-he-fa-wu/</loc>
-    <lastmod>2024-04-13T15:19:08+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/new-year/</loc>
+    <loc>https://blog.tonyz.one/blog/new-year/</loc>
     <lastmod>2024-03-17T13:10:27+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-rencent-target/</loc>
+    <loc>https://blog.tonyz.one/blog/the-rencent-target/</loc>
     <lastmod>2023-12-21T15:58:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/memory-of-renting/</loc>
+    <loc>https://blog.tonyz.one/blog/memory-of-renting/</loc>
     <lastmod>2023-12-02T14:32:48+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-regulations-about-cbdt/</loc>
+    <loc>https://blog.tonyz.one/blog/the-regulations-about-cbdt/</loc>
     <lastmod>2023-09-28T14:25:09+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/university-life/</loc>
+    <loc>https://blog.tonyz.one/blog/university-life/</loc>
     <lastmod>2023-08-21T12:53:12+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/new-knowledges-about-life/</loc>
+    <loc>https://blog.tonyz.one/blog/new-knowledges-about-life/</loc>
     <lastmod>2023-07-23T14:25:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/covid-and-daily-life/</loc>
+    <loc>https://blog.tonyz.one/blog/covid-and-daily-life/</loc>
     <lastmod>2022-08-20T14:52:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/days-at-home-under-covid-19/</loc>
+    <loc>https://blog.tonyz.one/blog/days-at-home-under-covid-19/</loc>
     <lastmod>2022-04-03T09:29:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/business-trip/</loc>
+    <loc>https://blog.tonyz.one/blog/business-trip/</loc>
     <lastmod>2021-10-31T03:12:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/days/</loc>
+    <loc>https://blog.tonyz.one/blog/days/</loc>
     <lastmod>2021-09-25T07:57:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/iteration/</loc>
+    <loc>https://blog.tonyz.one/blog/iteration/</loc>
     <lastmod>2021-04-19T15:46:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/last-day/</loc>
+    <loc>https://blog.tonyz.one/blog/last-day/</loc>
     <lastmod>2021-03-01T03:15:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/how-to-think/</loc>
+    <loc>https://blog.tonyz.one/blog/how-to-think/</loc>
     <lastmod>2020-09-26T06:28:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/san-shi-qian-ye/</loc>
+    <loc>https://blog.tonyz.one/blog/san-shi-qian-ye/</loc>
     <lastmod>2020-08-23T14:44:22+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/few-questions-about-the-junior-legal-counsel/</loc>
+    <loc>https://blog.tonyz.one/blog/few-questions-about-the-junior-legal-counsel/</loc>
     <lastmod>2020-06-06T09:15:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-first-half-year/</loc>
+    <loc>https://blog.tonyz.one/blog/the-first-half-year/</loc>
     <lastmod>2020-04-25T08:35:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/thoughts-about-growth/</loc>
+    <loc>https://blog.tonyz.one/blog/thoughts-about-growth/</loc>
     <lastmod>2020-03-01T13:30:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/a-train-to-new-year/</loc>
+    <loc>https://blog.tonyz.one/blog/a-train-to-new-year/</loc>
     <lastmod>2019-12-31T04:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/attitude-and-position/</loc>
+    <loc>https://blog.tonyz.one/blog/attitude-and-position/</loc>
     <lastmod>2019-11-24T14:16:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/stories-of-jobs/</loc>
+    <loc>https://blog.tonyz.one/blog/stories-of-jobs/</loc>
     <lastmod>2019-11-03T08:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/one-year-with-lv-yan/</loc>
+    <loc>https://blog.tonyz.one/blog/one-year-with-lv-yan/</loc>
     <lastmod>2019-07-12T11:53:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/first-visit-to-jfk-library/</loc>
+    <loc>https://blog.tonyz.one/blog/first-visit-to-jfk-library/</loc>
     <lastmod>2019-05-26T00:20:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%B8%B8%E8%B5%B0/</loc>
+    <loc>https://blog.tonyz.one/tags/%E6%B8%B8%E8%B5%B0/</loc>
     <lastmod>2019-05-26T00:20:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/management-of-targets/</loc>
+    <loc>https://blog.tonyz.one/blog/management-of-targets/</loc>
     <lastmod>2019-05-22T02:40:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/abilities-of-study-again/</loc>
+    <loc>https://blog.tonyz.one/blog/abilities-of-study-again/</loc>
     <lastmod>2019-04-08T22:08:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-memorial-day/</loc>
+    <loc>https://blog.tonyz.one/blog/the-memorial-day/</loc>
     <lastmod>2019-03-31T23:55:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/legal-clinic-and-my-experience/</loc>
+    <loc>https://blog.tonyz.one/blog/legal-clinic-and-my-experience/</loc>
     <lastmod>2019-03-07T14:20:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/memory-about-valentines-day/</loc>
+    <loc>https://blog.tonyz.one/blog/memory-about-valentines-day/</loc>
     <lastmod>2019-02-14T04:01:36+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/walk-in-ny/</loc>
+    <loc>https://blog.tonyz.one/blog/walk-in-ny/</loc>
     <lastmod>2019-01-28T05:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%9E%81%E5%AE%A2/</loc>
+    <loc>https://blog.tonyz.one/tags/%E6%9E%81%E5%AE%A2/</loc>
     <lastmod>2019-01-20T02:26:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/new-comments-system/</loc>
+    <loc>https://blog.tonyz.one/blog/new-comments-system/</loc>
     <lastmod>2019-01-20T02:26:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/first-week-of-new-term/</loc>
+    <loc>https://blog.tonyz.one/blog/first-week-of-new-term/</loc>
     <lastmod>2019-01-19T05:46:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/new-year-2019/</loc>
+    <loc>https://blog.tonyz.one/blog/new-year-2019/</loc>
     <lastmod>2019-01-01T17:00:39+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/merry-christmas/</loc>
+    <loc>https://blog.tonyz.one/blog/merry-christmas/</loc>
     <lastmod>2018-12-26T03:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/time-time/</loc>
+    <loc>https://blog.tonyz.one/blog/time-time/</loc>
     <lastmod>2018-11-28T20:51:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/got-surface/</loc>
+    <loc>https://blog.tonyz.one/blog/got-surface/</loc>
     <lastmod>2018-11-24T21:16:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/new-start/</loc>
+    <loc>https://blog.tonyz.one/blog/new-start/</loc>
     <lastmod>2018-11-15T19:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/what-do-i-want/</loc>
+    <loc>https://blog.tonyz.one/blog/what-do-i-want/</loc>
     <lastmod>2018-11-01T19:09:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/intel-nuc/</loc>
+    <loc>https://blog.tonyz.one/blog/intel-nuc/</loc>
     <lastmod>2018-10-26T15:08:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/one-point-in-the-fog/</loc>
+    <loc>https://blog.tonyz.one/blog/one-point-in-the-fog/</loc>
     <lastmod>2018-10-20T18:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E4%B9%A6%E6%A9%B1/</loc>
+    <loc>https://blog.tonyz.one/tags/%E4%B9%A6%E6%A9%B1/</loc>
     <lastmod>2018-10-20T18:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/sutiable-attitude/</loc>
+    <loc>https://blog.tonyz.one/blog/sutiable-attitude/</loc>
     <lastmod>2018-10-18T16:17:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/evidences-for-wechat/</loc>
+    <loc>https://blog.tonyz.one/blog/evidences-for-wechat/</loc>
     <lastmod>2018-10-15T00:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/measurement-for-the-suits/</loc>
+    <loc>https://blog.tonyz.one/blog/measurement-for-the-suits/</loc>
     <lastmod>2018-10-14T19:06:48+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/when-i-understand/</loc>
+    <loc>https://blog.tonyz.one/blog/when-i-understand/</loc>
     <lastmod>2018-10-12T02:19:03+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/how-to-install-ghost-blog/</loc>
+    <loc>https://blog.tonyz.one/blog/how-to-install-ghost-blog/</loc>
     <lastmod>2018-10-11T00:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/temporary/</loc>
+    <loc>https://blog.tonyz.one/blog/temporary/</loc>
     <lastmod>2018-10-10T23:01:56+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/summer-at-xueze-road/</loc>
+    <loc>https://blog.tonyz.one/blog/summer-at-xueze-road/</loc>
     <lastmod>2018-07-31T03:06:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/dongji-island/</loc>
+    <loc>https://blog.tonyz.one/blog/dongji-island/</loc>
     <lastmod>2018-06-21T02:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/uncomfortable-life/</loc>
+    <loc>https://blog.tonyz.one/blog/uncomfortable-life/</loc>
     <lastmod>2018-05-07T03:21:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/destination-zero/</loc>
+    <loc>https://blog.tonyz.one/blog/destination-zero/</loc>
     <lastmod>2018-04-09T03:20:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/booklist/</loc>
+    <loc>https://blog.tonyz.one/booklist/</loc>
     <lastmod>2018-04-07T14:18:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/sth-when-i-am-sick/</loc>
+    <loc>https://blog.tonyz.one/blog/sth-when-i-am-sick/</loc>
     <lastmod>2018-01-07T04:20:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/reviews-of-cafe-in-nanjing/</loc>
+    <loc>https://blog.tonyz.one/blog/reviews-of-cafe-in-nanjing/</loc>
     <lastmod>2017-12-24T06:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/blank/</loc>
+    <loc>https://blog.tonyz.one/blog/blank/</loc>
     <lastmod>2017-12-20T04:27:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/roller-coaster/</loc>
+    <loc>https://blog.tonyz.one/blog/roller-coaster/</loc>
     <lastmod>2017-12-12T04:28:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/two-months/</loc>
+    <loc>https://blog.tonyz.one/blog/two-months/</loc>
     <lastmod>2017-11-30T04:28:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-story-about-mirgraiton-of-website/</loc>
+    <loc>https://blog.tonyz.one/blog/the-story-about-mirgraiton-of-website/</loc>
     <lastmod>2017-07-26T18:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/abilities-of-study/</loc>
+    <loc>https://blog.tonyz.one/blog/abilities-of-study/</loc>
     <lastmod>2017-07-20T03:26:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/legal-due-diligence/</loc>
+    <loc>https://blog.tonyz.one/blog/legal-due-diligence/</loc>
     <lastmod>2017-07-15T20:40:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/reading-marriage-duty/</loc>
+    <loc>https://blog.tonyz.one/blog/reading-marriage-duty/</loc>
     <lastmod>2017-07-12T03:29:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/thinking-of-the-comfort-zone/</loc>
+    <loc>https://blog.tonyz.one/blog/thinking-of-the-comfort-zone/</loc>
     <lastmod>2017-06-12T04:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/something-about-loneliness/</loc>
+    <loc>https://blog.tonyz.one/blog/something-about-loneliness/</loc>
     <lastmod>2017-06-04T13:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/retrun-and-a-new-beginning/</loc>
+    <loc>https://blog.tonyz.one/blog/retrun-and-a-new-beginning/</loc>
     <lastmod>2017-05-21T13:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/late-or-early-summary-of-the-week/</loc>
+    <loc>https://blog.tonyz.one/blog/late-or-early-summary-of-the-week/</loc>
     <lastmod>2017-05-12T01:06:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/for-dream/</loc>
+    <loc>https://blog.tonyz.one/blog/for-dream/</loc>
     <lastmod>2017-05-04T01:08:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/so-sad/</loc>
+    <loc>https://blog.tonyz.one/blog/so-sad/</loc>
     <lastmod>2017-04-16T01:09:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-name-of-the-people/</loc>
+    <loc>https://blog.tonyz.one/blog/the-name-of-the-people/</loc>
     <lastmod>2017-04-08T04:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/questions-about-the-charitable-fund/</loc>
+    <loc>https://blog.tonyz.one/blog/questions-about-the-charitable-fund/</loc>
     <lastmod>2017-04-01T20:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/phone-crash/</loc>
+    <loc>https://blog.tonyz.one/blog/phone-crash/</loc>
     <lastmod>2017-04-01T01:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/who-care/</loc>
+    <loc>https://blog.tonyz.one/blog/who-care/</loc>
     <lastmod>2017-03-19T01:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/north-to-cao-fang/</loc>
+    <loc>https://blog.tonyz.one/blog/north-to-cao-fang/</loc>
     <lastmod>2017-03-06T02:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/surface-book/</loc>
+    <loc>https://blog.tonyz.one/blog/surface-book/</loc>
     <lastmod>2017-02-25T19:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/papers-fiction-and-drama/</loc>
+    <loc>https://blog.tonyz.one/blog/papers-fiction-and-drama/</loc>
     <lastmod>2017-02-20T02:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/perhaps-and-perhaps/</loc>
+    <loc>https://blog.tonyz.one/blog/perhaps-and-perhaps/</loc>
     <lastmod>2017-02-13T02:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/with-wind-for-dream/</loc>
+    <loc>https://blog.tonyz.one/blog/with-wind-for-dream/</loc>
     <lastmod>2017-01-30T02:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/new-life/</loc>
+    <loc>https://blog.tonyz.one/blog/new-life/</loc>
     <lastmod>2017-01-09T02:18:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/happy-new-year-2017/</loc>
+    <loc>https://blog.tonyz.one/blog/happy-new-year-2017/</loc>
     <lastmod>2017-01-02T02:20:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/above-the-clouds/</loc>
+    <loc>https://blog.tonyz.one/blog/above-the-clouds/</loc>
     <lastmod>2017-01-02T02:19:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/beijing-and-haze/</loc>
+    <loc>https://blog.tonyz.one/blog/beijing-and-haze/</loc>
     <lastmod>2016-12-23T02:21:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-trouble-of-criminal-lawyer/</loc>
+    <loc>https://blog.tonyz.one/blog/the-trouble-of-criminal-lawyer/</loc>
     <lastmod>2016-12-14T19:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/a-little-cat/</loc>
+    <loc>https://blog.tonyz.one/blog/a-little-cat/</loc>
     <lastmod>2016-12-10T02:22:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/just-for-happy/</loc>
+    <loc>https://blog.tonyz.one/blog/just-for-happy/</loc>
     <lastmod>2016-12-08T02:23:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/no-title/</loc>
+    <loc>https://blog.tonyz.one/blog/no-title/</loc>
     <lastmod>2016-12-02T02:20:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/serious-snow/</loc>
+    <loc>https://blog.tonyz.one/blog/serious-snow/</loc>
     <lastmod>2016-11-24T02:25:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/what-should-i-write/</loc>
+    <loc>https://blog.tonyz.one/blog/what-should-i-write/</loc>
     <lastmod>2016-11-20T02:26:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/we-witness-to-history/</loc>
+    <loc>https://blog.tonyz.one/blog/we-witness-to-history/</loc>
     <lastmod>2016-11-10T19:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/equation/</loc>
+    <loc>https://blog.tonyz.one/blog/equation/</loc>
     <lastmod>2016-11-07T02:28:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/presidential-proclamation-about-anti-doemstic-violence/</loc>
+    <loc>https://blog.tonyz.one/blog/presidential-proclamation-about-anti-doemstic-violence/</loc>
     <lastmod>2016-10-30T20:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-fantastic-links-of-law-and-medicine/</loc>
+    <loc>https://blog.tonyz.one/blog/the-fantastic-links-of-law-and-medicine/</loc>
     <lastmod>2016-10-20T00:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/something-about-law-clinic/</loc>
+    <loc>https://blog.tonyz.one/blog/something-about-law-clinic/</loc>
     <lastmod>2016-10-13T01:29:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/anonymous/</loc>
+    <loc>https://blog.tonyz.one/blog/anonymous/</loc>
     <lastmod>2016-10-08T01:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/inns-of-court-and-law-faith/</loc>
+    <loc>https://blog.tonyz.one/blog/inns-of-court-and-law-faith/</loc>
     <lastmod>2016-10-05T05:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/moment/</loc>
+    <loc>https://blog.tonyz.one/blog/moment/</loc>
     <lastmod>2016-10-05T01:32:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/old-bailey/</loc>
+    <loc>https://blog.tonyz.one/blog/old-bailey/</loc>
     <lastmod>2016-10-03T05:03:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/niene-men/</loc>
+    <loc>https://blog.tonyz.one/blog/niene-men/</loc>
     <lastmod>2016-10-01T17:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/thoughts-about-criminal-lawyer/</loc>
+    <loc>https://blog.tonyz.one/blog/thoughts-about-criminal-lawyer/</loc>
     <lastmod>2016-09-30T17:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/farewell-scalia/</loc>
+    <loc>https://blog.tonyz.one/blog/farewell-scalia/</loc>
     <lastmod>2016-09-28T04:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/thoughts-after-bar-exam/</loc>
+    <loc>https://blog.tonyz.one/blog/thoughts-after-bar-exam/</loc>
     <lastmod>2016-09-28T01:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/rencent-thoughts/</loc>
+    <loc>https://blog.tonyz.one/blog/rencent-thoughts/</loc>
     <lastmod>2016-09-14T01:39:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tongzhong-forver/</loc>
+    <loc>https://blog.tonyz.one/blog/tongzhong-forver/</loc>
     <lastmod>2016-09-10T05:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/where-is-my-money/</loc>
+    <loc>https://blog.tonyz.one/blog/where-is-my-money/</loc>
     <lastmod>2016-09-06T00:55:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/happy-new-smester/</loc>
+    <loc>https://blog.tonyz.one/blog/happy-new-smester/</loc>
     <lastmod>2016-09-04T01:37:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/eye-sick/</loc>
+    <loc>https://blog.tonyz.one/blog/eye-sick/</loc>
     <lastmod>2016-08-28T01:37:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/telephone-defraud-and-oillution/</loc>
+    <loc>https://blog.tonyz.one/blog/telephone-defraud-and-oillution/</loc>
     <lastmod>2016-08-28T00:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/some-mor-law-problems-in-mr-wang-case/</loc>
+    <loc>https://blog.tonyz.one/blog/some-mor-law-problems-in-mr-wang-case/</loc>
     <lastmod>2016-08-24T00:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/jason-bourne/</loc>
+    <loc>https://blog.tonyz.one/blog/jason-bourne/</loc>
     <lastmod>2016-08-23T06:02:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E5%A8%B1%E8%AE%BA/</loc>
+    <loc>https://blog.tonyz.one/tags/%E5%A8%B1%E8%AE%BA/</loc>
     <lastmod>2016-08-23T06:02:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/some-law-problems-in-mr-wang-case/</loc>
+    <loc>https://blog.tonyz.one/blog/some-law-problems-in-mr-wang-case/</loc>
     <lastmod>2016-08-18T00:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/bandwagon-vps/</loc>
+    <loc>https://blog.tonyz.one/blog/bandwagon-vps/</loc>
     <lastmod>2016-08-01T22:15:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/life-is-life/</loc>
+    <loc>https://blog.tonyz.one/blog/life-is-life/</loc>
     <lastmod>2016-07-24T01:32:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/under-the-badge/</loc>
+    <loc>https://blog.tonyz.one/blog/under-the-badge/</loc>
     <lastmod>2016-06-05T01:35:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/lun-gao-xiao-jia-chang-shi-guan-li/</loc>
+    <loc>https://blog.tonyz.one/blog/lun-gao-xiao-jia-chang-shi-guan-li/</loc>
     <lastmod>2016-05-19T04:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/exhilarant/</loc>
+    <loc>https://blog.tonyz.one/blog/exhilarant/</loc>
     <lastmod>2016-04-24T04:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-school-shouldnt-build/</loc>
+    <loc>https://blog.tonyz.one/blog/the-school-shouldnt-build/</loc>
     <lastmod>2016-04-20T00:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-sullivan-case-and-the-first-amendment/</loc>
+    <loc>https://blog.tonyz.one/blog/the-sullivan-case-and-the-first-amendment/</loc>
     <lastmod>2016-04-19T17:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/batman-v-s-superman/</loc>
+    <loc>https://blog.tonyz.one/blog/batman-v-s-superman/</loc>
     <lastmod>2016-03-26T06:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/nightmare-in-paris/</loc>
+    <loc>https://blog.tonyz.one/blog/nightmare-in-paris/</loc>
     <lastmod>2016-03-22T04:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/do-not-delay/</loc>
+    <loc>https://blog.tonyz.one/blog/do-not-delay/</loc>
     <lastmod>2016-03-22T01:16:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/harmful-vaccinum/</loc>
+    <loc>https://blog.tonyz.one/blog/harmful-vaccinum/</loc>
     <lastmod>2016-03-19T01:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/un-and-mrs-wang/</loc>
+    <loc>https://blog.tonyz.one/blog/un-and-mrs-wang/</loc>
     <lastmod>2016-03-17T01:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-old-capital-nanjing/</loc>
+    <loc>https://blog.tonyz.one/blog/the-old-capital-nanjing/</loc>
     <lastmod>2016-03-16T00:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/why-should-we-morning-jog/</loc>
+    <loc>https://blog.tonyz.one/blog/why-should-we-morning-jog/</loc>
     <lastmod>2016-03-09T01:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/thirty-daysdesperation/</loc>
+    <loc>https://blog.tonyz.one/blog/thirty-daysdesperation/</loc>
     <lastmod>2016-03-07T01:40:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/folk-scientists/</loc>
+    <loc>https://blog.tonyz.one/blog/folk-scientists/</loc>
     <lastmod>2016-02-25T01:37:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/generals/</loc>
+    <loc>https://blog.tonyz.one/blog/generals/</loc>
     <lastmod>2014-01-05T01:35:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/curde/</loc>
+    <loc>https://blog.tonyz.one/blog/curde/</loc>
     <lastmod>2013-12-06T01:32:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/wandering-on-nantong-xi-lu/</loc>
+    <loc>https://blog.tonyz.one/blog/wandering-on-nantong-xi-lu/</loc>
     <lastmod>2013-10-27T00:28:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/chaos-in-egypt/</loc>
+    <loc>https://blog.tonyz.one/blog/chaos-in-egypt/</loc>
     <lastmod>2013-08-20T00:22:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/confusion-of-red-lights/</loc>
+    <loc>https://blog.tonyz.one/blog/confusion-of-red-lights/</loc>
     <lastmod>2013-08-13T00:20:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/not-an-excuse/</loc>
+    <loc>https://blog.tonyz.one/blog/not-an-excuse/</loc>
     <lastmod>2013-08-12T00:18:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/a-narrow-strait/</loc>
+    <loc>https://blog.tonyz.one/blog/a-narrow-strait/</loc>
     <lastmod>2013-07-30T23:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://blog.tonyz.one/about/</loc>
     <lastmod>2013-01-02T22:33:56+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://blog.tonyz.one/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>https://blog.tonyz.one/archive/</loc>
   </url>
 </urlset>
